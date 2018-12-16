@@ -127,12 +127,12 @@
             },
             {
                 "id": "13",
-                "name": "Nether Swamp",
-                "desc": "Make two characters switch places. One of the characters can be you.",
-                "special": "Sets Nether Swap for 1 turn(s).",
+                "name": "",
+                "desc": "",
+                "special": "",
                 "cost": "# Memory",
-                "cool": "3",
-                "req": "Aerotheurge 2"
+                "cool": "",
+                "req": ""
             },
             {
                 "id": "14",

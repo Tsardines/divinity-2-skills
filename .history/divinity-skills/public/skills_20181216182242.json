@@ -110,29 +110,26 @@
                 "desc": "Control the forces of nature so the wind is literally at your party's back. An aura increases you allies' movement speeds while they stay close to you.",
                 "special": "Sets Favourable Winds Aura for 4 turn(s).",
                 "cost": "1 Memory",
-                "cool": "6",
-                "req": "Aerotheurge 1"
+                "cool": "",
+                "req": ""
             },
             {
                 "id": "12",
-                "name": "Mass Breathing Bubbles",
-                "desc": "Set Breathing Bubbles on allies around you, allowing them to ignore effects of cloud surfaces and making them immune to Suffocation and Silence.",
-                "special": "Sets Mass Breathing Bubbles for 5 turn(s).",
-                "cost": "2 Memory",
-                "cool": "5",
-                "req":  { 
-                    "aero": "Aerotheurge 2", 
-                    "war": "Warfare 2" 
-                }
+                "name": "",
+                "desc": "",
+                "special": "",
+                "cost": "# Memory",
+                "cool": "",
+                "req": ""
             },
             {
                 "id": "13",
-                "name": "Nether Swamp",
-                "desc": "Make two characters switch places. One of the characters can be you.",
-                "special": "Sets Nether Swap for 1 turn(s).",
+                "name": "",
+                "desc": "",
+                "special": "",
                 "cost": "# Memory",
-                "cool": "3",
-                "req": "Aerotheurge 2"
+                "cool": "",
+                "req": ""
             },
             {
                 "id": "14",
