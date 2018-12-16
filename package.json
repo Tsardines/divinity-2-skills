@@ -1,0 +1,19 @@
+{
+  "name": "divinity-2-skills",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tsardines/divinity-2-skills.git"
+  },
+  "author": "haley sulcer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tsardines/divinity-2-skills/issues"
+  },
+  "homepage": "https://github.com/Tsardines/divinity-2-skills#readme"
+}
