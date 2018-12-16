@@ -1,4 +1,4 @@
-# divinity-2-skills
+# Divinity 2 Skill Search
 This is a minimalistic skill guide for Divinity Original Sin 2.
 
 ## **Format**
