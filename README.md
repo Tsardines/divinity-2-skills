@@ -18,7 +18,7 @@ This is a minimalistic skill guide for Divinity Original Sin 2.
 - **Aerotheurge**
 - *Favourable Wind*
 - "Control the forces of nature so the wind is literally at your party's back. An aura increases you allies' movement speeds while they stay close to you."
-- "Sets Favourable Winsd Aura for 4 turn(s)."
+- "Sets Favourable Winds Aura for 4 turn(s)."
 - Cost: 1 Memory slot
 - Cooldown: 6 turns
 - Requirement: Aerotheurge 1
