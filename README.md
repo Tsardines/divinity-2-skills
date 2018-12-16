@@ -22,4 +22,4 @@ This is a minimalistic skill guide for Divinity Original Sin 2.
 - Cost: 1 Memory slot
 - Cooldown: 6 turns
 - Requirement: Aerotheurge 1
-- 
+
