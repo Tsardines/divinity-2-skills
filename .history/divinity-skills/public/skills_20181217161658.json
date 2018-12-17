@@ -312,81 +312,75 @@
             },
             {
                 "id": "6",
-                "name": "Earthquake",
-                "desc": "Deals [X] Earth Damage and Knockdown enemy characters and items around you. Creates 8 random oil surfaces within the area.",
-                "special": "Set Knocked Down for 1 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
-                "cost": "1 Memory",
-                "cool": "5",
-                "req": "Geomancer 2"
+                "name": "",
+                "desc": "",
+                "special": "",
+                "cost": "# Memory",
+                "cool": "",
+                "req": ""
             },
             {
                 "id": "7",
-                "name": "Fortify",
-                "desc": "Provides [X] Physical Armour. While Fortified, the target cannot be teleported. Removes Poisoned, Bleeding, Burning, Acid, Decaying.",
-                "special": "Set Fortified for 3 turn(s).",
-                "cost": "1 Memory",
-                "cool": "4",
-                "req": "Geomancer 1"
+                "name": "",
+                "desc": "",
+                "special": "",
+                "cost": "# Memory",
+                "cool": "",
+                "req": ""
             },
             {
                 "id": "8",
-                "name": "Fossil Strike",
-                "desc": "A giant rock with sticky oil that deals [X] Earth Damage. Creates an oil surface where it lands.",
-                "special": "Damage is bases on your level and receives bonus from your Intelligence.",
-                "cost": "#1 Memory",
-                "cool": "3",
-                "req": "Geomancer 1"
+                "name": "",
+                "desc": "",
+                "special": "",
+                "cost": "# Memory",
+                "cool": "",
+                "req": ""
             },
             {
                 "id": "9",
-                "name": "Impalement",
-                "desc": "Spikes impale all characters and items, setting Crippled and dealing [X] Earth Damage. Also creates an oil puddle.",
-                "special": "Set Crippled for 1 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
-                "cost": "1 Memory",
-                "cool": "4",
-                "req": "Geomancer 2"
+                "name": "",
+                "desc": "",
+                "special": "",
+                "cost": "# Memory",
+                "cool": "",
+                "req": ""
             },
             {
                 "id": "10",
-                "name": "Living Wall",
-                "desc": "Vines sprout from the ground to block the path in the target area, emitting poison clouds around them.",
-                "special": null,
-                "cost": "1 Memory",
-                "cool": "5",
-                "req": "Geomancer 3"
+                "name": "",
+                "desc": "",
+                "special": "",
+                "cost": "# Memory",
+                "cool": "",
+                "req": ""
             },
             {
                 "id": "11",
-                "name": "Mass Oily Carapace",
-                "desc": "Each ally consumes oil surfaces around them, converting the oil surfaces to Physical Armour physical. Removed Slowed.",
-                "special": "Restore up to 34 Physical Armour, depending on relevant surface area.",
-                "cost": "2 Memory",
-                "cool": "5",
-                "req":  { 
-                    "geo": "Geomancer 2", 
-                    "war": "Warfare 2" 
-                }
+                "name": "",
+                "desc": "",
+                "special": "",
+                "cost": "# Memory",
+                "cool": "",
+                "req": ""
             },
             {
                 "id": "12",
-                "name": "Mend Metal",
-                "desc": "Allies near you start slowly regenerating Physical Armour.",
-                "special": "Restore [X] Physical Armour for 3 turn(s).",
-                "cost": "1 Memory",
-                "cool": "3",
-                "req": "Geomancer 2"
+                "name": "",
+                "desc": "",
+                "special": "",
+                "cost": "# Memory",
+                "cool": "",
+                "req": ""
             },
             {
                 "id": "13",
-                "name": "Oily Carapace",
-                "desc": "Consume oil surfaces around you and convert them to Physical Armour. Removes Slowed.",
-                "special": "Restore up to 34 Physical Armour, depending on relevant surface area.",
-                "cost": "1 Memory",
-                "cool": "3",
-                "req":  { 
-                    "geo": "Geomancer 1", 
-                    "war": "Warfare 1" 
-                }
+                "name": "",
+                "desc": "",
+                "special": "",
+                "cost": "# Memory",
+                "cool": "",
+                "req": ""
             },
             {
                 "id": "14",

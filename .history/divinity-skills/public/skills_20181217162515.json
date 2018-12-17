@@ -378,15 +378,12 @@
             },
             {
                 "id": "13",
-                "name": "Oily Carapace",
-                "desc": "Consume oil surfaces around you and convert them to Physical Armour. Removes Slowed.",
-                "special": "Restore up to 34 Physical Armour, depending on relevant surface area.",
-                "cost": "1 Memory",
-                "cool": "3",
-                "req":  { 
-                    "geo": "Geomancer 1", 
-                    "war": "Warfare 1" 
-                }
+                "name": "",
+                "desc": "",
+                "special": "",
+                "cost": "# Memory",
+                "cool": "",
+                "req": ""
             },
             {
                 "id": "14",

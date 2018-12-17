@@ -357,36 +357,30 @@
             },
             {
                 "id": "11",
-                "name": "Mass Oily Carapace",
-                "desc": "Each ally consumes oil surfaces around them, converting the oil surfaces to Physical Armour physical. Removed Slowed.",
-                "special": "Restore up to 34 Physical Armour, depending on relevant surface area.",
-                "cost": "2 Memory",
-                "cool": "5",
-                "req":  { 
-                    "geo": "Geomancer 2", 
-                    "war": "Warfare 2" 
-                }
+                "name": "",
+                "desc": "",
+                "special": "",
+                "cost": "# Memory",
+                "cool": "",
+                "req": ""
             },
             {
                 "id": "12",
-                "name": "Mend Metal",
-                "desc": "Allies near you start slowly regenerating Physical Armour.",
-                "special": "Restore [X] Physical Armour for 3 turn(s).",
-                "cost": "1 Memory",
-                "cool": "3",
-                "req": "Geomancer 2"
+                "name": "",
+                "desc": "",
+                "special": "",
+                "cost": "# Memory",
+                "cool": "",
+                "req": ""
             },
             {
                 "id": "13",
-                "name": "Oily Carapace",
-                "desc": "Consume oil surfaces around you and convert them to Physical Armour. Removes Slowed.",
-                "special": "Restore up to 34 Physical Armour, depending on relevant surface area.",
-                "cost": "1 Memory",
-                "cool": "3",
-                "req":  { 
-                    "geo": "Geomancer 1", 
-                    "war": "Warfare 1" 
-                }
+                "name": "",
+                "desc": "",
+                "special": "",
+                "cost": "# Memory",
+                "cool": "",
+                "req": ""
             },
             {
                 "id": "14",
