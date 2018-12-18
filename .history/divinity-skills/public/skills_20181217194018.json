@@ -251,7 +251,8 @@
 
 {
     "category": {
-        "school": "Geomancer",
+        "school": "Geomancer"
+    },
 
         "skills": [
 
@@ -491,12 +492,12 @@
             },
             {
                 "id": "24",
-                "name": "Worm Tremor",
-                "desc": "Deals [X] Earth Damage to each character in the area. At your command, poisonous worms slither up from the earth, attaching to every character in the area who is not protected by Magical Armour . Affected characters cannot move or teleport, and they receive [X] Poison Damage each turn.",
-                "special": "Set Entangled for 2 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
-                "cost": "1 Memory",
-                "cool": "5",
-                "req": "Geomancer 2"
+                "name": "",
+                "desc": "",
+                "special": "",
+                "cost": "# Memory",
+                "cool": "",
+                "req": ""
             }
         }
     ]
@@ -507,148 +508,146 @@
 
 {
     "category": {
-        "school": "Huntsman",
+        "school": "Huntsman"
+    },
 
-        "skills": [
+        {
+            "id": "1",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "2",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "3",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "4",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "5",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "6",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "7",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "8",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "9",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "10",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "11",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "12",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "13",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "14",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "15",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+    },
 
-            {
-                "id": "1",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "2",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "3",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "4",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "5",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "6",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "7",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "8",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "9",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "10",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "11",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "12",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "13",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "14",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "15",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            }
-        }
-    ]
-}
 
 
 {

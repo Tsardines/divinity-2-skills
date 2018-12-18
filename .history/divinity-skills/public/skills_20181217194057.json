@@ -251,7 +251,8 @@
 
 {
     "category": {
-        "school": "Geomancer",
+        "school": "Geomancer"
+    },
 
         "skills": [
 
@@ -507,148 +508,146 @@
 
 {
     "category": {
-        "school": "Huntsman",
+        "school": "Huntsman"
+    },
 
-        "skills": [
+        {
+            "id": "1",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "2",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "3",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "4",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "5",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "6",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "7",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "8",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "9",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "10",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "11",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "12",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "13",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "14",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+        {
+            "id": "15",
+            "name": "",
+            "desc": "",
+            "special": "",
+            "cost": "# Memory",
+            "cool": "",
+            "req": ""
+        },
+    },
 
-            {
-                "id": "1",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "2",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "3",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "4",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "5",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "6",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "7",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "8",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "9",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "10",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "11",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "12",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "13",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "14",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            },
-            {
-                "id": "15",
-                "name": "",
-                "desc": "",
-                "special": "",
-                "cost": "# Memory",
-                "cool": "",
-                "req": ""
-            }
-        }
-    ]
-}
 
 
 {
