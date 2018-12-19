@@ -563,7 +563,7 @@
                 "special": null,
                 "cost": "1 Memory",
                 "cool": "4",
-                "req": "Huntsman 1"
+                "req": "Hunts 1"
             },
             {
                 "id": "7",
@@ -571,80 +571,80 @@
                 "desc": "Increase the range of a targeted character's ranged attacks and skills by 4m.",
                 "special": "Set Farsight for 3 Turn(s).",
                 "cost": "2 Memory",
-                "cool": "3",
-                "req": "Huntsman 3"
+                "cool": "Hunts 3",
+                "req": "3"
             },
             {
                 "id": "8",
-                "name": "First Aid",
-                "desc": "Heals target for [X] Vitality. Cures Crippled, Atrophy, Knocked Down, Blind, Silenced, Bleeding, Burning, Poisoned, and Diseased.",
-                "special": "Restore [X] Vitality. Set Rested for 1 turn(s).",
-                "cost": "1 Memory",
-                "cool": "1",
-                "req": "Huntsman 1"
+                "name": "",
+                "desc": "",
+                "special": "",
+                "cost": "# Memory",
+                "cool": "",
+                "req": ""
             },
             {
                 "id": "9",
-                "name": "Glitter Dust",
-                "desc": "Target is marked, reducing its ability to dodge. Prevents target from going invisible.",
-                "special": "Set Marked for 3 turn(s).",
-                "cost": "1 Memory",
-                "cool": "3",
-                "req": "Huntsman 3"
+                "name": "",
+                "desc": "",
+                "special": "",
+                "cost": "# Memory",
+                "cool": "",
+                "req": ""
             },
             {
                 "id": "10",
-                "name": "Marksman's Fang",
-                "desc": "Shoot an arrow that goes straight through enemies. Each enemy that's hit takes 100% damage, ignoring armour.",
-                "special": "Damage is based on your basic attack and receives a bonus from Finesse.",
-                "cost": "1 Memory",
-                "cool": "2",
-                "req": "Huntsman 2"
+                "name": "",
+                "desc": "",
+                "special": "",
+                "cost": "# Memory",
+                "cool": "",
+                "req": ""
             },
             {
                 "id": "11",
-                "name": "Pin Down",
-                "desc": "Deals 120% damage and Cripples target character.",
-                "special": "Set Crippled for 1 turn(s). Damage is based on your basic attack and receives a bonus from Finesse.",
-                "cost": "1 Memory",
-                "cool": "3",
-                "req": "Huntsman 1"
+                "name": "",
+                "desc": "",
+                "special": "",
+                "cost": "# Memory",
+                "cool": "",
+                "req": ""
             },
             {
                 "id": "12",
-                "name": "Reactive Shot",
-                "desc": "Target a circular area. Until your next turn, you will reflexively shoot at the first three enemies moving within this area.",
-                "special": "Set Reactive Shot for 1 Turn(s).",
-                "cost": "1 Memory",
-                "cool": "2",
-                "req": "Huntsman 2"
+                "name": "",
+                "desc": "",
+                "special": "",
+                "cost": "# Memory",
+                "cool": "",
+                "req": ""
             },
             {
                 "id": "13",
-                "name": "Ricochet",
-                "desc": "Fire a normal arrow that deals 90% damage and then finds another target within 5m. Forks up to 2 times.",
-                "special": "Damage is based on your basic attack and receives a bonus from Finesse.",
-                "cost": "1 Memory",
-                "cool": "4",
-                "req": "Huntsman 1"
+                "name": "",
+                "desc": "",
+                "special": "",
+                "cost": "# Memory",
+                "cool": "",
+                "req": ""
             },
             {
                 "id": "14",
-                "name": "Sky Shot",
-                "desc": "Leap into the air before shooting, gaining damage bonuses for your superior height. Deals 100% Damage.",
-                "special": "This skill receives high ground bonuses regardless of elevation. Damage is based on your basic attack and receives a bonus from Finesse.",
-                "cost": "1 Memory",
-                "cool": "2",
-                "req": "Huntsman 1"
+                "name": "",
+                "desc": "",
+                "special": "",
+                "cost": "# Memory",
+                "cool": "",
+                "req": ""
             },
             {
                 "id": "15",
-                "name": "Tactical Retreat",
-                "desc": "Apply haste to yourself, then teleport away from imminent danger.",
-                "special": "Set Hasted for 1 Turn(s)",
-                "cost": "1 Memory",
-                "cool": "4",
-                "req": "Huntsman 2"
+                "name": "",
+                "desc": "",
+                "special": "",
+                "cost": "# Memory",
+                "cool": "",
+                "req": ""
             }
         }
     ]

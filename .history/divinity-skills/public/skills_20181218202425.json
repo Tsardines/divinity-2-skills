@@ -563,7 +563,7 @@
                 "special": null,
                 "cost": "1 Memory",
                 "cool": "4",
-                "req": "Huntsman 1"
+                "req": "Hunts 1"
             },
             {
                 "id": "7",
@@ -572,7 +572,7 @@
                 "special": "Set Farsight for 3 Turn(s).",
                 "cost": "2 Memory",
                 "cool": "3",
-                "req": "Huntsman 3"
+                "req": "Hunts 3"
             },
             {
                 "id": "8",
@@ -581,7 +581,7 @@
                 "special": "Restore [X] Vitality. Set Rested for 1 turn(s).",
                 "cost": "1 Memory",
                 "cool": "1",
-                "req": "Huntsman 1"
+                "req": "Hunts 1"
             },
             {
                 "id": "9",
@@ -590,7 +590,7 @@
                 "special": "Set Marked for 3 turn(s).",
                 "cost": "1 Memory",
                 "cool": "3",
-                "req": "Huntsman 3"
+                "req": "Hunts 3"
             },
             {
                 "id": "10",
@@ -599,7 +599,7 @@
                 "special": "Damage is based on your basic attack and receives a bonus from Finesse.",
                 "cost": "1 Memory",
                 "cool": "2",
-                "req": "Huntsman 2"
+                "req": "Hunts 2"
             },
             {
                 "id": "11",
@@ -608,7 +608,7 @@
                 "special": "Set Crippled for 1 turn(s). Damage is based on your basic attack and receives a bonus from Finesse.",
                 "cost": "1 Memory",
                 "cool": "3",
-                "req": "Huntsman 1"
+                "req": "Hunts 1"
             },
             {
                 "id": "12",
@@ -617,7 +617,7 @@
                 "special": "Set Reactive Shot for 1 Turn(s).",
                 "cost": "1 Memory",
                 "cool": "2",
-                "req": "Huntsman 2"
+                "req": "Hunts 2"
             },
             {
                 "id": "13",
@@ -626,7 +626,7 @@
                 "special": "Damage is based on your basic attack and receives a bonus from Finesse.",
                 "cost": "1 Memory",
                 "cool": "4",
-                "req": "Huntsman 1"
+                "req": "Hunts 1"
             },
             {
                 "id": "14",
@@ -635,7 +635,7 @@
                 "special": "This skill receives high ground bonuses regardless of elevation. Damage is based on your basic attack and receives a bonus from Finesse.",
                 "cost": "1 Memory",
                 "cool": "2",
-                "req": "Huntsman 1"
+                "req": "Hunts 1"
             },
             {
                 "id": "15",
@@ -644,7 +644,7 @@
                 "special": "Set Hasted for 1 Turn(s)",
                 "cost": "1 Memory",
                 "cool": "4",
-                "req": "Huntsman 2"
+                "req": "Hunts 2"
             }
         }
     ]
