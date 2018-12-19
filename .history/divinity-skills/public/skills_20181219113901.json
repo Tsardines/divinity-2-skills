@@ -689,7 +689,7 @@
             },
             {
                 "id": "4",
-                "name": "Cryogenic Stasis",
+                "name": "Cyrogenic Stasis",
                 "desc": "Target ally enters Cryogenic Stasis. Though incapacitated, they become immune to all damage, and heal over time. Removes Shackles Of Pain.",
                 "special": "Set Permafrost for 1 Turn(s).",
                 "cost": "# Memory",
@@ -698,15 +698,12 @@
             },
             {
                 "id": "5",
-                "name": "Cryotherapy",
-                "desc": "Consume Frozen surfaces around you and convert them to Magic Armour. Removes Burning and Necrofire.",
-                "special": "Restore up to 34 Magic Armour depending on relevant surface area.",
-                "cost": "1 Memory",
-                "cool": "3",
-                "req":  { 
-                    "hyd": "Hyd 1", 
-                    "hunt": "Huntsman 1" 
-                }
+                "name": "",
+                "desc": "",
+                "special": "",
+                "cost": "# Memory",
+                "cool": "",
+                "req": "Hyd "
             },
             {
                 "id": "6",
