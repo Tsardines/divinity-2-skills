@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Tsardines/divinity-2-skills/issues"
   },
-  "homepage": "https://github.com/Tsardines/divinity-2-skills#readme"
+  "homepage": "https://github.com/Tsardines/divinity-2-skills#readme",
+  "dependencies": {
+    "react-router-dom": "^4.3.1"
+  }
 }
