@@ -11,10 +11,6 @@ const Header = () => {
         <div className="nav-links">
 
             <div className="link">
-                <NavLink to="/">Home&emsp;</NavLink>
-            </div>
-
-            <div className="link">
                 <NavLink to="/aerotheurge">Aerotheurge&emsp;</NavLink>
             </div>
 
@@ -32,6 +28,10 @@ const Header = () => {
             
             <div className="link">
                 <NavLink to="/necromancer">Necromancer&emsp;</NavLink>
+            </div>
+
+            <div className="link">
+                <NavLink to="/">Home&emsp;</NavLink>
             </div>
             
             <div className="link">
