@@ -1,4 +1,4 @@
-let skillsArr = [
+[
 
 {
     "category": "Aerotheurge",
@@ -652,1676 +652,1678 @@ let skillsArr = [
     ]
 }
 
-] // skillsArr
 
 
-// {
-//     "category": {
-//         "school": "Hydrosophist",
 
-//         "skills": [
+  {
+      "category": {
+          "school": "Hydrosophist",
 
-//             {
-//                 "id": "1",
-//                 "name": "Arcane Stitch",
-//                 "desc": "Fully restore target character's Magic Armour. Removes Frozen, Stunned, Petrified, Plague, Suffocating, Poisoned, Burning, Necrofire, Terrified, Silenced, Taunted, Mad.",
-//                 "special": "Restore [X] Magic Armour.",
-//                 "cost": "2 Memory",
-//                 "cool": "4",
-//                 "req": "Hyd 3"
-//             },
-//             {
-//                 "id": "2",
-//                 "name": "Armour of Frost",
-//                 "desc": "Ice forms a defensive barrier around the target, providing [X] Magical Armour magic_armour-icon. Cures Burning, Poisoned, Stunned, Frozen, Suffocating and Petrified.",
-//                 "special": "Set Magic Shell for 3 turn(s).",
-//                 "cost": "1 Memory",
-//                 "cool": "4",
-//                 "req": "Hyd 1"
-//             },
-//             {
-//                 "id": "3",
-//                 "name": "Cleanse Wounds",
-//                 "desc": "Heal target and create a water puddle beneath them. Remove Burning, Diseased, Decaying Touch, Poisoned and Bleeding.",
-//                 "special": "Restore [X] Vitality",
-//                 "cost": "1 Memory",
-//                 "cool": "5",
-//                 "req":  { 
-//                     "hyd": "Hyd 1", 
-//                     "war": "Warfare 1" 
-//                 }
-//             },
-//             {
-//                 "id": "4",
-//                 "name": "Cryogenic Stasis",
-//                 "desc": "Target ally enters Cryogenic Stasis. Though incapacitated, they become immune to all damage, and heal over time. Removes Shackles Of Pain.",
-//                 "special": "Set Permafrost for 1 Turn(s).",
-//                 "cost": "# Memory",
-//                 "cool": "4",
-//                 "req": "Hyd 2"
-//             },
-//             {
-//                 "id": "5",
-//                 "name": "Cryotherapy",
-//                 "desc": "Consume Frozen surfaces around you and convert them to Magic Armour. Removes Burning and Necrofire.",
-//                 "special": "Restore up to 34 Magic Armour depending on relevant surface area.",
-//                 "cost": "1 Memory",
-//                 "cool": "3",
-//                 "req":  { 
-//                     "hyd": "Hyd 1", 
-//                     "hunt": "Huntsman 1" 
-//                 }
-//             },
-//             {
-//                 "id": "6",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": "Hyd "
-//             },
-//             {
-//                 "id": "7",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": "Hyd "
-//             },
-//             {
-//                 "id": "8",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": "Hyd "
-//             },
-//             {
-//                 "id": "9",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": "Hyd "
-//             },
-//             {
-//                 "id": "10",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": "Hyd "
-//             },
-//             {
-//                 "id": "11",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": "Hyd "
-//             },
-//             {
-//                 "id": "12",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": "Hyd "
-//             },
-//             {
-//                 "id": "13",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": "Hyd "
-//             },
-//             {
-//                 "id": "14",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": "Hyd "
-//             },
-//             {
-//                 "id": "15",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": "Hyd "
-//             },
-//             {
-//                 "id": "16",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": "Hyd "
-//             },
-//             {
-//                 "id": "17",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": "Hyd "
-//             },
-//             {
-//                 "id": "18",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": "Hyd "
-//             },
-//             {
-//                 "id": "19",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": "Hyd "
-//             },
-//             {
-//                 "id": "20",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": "Hyd "
-//             },
-//             {
-//                 "id": "21",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": "Hyd "
-//             },
-//             {
-//                 "id": "22",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": "Hyd "
-//             }
-//         }
-//     ]
-// }
+          "skills": [
+
+              {
+                  "id": "1",
+                  "name": "Arcane Stitch",
+                  "desc": "Fully restore target character's Magic Armour. Removes Frozen, Stunned, Petrified, Plague, Suffocating, Poisoned, Burning, Necrofire, Terrified, Silenced, Taunted, Mad.",
+                  "special": "Restore [X] Magic Armour.",
+                  "cost": "2 Memory",
+                  "cool": "4",
+                  "req": "Hyd 3"
+              },
+              {
+                  "id": "2",
+                  "name": "Armour of Frost",
+                  "desc": "Ice forms a defensive barrier around the target, providing [X] Magical Armour magic_armour-icon. Cures Burning, Poisoned, Stunned, Frozen, Suffocating and Petrified.",
+                  "special": "Set Magic Shell for 3 turn(s).",
+                  "cost": "1 Memory",
+                  "cool": "4",
+                  "req": "Hyd 1"
+              },
+              {
+                  "id": "3",
+                  "name": "Cleanse Wounds",
+                  "desc": "Heal target and create a water puddle beneath them. Remove Burning, Diseased, Decaying Touch, Poisoned and Bleeding.",
+                  "special": "Restore [X] Vitality",
+                  "cost": "1 Memory",
+                  "cool": "5",
+                  "req":  { 
+                      "hyd": "Hyd 1", 
+                      "war": "Warfare 1" 
+                  }
+              },
+              {
+                  "id": "4",
+                  "name": "Cryogenic Stasis",
+                  "desc": "Target ally enters Cryogenic Stasis. Though incapacitated, they become immune to all damage, and heal over time. Removes Shackles Of Pain.",
+                  "special": "Set Permafrost for 1 Turn(s).",
+                  "cost": "# Memory",
+                  "cool": "4",
+                  "req": "Hyd 2"
+              },
+              {
+                  "id": "5",
+                  "name": "Cryotherapy",
+                  "desc": "Consume Frozen surfaces around you and convert them to Magic Armour. Removes Burning and Necrofire.",
+                  "special": "Restore up to 34 Magic Armour depending on relevant surface area.",
+                  "cost": "1 Memory",
+                  "cool": "3",
+                  "req":  { 
+                      "hyd": "Hyd 1", 
+                      "hunt": "Huntsman 1" 
+                  }
+              },
+              {
+                  "id": "6",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": "Hyd "
+              },
+              {
+                  "id": "7",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": "Hyd "
+              },
+              {
+                  "id": "8",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": "Hyd "
+              },
+              {
+                  "id": "9",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": "Hyd "
+              },
+              {
+                  "id": "10",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": "Hyd "
+              },
+              {
+                  "id": "11",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": "Hyd "
+              },
+              {
+                  "id": "12",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": "Hyd "
+              },
+              {
+                  "id": "13",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": "Hyd "
+              },
+              {
+                  "id": "14",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": "Hyd "
+              },
+              {
+                  "id": "15",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": "Hyd "
+              },
+              {
+                  "id": "16",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": "Hyd "
+              },
+              {
+                  "id": "17",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": "Hyd "
+              },
+              {
+                  "id": "18",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": "Hyd "
+              },
+              {
+                  "id": "19",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": "Hyd "
+              },
+              {
+                  "id": "20",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": "Hyd "
+              },
+              {
+                  "id": "21",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": "Hyd "
+              },
+              {
+                  "id": "22",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": "Hyd "
+              }
+          }
+      ]
+  }
     
 
                         
-// {
-//     "category": {
-//         "school": "Necromancer"
-//     },
+  {
+      "category": {
+          "school": "Necromancer"
+      },
 
-//         {
-//             "id": "1",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "2",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "3",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "4",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "5",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "6",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "7",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "8",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "9",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "10",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "11",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "12",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "13",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "14",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "15",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "16",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "17",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },  
-//     },  
-
-
-
-// {
-//     "category": {
-//         "school": "Polymorph"
-//     },
-
-//         {
-//             "id": "1",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "2",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "3",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "4",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "5",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "6",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "7",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "8",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "9",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "10",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "11",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "12",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "13",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "14",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "15",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "16",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "17",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "18",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "19",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "20",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "21",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },   
-//     },        
-// {
-//     "category": {
-//         "school": "Pyrokinetic"
-//     },
-
-//         {
-//             "id": "1",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "2",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "3",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "4",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "5",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "6",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "7",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "8",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "9",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "10",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "11",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "12",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "13",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "14",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "15",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "16",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "17",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "18",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "19",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "20",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "21",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "22",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "23",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "24",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//     },
+          {
+              "id": "1",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "2",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "3",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "4",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "5",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "6",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "7",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "8",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "9",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "10",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "11",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "12",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "13",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "14",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "15",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "16",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "17",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },  
+      },  
 
 
 
+  {
+      "category": {
+          "school": "Polymorph"
+      },
 
-// {
-//     "category": {
-//         "school": "Scoundrel"
-//     },
+          {
+              "id": "1",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "2",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "3",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "4",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "5",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "6",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "7",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "8",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "9",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "10",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "11",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "12",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "13",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "14",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "15",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "16",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "17",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "18",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "19",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "20",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "21",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },   
+      },        
+  {
+      "category": {
+          "school": "Pyrokinetic"
+      },
 
-//         {
-//             "id": "1",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "2",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "3",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "4",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "5",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "6",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "7",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "8",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "9",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "10",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "11",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "12",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "13",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "14",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "15",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//     },
+          {
+              "id": "1",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "2",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "3",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "4",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "5",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "6",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "7",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "8",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "9",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "10",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "11",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "12",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "13",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "14",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "15",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "16",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "17",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "18",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "19",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "20",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "21",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "22",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "23",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "24",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+      },
 
 
 
-// {
-//     "category": {
-//         "school": "Sourcery"
-//     },
 
-//         {
-//             "id": "1",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "2",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "3",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "4",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "5",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "6",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "7",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "8",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "9",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "10",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "11",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "12",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "13",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "14",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "15",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "16",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//     },
+  {
+      "category": {
+          "school": "Scoundrel"
+      },
+
+          {
+              "id": "1",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "2",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "3",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "4",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "5",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "6",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "7",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "8",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "9",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "10",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "11",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "12",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "13",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "14",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "15",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+      },
+
+
+
+  {
+      "category": {
+          "school": "Sourcery"
+      },
+
+          {
+              "id": "1",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "2",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "3",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "4",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "5",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "6",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "7",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "8",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "9",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "10",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "11",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "12",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "13",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "14",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "15",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "16",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+      },
 
  
 
-//     {
-//         "category": {
-//             "school": "Special"
-//         },
+      {
+          "category": {
+              "school": "Special"
+          },
     
-//             {
-//                 "id": "1",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": ""
-//             },
-//             {
-//                 "id": "2",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": ""
-//             },
-//             {
-//                 "id": "3",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": ""
-//             },
-//             {
-//                 "id": "4",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": ""
-//             },
-//             {
-//                 "id": "5",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": ""
-//             },
-//             {
-//                 "id": "6",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": ""
-//             },
-//             {
-//                 "id": "7",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": ""
-//             },
-//             {
-//                 "id": "8",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": ""
-//             },
-//             {
-//                 "id": "9",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": ""
-//             },
-//             {
-//                 "id": "10",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": ""
-//             },
-//             {
-//                 "id": "11",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": ""
-//             },
-//             {
-//                 "id": "12",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": ""
-//             },
-//             {
-//                 "id": "13",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": ""
-//             },
-//             {
-//                 "id": "14",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": ""
-//             },
-//             {
-//                 "id": "15",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": ""
-//             },
-//             {
-//                 "id": "16",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": ""
-//             },
-//             {
-//                 "id": "17",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": ""
-//             },
-//             {
-//                 "id": "18",
-//                 "name": "",
-//                 "desc": "",
-//                 "special": "",
-//                 "cost": "# Memory",
-//                 "cool": "",
-//                 "req": ""
-//             },
-//         }
+              {
+                  "id": "1",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "2",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "3",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "4",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "5",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "6",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "7",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "8",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "9",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "10",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "11",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "12",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "13",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "14",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "15",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "16",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "17",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "18",
+                  "name": "",
+                  "desc": "",
+                  "special": "",
+                  "cost": "# Memory",
+                  "cool": "",
+                  "req": ""
+              },
+          }
 
-// {
-//     "category": {
-//         "school": "Summoning"
-//     },
+  {
+      "category": {
+          "school": "Summoning"
+      },
 
-//         {
-//             "id": "1",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "2",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "3",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "4",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "5",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "6",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "7",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "8",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "9",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "10",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "11",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "12",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "13",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "14",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "15",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "16",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "17",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "18",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "19",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "20",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "21",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "22",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "23",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "24",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "25",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "26",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "27",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "28",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//     },
-
-
-
-// {
-//     "category": {
-//         "school": "Warfare"
-//     },
-
-//         {
-//             "id": "1",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "2",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "3",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "4",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "5",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "6",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "7",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "8",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "9",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "10",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "11",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "12",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "13",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "14",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//         {
-//             "id": "15",
-//             "name": "",
-//             "desc": "",
-//             "special": "",
-//             "cost": "# Memory",
-//             "cool": "",
-//             "req": ""
-//         },
-//     }
+          {
+              "id": "1",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "2",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "3",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "4",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "5",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "6",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "7",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "8",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "9",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "10",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "11",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "12",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "13",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "14",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "15",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "16",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "17",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "18",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "19",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "20",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "21",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "22",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "23",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "24",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "25",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "26",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "27",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "28",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+      },
 
 
-// }
+
+  {
+      "category": {
+          "school": "Warfare"
+      },
+
+          {
+              "id": "1",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "2",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "3",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "4",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "5",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "6",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "7",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "8",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "9",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "10",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "11",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "12",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "13",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "14",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "15",
+              "name": "",
+              "desc": "",
+              "special": "",
+              "cost": "# Memory",
+              "cool": "",
+              "req": ""
+          },
+      }
+
+
+  }
+
+]

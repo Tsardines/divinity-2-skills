@@ -5,7 +5,7 @@ import React from 'react';
 const Aero = () => {
   return (
       <div className="aero-wrap">
-        <h1>This is the Aerotheurge Page.</h1>
+        <h1>This is the Aerotheurge Page</h1>
       </div>
   );
 }
