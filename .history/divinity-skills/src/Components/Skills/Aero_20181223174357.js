@@ -16,31 +16,33 @@ class Aero extends Component {
     fetch('https://api.jsonbin.io/b/5c1d4f643f8bd92e4cc0ceef/1')
     .then(res => res.json())
     .then(data => {
-      this.setState({ items: data });
+      this.setState ({ items: data });
     });
   }
+
 
   render() {
 
     const { items } = this.state;
+
     
     return (
-      <div className="Aero">
+      <div className="App">
 
       <span className="lorem"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem iusto dolorum praesentium provident, earum pariatur quae esse fugit numquam in vero eos cum? Qui quia magni veniam. Dolore, autem velit.</p></span>
 
-        { items.map((item, num) => {
+      { items.map((item, num) => {
 
-          return (
+        return (
 
-            <div className="aero-wrap">
+          <div className="aero-wrap">
 
-              <p key={num}>{item.name}</p>
-            
-            </div>
+            <p key={num}>{item.req}</p>
+          
+          </div>
 
-          );
-        })}
+        );
+      })}
       </div>
     );
   }
