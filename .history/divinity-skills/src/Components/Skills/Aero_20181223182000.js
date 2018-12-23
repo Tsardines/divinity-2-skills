@@ -27,6 +27,8 @@ class Aero extends Component {
     return (
       <div className="Aero">
 
+      <span className="lorem"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem iusto dolorum praesentium provident, earum pariatur quae esse fugit numquam in vero eos cum? Qui quia magni veniam. Dolore, autem velit.</p></span>
+
         { items.map((item, num) => {
 
           return (
@@ -37,27 +39,8 @@ class Aero extends Component {
                 <p key={num}>{item.name}</p>
               </div>
 
-              <div className="skill-name">
-                <p key={num}>{item.name}</p>
-              </div>
+            </div>
 
-              <div className="skill-name">
-                <p key={num}>{item.name}</p>
-              </div>
-
-              <div className="skill-name">
-                <p key={num}>{item.name}</p>
-              </div>
-
-              <div className="skill-name">
-                <p key={num}>{item.name}</p>
-              </div>
-
-              <div className="skill-name">
-                <p key={num}>{item.name}</p>
-              </div>
-
-                
           );
         })}
       </div>
