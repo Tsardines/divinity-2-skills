@@ -25,9 +25,12 @@ class Aero extends Component {
 
     const { items } = this.state;
 
-    
     return (
+
       <div className="App">
+
+      <span className="our-people"><h1>Our People</h1></span>
+      <span className="intro"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, ipsa animi ducimus repudiandae facilis totam ipsam tenetur libero recusandae nostrum similique optio, explicabo illo veniam alias.</p></span>
 
       { items.map((item, num) => {
 

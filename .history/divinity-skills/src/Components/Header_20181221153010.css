@@ -1,0 +1,12 @@
+.link {
+    display: inline;
+}
+
+.link a {
+    color: black;
+    text-decoration: none;
+}
+
+.link a:hover {
+    color: blue;
+}

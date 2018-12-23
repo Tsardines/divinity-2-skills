@@ -1,0 +1,8 @@
+.link {
+    display: inline;
+}
+
+.link a {
+    color: black;
+    text-decoration: none;
+}

@@ -13,7 +13,7 @@ class Aero extends Component {
   }
 
   componentWillMount() {
-    fetch('https://api.jsonbin.io/b/5c1d4f643f8bd92e4cc0ceef/1')
+    fetch('https://api.jsonbin.io/b/5c1d4f643f8bd92e4cc0ceef')
     .then(res => res.json())
     .then(data => {
       this.setState ({ items: data });
@@ -25,24 +25,19 @@ class Aero extends Component {
 
     const { items } = this.state;
 
-    
-    return (
-      <div className="App">
-
       { items.map((item, num) => {
 
         return (
 
           <div className="aero-wrap">
 
-            <p key={num}>{item.req}</p>
+            <p key={num}>{item.skills}</p>
           
           </div>
 
         );
       })}
-      </div>
-    );
+    
   }
 }
 

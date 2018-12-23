@@ -26,8 +26,8 @@ class Aero extends Component {
     const { items } = this.state;
 
     
-    return (
-      <div className="App">
+    <div className="App">
+      return (
 
       { items.map((item, num) => {
 

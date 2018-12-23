@@ -26,8 +26,8 @@ class Aero extends Component {
     const { items } = this.state;
 
     
-    return (
-      <div className="App">
+    <div className="App">
+\
 
       { items.map((item, num) => {
 
@@ -42,7 +42,6 @@ class Aero extends Component {
         );
       })}
       </div>
-    );
   }
 }
 
