@@ -54,7 +54,7 @@ class Aero extends Component {
               </div>
 
               {/* <div className="skill-req">
-                <p key={num}>{item.req}[1]</p>
+                <p key={num}>[item.req]</p>
               </div> */}
                 
             </div>
