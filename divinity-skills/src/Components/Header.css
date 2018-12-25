@@ -1,5 +1,6 @@
 .header {
-    margin-top: 3em;
+    background-color: rgb(48, 48, 48);
+    padding: 2em;
 }
 
 .link {
@@ -8,10 +9,11 @@
 }
 
 .link a {
-    color: black;
+    color: white;
     text-decoration: none;
 }
 
 .link a:hover {
-    color: blue;
+    color: pink;
+    font-weight: bold;
 }

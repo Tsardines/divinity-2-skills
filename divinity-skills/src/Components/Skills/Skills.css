@@ -10,9 +10,9 @@
     box-shadow: 0.1em 0.1em gray;
     font-size: 1vw;
     margin: 2em;
-    padding: 1em;
+    padding: 1.75em;
     text-align: left;
-    width: 40%;
+    width: 35%;
 }
 
 .aero-wrap .skill-name {
@@ -20,11 +20,10 @@
     font-weight: bold;
 }
 
-.aero-wrap tr {
-    background-color: orange;
+.aero-wrap th {
+    padding: 1em;
 }
 
-/* .aero-wrap .skill-desc {
-    display: flex;
-    word-wrap: break-word;
-} */
+.aero-wrap .skill-desc {
+    width: 100%;
+}
