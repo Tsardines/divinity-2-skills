@@ -6,16 +6,22 @@
 }
 
 .aero-wrap {
-    background-color: turquoise;
+    background-color: rgb(211, 231, 255);
+    box-shadow: 0.1em 0.1em gray;
     font-size: 1vw;
-    margin-bottom: 2em;
+    margin: 2em;
+    padding: 1em;
+    text-align: left;
     width: 40%;
 }
 
 .aero-wrap .skill-name {
-    background-color: orange;
     font-size: 1.5vw;
     font-weight: bold;
+}
+
+.aero-wrap tr {
+    background-color: orange;
 }
 
 /* .aero-wrap .skill-desc {
