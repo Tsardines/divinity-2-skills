@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-// import './Aero.css';
+import './Skills.css';
 
 class Aero extends Component {
   constructor(props) {
@@ -50,7 +50,7 @@ class Aero extends Component {
               </div>
 
               <div className="skill-cool">
-                <p key={num}>{item.cool}</p>
+                <p key={num}>{item.cool} turns</p>
               </div>
 
               {/* <div className="skill-req">

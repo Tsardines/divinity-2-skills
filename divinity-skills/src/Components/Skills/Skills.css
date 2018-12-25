@@ -1,0 +1,24 @@
+.Aero {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 5em;
+}
+
+.aero-wrap {
+    background-color: turquoise;
+    font-size: 1vw;
+    margin-bottom: 2em;
+    width: 40%;
+}
+
+.aero-wrap .skill-name {
+    background-color: orange;
+    font-size: 1.5vw;
+    font-weight: bold;
+}
+
+/* .aero-wrap .skill-desc {
+    display: flex;
+    word-wrap: break-word;
+} */
