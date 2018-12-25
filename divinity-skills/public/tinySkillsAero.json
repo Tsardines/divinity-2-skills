@@ -145,7 +145,7 @@
         "name": "Shocking Touch",
         "desc": "Stuns nearby enemies and deals [X] air damage.",
         "special": "Sets shocked for 2 turns. Damage is based on skill level and receives a bonus from Intelligence.",
-        "cost": "# Memory1 Memory",
+        "cost": "1 Memory",
         "cool": "3",
         "req": "Aerotheurge 1"
     },
