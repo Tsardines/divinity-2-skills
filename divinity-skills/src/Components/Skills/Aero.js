@@ -13,7 +13,7 @@ class Aero extends Component {
   }
 
   componentWillMount() {
-    fetch('https://api.myjson.com/bins/1fe7g4')
+    fetch('https://api.myjson.com/bins/18ffo4')
     .then(res => res.json())
     .then(data => {
       this.setState({ items: data });
@@ -52,12 +52,16 @@ class Aero extends Component {
                 </div></th>
 
                 <th><div className="skill-cost">
-                  <p key={num}>{item.cost}</p>
+                  <p key={num}>Memory: {item.cost}</p>
                 </div></th>
 
                 <th><div className="skill-cool">
                   <p key={num}>Cooldown: {item.cool} turns</p>
                 </div></th>
+              </tg>
+
+              <tg>
+                <th>[Image]</th>
               </tg>
                 
             </div>
