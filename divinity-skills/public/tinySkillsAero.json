@@ -13,10 +13,7 @@
         "desc": "Conjure a cloud of thick blessed smoke that makes characters invisible.",
         "cost": "2",
         "cool": "5",
-        "req":  { 
-            "aero": "Aerotheurge 2", 
-            "scoun": "Scoundrel 2" 
-        }
+        "req": "Aerotheurge 2, Scoundrel 2" 
     },
     {
         "id": "3",
@@ -32,10 +29,7 @@
         "desc": "Creates a bubble of clean air around your head, allowing you to ignore effects of cloud surfaces. Immune to Suffocation and Silence. Sets Breathing Bubble for 5 turn(s).",
         "cost": "1",
         "cool": "5",
-        "req":  { 
-            "aero": "Aerotheurge 1", 
-            "war": "Warfare 1" 
-        }
+        "req": "Aerotheurge 1, Warfare 1" 
     },
     {
         "id": "5",
@@ -75,10 +69,8 @@
         "desc": "Cause target character to teleport in a random direction each time they are attacked. Increases Air Resistance by 40%. Sets Erratic Wisp for 2 turn(s).",
         "cost": "1",
         "cool": "5",
-        "req":  { 
-            "aero": "Aerotheurge 1", 
-            "hunt": "Huntsman 1" 
-        }
+        "req": "Aerotheurge 1, Huntsman 1" 
+        
     },
     {
         "id": "10",
@@ -86,10 +78,7 @@
         "desc": "Sets Evasive Aura for you and allies around you. Dodging chance is increased by 90% and your Movement Speed is increased by 1m. Sets Erratic Wisp for 1 turn(s).",
         "cost": "2",
         "cool": "5",
-        "req":  { 
-            "aero": "Aerotheurge 2", 
-            "hunt": "Huntsman 2" 
-        }
+        "req": "Aerotheurge 2, Huntsman 2" 
     },
     {
         "id": "11",
@@ -105,10 +94,7 @@
         "desc": "Set Breathing Bubbles on allies around you, allowing them to ignore effects of cloud surfaces and making them immune to Suffocation and Silence. Sets Mass Breathing Bubbles for 5 turn(s).",
         "cost": "2",
         "cool": "5",
-        "req":  { 
-            "aero": "Aerotheurge 2", 
-            "war": "Warfare 2" 
-        }
+        "req": "Aerotheurge 2, Warfare 2"
     },
     {
         "id": "13",
@@ -140,10 +126,7 @@
         "desc": "Create a smoke cloud around you, hiding from sight.",
         "cost": "1",
         "cool": "5",
-        "req":  { 
-            "aero": "Aerotheurge 1", 
-            "scoun": "Scoundrel 1" 
-        }
+        "req": "Aerotheurge 1 Scoundrel 1" 
     },
     {
         "id": "17",
@@ -191,10 +174,7 @@
         "desc": "Deal [X] Air Damage to enemies in the area. Caster receives an aura that sets Silence and Suffocating on enemies. Sets Vacuum Aura for 3 turn(s). Damage is based on your level and receives bonus from Intelligence",
         "cost": "2",
         "cool": "5",
-        "req":  { 
-            "aero": "Aerotheurge 2", 
-            "necr": "Necromancer 2" 
-        }
+        "req": "Aerotheurge 2, Necromancer 2"        
     },
     {
         "id": "23",
@@ -202,10 +182,7 @@
         "desc": "Deal [X] Air Damage. Set Suffocation and Silence on target. Sets Suffocating for 1 turn(s). Sets Silenced for 1 turn(s). Damage is based on your level and receives a bonus from Intelligence.",
         "cost": "1",
         "cool": "5",
-        "req":  { 
-            "aero": "Aerotheurge 1", 
-            "necr": "Necromancer 1" 
-        }
+        "req": "Aerotheurge 1, Necromancer 1" 
     },
     {
         "id": "24",
@@ -213,9 +190,6 @@
         "desc": "Remove Petrified and Frozen from target character. Vaporise ground surfaces into clouds. Does not work on Oil, Ice or Lava surfaces",
         "cost": "1",
         "cool": "4",
-        "req":  { 
-            "aero": "Aerotheurge 1", 
-            "pol": "Polymorph 1" 
-        }
+        "req": "Aerotheurge 1, Polymorph 1" 
     }
 ]
