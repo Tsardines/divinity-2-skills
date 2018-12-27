@@ -13,7 +13,7 @@ class Geo extends Component {
   }
 
   componentWillMount() {
-    fetch('#')
+    fetch('https://api.myjson.com/bins/ewjs4')
     .then(res => res.json())
     .then(data => {
       this.setState({ items: data });
@@ -38,7 +38,7 @@ class Geo extends Component {
 
           return (
 
-            <div className="geo-wrap">
+            <div className="skill-wrap">
 
               <tg>                
                 <th><div className="skill-name">
@@ -54,7 +54,7 @@ class Geo extends Component {
                 </div></th>
 
                 <th><div className="skill-req">
-                  <p key={num}>Requirements: {item.req} turns</p>
+                  <p key={num}>Requirements: {item.req}</p>
                 </div></th>
               </tg>
 
@@ -66,7 +66,7 @@ class Geo extends Component {
 
               <tg>
                 <th><div className="skill-img">
-                  <p key={num}>{item.img}</p>
+                  <p>[Image]</p>
                 </div></th>
               </tg>
                 

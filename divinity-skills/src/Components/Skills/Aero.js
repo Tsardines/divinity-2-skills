@@ -29,7 +29,7 @@ class Aero extends Component {
 
       <div className="wrapper">
 
-        <span className="aero-title"><h1>Aerotheurge</h1></span>
+        <span className="skill-title"><h1>Aerotheurge</h1></span>
 
       <div className="Aero">
 
@@ -38,7 +38,7 @@ class Aero extends Component {
 
           return (
 
-            <div className="aero-wrap">
+            <div className="skill-wrap">
 
               <tg>                
                 <th><div className="skill-name">
@@ -54,7 +54,7 @@ class Aero extends Component {
                 </div></th>
 
                 <th><div className="skill-req">
-                  <p key={num}>Requirements: {item.req} turns</p>
+                  <p key={num}>Requirements: {item.req}</p>
                 </div></th>
               </tg>
 
@@ -66,7 +66,7 @@ class Aero extends Component {
 
               <tg>
                 <th><div className="skill-img">
-                  <p key={num}>{item.img}</p>
+                  <p>[Image]</p>
                 </div></th>
               </tg>
                 
