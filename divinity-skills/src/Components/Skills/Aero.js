@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 
-import SimpleCard from '/Users/haley/Desktop/Code/Projects/divinity-2-skills/divinity-skills/src/Components/Skills/SimpleCard.js';
-
 import './Skills.css';
 
 class Aero extends Component {
@@ -15,7 +13,7 @@ class Aero extends Component {
   }
 
   componentWillMount() {
-    fetch('https://api.myjson.com/bins/1g1ags')
+    fetch('https://api.myjson.com/bins/1fe7g4')
     .then(res => res.json())
     .then(data => {
       this.setState({ items: data });
@@ -23,28 +21,26 @@ class Aero extends Component {
   }
 
 
-    
-
   render() {
 
     const { items } = this.state;
     
     return (
+
+      <div className="wrapper">
+
+      <span className="aero-title"><h1>Aerotheurge</h1></span>
+
       <div className="Aero">
 
-        <SimpleCard />
-
+        
         { items.map((item, num) => {
 
           return (
 
             <div className="aero-wrap">
 
-              <tg>
-                <th><p>Name</p></th>
-                <th><p>Description</p></th>
-                <th><p>Special</p></th>
-              </tg>
+              
 
               <tg>                
                 <th><div className="skill-name">
@@ -55,22 +51,20 @@ class Aero extends Component {
                   <p key={num}>{item.desc}</p>
                 </div></th>
 
-                <th><div className="skill-spec">
-                  <p key={num}>{item.special}</p>
-                </div></th>
-
                 <th><div className="skill-cost">
                   <p key={num}>{item.cost}</p>
                 </div></th>
 
                 <th><div className="skill-cool">
-                  <p key={num}>{item.cool} turns</p>
+                  <p key={num}>Cooldown: {item.cool} turns</p>
                 </div></th>
               </tg>
                 
             </div>
           );
         })}
+        </div>
+
         </div>
     );
   }

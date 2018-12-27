@@ -3,7 +3,7 @@
         "id": "1",
         "name": "Apportation",
         "desc": "Transport pickupable items in the target area into your inventory.",
-        "cost": "1 Memory",
+        "cost": "1",
         "cool": "3",
         "req": "Aerotheurge 2"
     },
@@ -11,7 +11,7 @@
         "id": "2",
         "name": "Blessed Smoke Cloud",
         "desc": "Conjure a cloud of thick blessed smoke that makes characters invisible.",
-        "cost": "2 Memory",
+        "cost": "2",
         "cool": "5",
         "req":  { 
             "aero": "Aerotheurge 2", 
@@ -22,7 +22,7 @@
         "id": "3",
         "name": "Blinding Radiance",
         "desc": "Enemies around you receive [X] air damage. Every enemy withint a 5m radius turns blind. 100% chance to cast an aura for 1 turn.",
-        "cost": "2 AP / 1 Memory",
+        "cost": "1",
         "cool": "4",
         "req": "Aerotheurge 1"
     },
@@ -30,7 +30,7 @@
         "id": "4",
         "name": "Breathing Bubble",
         "desc": "Creates a bubble of clean air around your head, allowing you to ignore effects of cloud surfaces. Immune to Suffocation and Silence. Sets Breathing Bubble for 5 turn(s).",
-        "cost": "1 Memory",
+        "cost": "1",
         "cool": "5",
         "req":  { 
             "aero": "Aerotheurge 1", 
@@ -41,7 +41,7 @@
         "id": "5",
         "name": "Chain Lightning",
         "desc": "Shoot a stunning bolt of lightning that forks up to 8 times in a 8m radius and deals [X] Air Damage to each target. Sets Shocked for 2 turn(s). Damage is based on your level and receives a bonus from Intelligence",
-        "cost": "2 Memory",
+        "cost": "2",
         "cool": "5 turns",
         "req": "Aerotheurge 3"
     },
@@ -49,7 +49,7 @@
         "id": "6",
         "name": "Closed Circuit",
         "desc": "Deals [X] Air Damage to enemies around you; then creates cursed static clouds on the edges of the spell Sets Air Immunity for 1 turn(s). Sets Shocked for 2 turn(s). Damage is based on your level and receives a bonus from Intelligence",
-        "cost": "2 Memory",
+        "cost": "2",
         "cool": "4",
         "req": "Aerotheurge 3"
     },
@@ -57,7 +57,7 @@
         "id": "7",
         "name": "Dazing Bolt",
         "desc": "An electrical bolt falls from the sky, dealing [X] Air Damage to characters and items in the area, and setting Shocked status. Sets Shocked for 1 turn(s). Damage is based on your level and receives a bonus from Intelligence.",
-        "cost": "1 Memory",
+        "cost": "1",
         "cool": "3",
         "req": "Aerotheurge 2"
     },
@@ -65,7 +65,7 @@
         "id": "8",
         "name": "Electric Discharge",
         "desc": "An electrical jolt deals air damage to target character. Sets status Shocked. Sets shocked for 2 turns. Damage is based on skill level and receives a bonus from Intelligence.",
-        "cost": "1 Memory slot",
+        "cost": "1 slot",
         "cool": "3 turns",
         "req": "Aerotheurge 1"
     },
@@ -73,7 +73,7 @@
         "id": "9",
         "name": "Erratic Wisp",
         "desc": "Cause target character to teleport in a random direction each time they are attacked. Increases Air Resistance by 40%. Sets Erratic Wisp for 2 turn(s).",
-        "cost": "1 Memory",
+        "cost": "1",
         "cool": "5",
         "req":  { 
             "aero": "Aerotheurge 1", 
@@ -84,7 +84,7 @@
         "id": "10",
         "name": "Evasive Aura",
         "desc": "Sets Evasive Aura for you and allies around you. Dodging chance is increased by 90% and your Movement Speed is increased by 1m. Sets Erratic Wisp for 1 turn(s).",
-        "cost": "2 Memory",
+        "cost": "2",
         "cool": "5",
         "req":  { 
             "aero": "Aerotheurge 2", 
@@ -95,7 +95,7 @@
         "id": "11",
         "name": "Favourable Wind",
         "desc": "Control the forces of nature so the wind is literally at your party's back. An aura increases you allies' movement speeds while they stay close to you. Sets Favourable Winds Aura for 4 turn(s).",
-        "cost": "1 Memory",
+        "cost": "1",
         "cool": "6",
         "req": "Aerotheurge 1"
     },
@@ -103,7 +103,7 @@
         "id": "12",
         "name": "Mass Breathing Bubbles",
         "desc": "Set Breathing Bubbles on allies around you, allowing them to ignore effects of cloud surfaces and making them immune to Suffocation and Silence. Sets Mass Breathing Bubbles for 5 turn(s).",
-        "cost": "2 Memory",
+        "cost": "2",
         "cool": "5",
         "req":  { 
             "aero": "Aerotheurge 2", 
@@ -114,7 +114,7 @@
         "id": "13",
         "name": "Nether Swamp",
         "desc": "Make two characters switch places. One of the characters can be you. Sets Nether Swap for 1 turn(s).",
-        "cost": "# Memory",
+        "cost": "#",
         "cool": "3",
         "req": "Aerotheurge 2"
     },
@@ -122,7 +122,7 @@
         "id": "14",
         "name": "Pressure Spike",
         "desc": "Condense all cloud surfaces in the area. Deals air damage to enemies and douses fire. Damage is based on your level and receives a bonus from Intelligence.",
-        "cost": "1 Memory",
+        "cost": "1",
         "cool": "3",
         "req": "Aerotheurge 2"
     },
@@ -130,7 +130,7 @@
         "id": "15",
         "name": "Shocking Touch",
         "desc": "Stuns nearby enemies and deals [X] air damage. Sets shocked for 2 turns. Damage is based on skill level and receives a bonus from Intelligence.",
-        "cost": "1 Memory",
+        "cost": "1",
         "cool": "3",
         "req": "Aerotheurge 1"
     },
@@ -138,7 +138,7 @@
         "id": "16",
         "name": "Smoke Cover",
         "desc": "Create a smoke cloud around you, hiding from sight.",
-        "cost": "1 Memory",
+        "cost": "1",
         "cool": "5",
         "req":  { 
             "aero": "Aerotheurge 1", 
@@ -149,7 +149,7 @@
         "id": "17",
         "name": "Superconductor",
         "desc": "Shoot forking spikes at all enemies within the area, dealing [X] Air Damage and setting Shocked. Sets Shocked for 1 turn(s). Damage is based on your level and receives a bonus from Intelligence.",
-        "cost": "1 Memory",
+        "cost": "1",
         "cool": "3",
         "req": "Aerotheurge 3"
     },
@@ -157,7 +157,7 @@
         "id": "18",
         "name": "Teleportation",
         "desc": "Teleport a target character or item to a point of your choosing. Damage is based on your level and receives a bonus from Intelligence.",
-        "cost": "1 Memory",
+        "cost": "1",
         "cool": "4",
         "req": "Aerotheurge 2"
     },
@@ -165,7 +165,7 @@
         "id": "19",
         "name": "Thunderstorm",
         "desc": "A storm rages in the target area, hitting enemies with lightning bolts for 3 turns.",
-        "cost": "3 Memory",
+        "cost": "3",
         "cool": "5",
         "req": "Aerotheurge 5"
     },
@@ -173,7 +173,7 @@
         "id": "20",
         "name": "Tornado",
         "desc": "A tornado moves randomly around the battlefield, removing surfaces and revealing invisible characters. Also clears Invisible, Burning and Slowed.",
-        "cost": "1 Memory",
+        "cost": "1",
         "cool": "5",
         "req": "Aerotheurge 3"
     },
@@ -181,7 +181,7 @@
         "id": "21",
         "name": "Uncanny Evasion",
         "desc": "Target character's dodging is increased by 90% and your Movement Speed is increased by 20%. Sets Evading for 1 turn(s).",
-        "cost": "1 Memory",
+        "cost": "1",
         "cool": "4",
         "req": "Aerotheurge 2"
     },
@@ -189,7 +189,7 @@
         "id": "22",
         "name": "Vacuum Aura",
         "desc": "Deal [X] Air Damage to enemies in the area. Caster receives an aura that sets Silence and Suffocating on enemies. Sets Vacuum Aura for 3 turn(s). Damage is based on your level and receives bonus from Intelligence",
-        "cost": "2 Memory",
+        "cost": "2",
         "cool": "5",
         "req":  { 
             "aero": "Aerotheurge 2", 
@@ -200,7 +200,7 @@
         "id": "23",
         "name": "Vacuum Touch",
         "desc": "Deal [X] Air Damage. Set Suffocation and Silence on target. Sets Suffocating for 1 turn(s). Sets Silenced for 1 turn(s). Damage is based on your level and receives a bonus from Intelligence.",
-        "cost": "1 Memory",
+        "cost": "1",
         "cool": "5",
         "req":  { 
             "aero": "Aerotheurge 1", 
@@ -211,7 +211,7 @@
         "id": "24",
         "name": "Vaporize",
         "desc": "Remove Petrified and Frozen from target character. Vaporise ground surfaces into clouds. Does not work on Oil, Ice or Lava surfaces",
-        "cost": "1 Memory",
+        "cost": "1",
         "cool": "4",
         "req":  { 
             "aero": "Aerotheurge 1", 

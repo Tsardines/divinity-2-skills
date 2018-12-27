@@ -1,8 +1,17 @@
 .Aero {
+    /* background-color: rgb(62, 85, 104); */
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     margin-top: 5em;
+}
+
+.aero-title {
+    margin-top: 3em;
+}
+
+.aero-title:hover {
+    text-decoration: underline;
 }
 
 .aero-wrap {
@@ -22,13 +31,10 @@
 }
 
 .aero-wrap th {
+    font-weight: lighter;
     padding: 1em;
 }
 
 .aero-wrap .skill-desc {
     width: 100%;
-}
-
-th p {
-    background-color: pink;
 }
