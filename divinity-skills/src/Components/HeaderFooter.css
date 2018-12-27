@@ -1,0 +1,44 @@
+.header, .footer {
+    background-color: rgb(48, 48, 48);
+    padding: 2em;
+}
+
+.link {
+    display: inline;
+    padding: 0.5em;
+}
+
+.link a {
+    color: white;
+    text-decoration: none;
+}
+
+.link a:hover {
+    color: pink;
+    font-weight: bold;
+}
+
+/* ----------- */
+
+.footer {
+    /* display: flex;
+    justify-content: space-around; */
+    margin-top: 30em;
+    padding-top: 8em;
+}
+
+.footer a {
+    color: turquoise;
+}
+
+.footer ul li {
+    list-style-type: none;
+}
+
+.footer .right, .left {
+    color: white;
+}
+/* 
+.footer .right {
+    text-align: right;
+} */

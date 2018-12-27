@@ -5,6 +5,7 @@ import './App.css';
 
 import Header from './Components/Header.js';
 import Home from './Components/Home.js';
+import Footer from './Components/Footer.js';
 
 import Aero from './Components/Skills/Aero.js';
 import Geo from './Components/Skills/Geo.js';
@@ -38,7 +39,8 @@ class App extends Component {
               <Route path="/scoundrel" component={Scoun} exact />
               <Route path="/summoning" component={Summ} exact />
               <Route path="/warfare" component={War} exact />
-            </Switch>          
+            </Switch>  
+            <Footer />        
         </div>
       </BrowserRouter>
     );
