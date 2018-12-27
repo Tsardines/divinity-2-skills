@@ -171,7 +171,7 @@
     {
         "id": "22",
         "name": "Vacuum Aura",
-        "desc": "Deal [X] Air Damage to enemies in the area. Caster receives an aura that sets Silence and Suffocating on enemies. Sets Vacuum Aura for 3 turn(s). Damage is based on your level and receives bonus from Intelligence",
+        "desc": "Deal [X] Air Damage to enemies in the area. Caster receives an aura that sets Silence and Suffocating on enemies. Sets Vacuum Aura for 3 turn(s). Damage is based on your level and receives bonus from Intelligence.",
         "cost": "2",
         "cool": "5",
         "req": "Aerotheurge 2, Necromancer 2"        

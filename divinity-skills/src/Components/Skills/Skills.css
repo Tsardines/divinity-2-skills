@@ -6,8 +6,8 @@
     margin-top: 5em;
 }
 
-.aero-title {
-    margin-top: 3em;
+.aero-title h1 {
+    padding-top: 1em;
 }
 
 .aero-title:hover {
@@ -28,6 +28,10 @@
 .aero-wrap .skill-name {
     font-size: 1.5vw;
     font-weight: bold;
+}
+
+.skill-desc {
+    font-size: 1.5vw;
 }
 
 .aero-wrap th {

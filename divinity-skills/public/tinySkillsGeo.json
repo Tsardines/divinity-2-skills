@@ -1,0 +1,194 @@
+[
+    {
+        "id": "1",
+        "name": "Acid Spores",
+        "desc": "Shoot spores of corrosive acid, dealing [X] Poison Damage. Set Poisoned for 3 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
+        "cost": "2",
+        "cool": "5",
+        "req": "Geomancer 3"
+    },
+    {
+        "id": "2",
+        "name": "Contamination",
+        "desc": "Deals [X] Poison Damage to enemies and undead allies around you and can poison them. Turns water, blood surfaces and clouds in to poison! Set Poisoned for 2 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
+        "cost": "1",
+        "cool": "3",
+        "req": "Geomancer 1"
+    },
+    {
+        "id": "3",
+        "name": "Corrosive Spray",
+        "desc": "Destroy [X] Physical Armour physical  on targets in a cone, and set Acid and Atrophy Set Acid for 2 turn(s). Set Atrophy for 1 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
+        "cost": "2",
+        "cool": "3",
+        "req": "Geomancer 2, Necromancer 2" 
+    },
+    {
+        "id": "4",
+        "name": "Corrosive Touch",
+        "desc": "Destroy [X] Physical Armour on target character, and set Acid status. Set Acid for 2 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
+        "cost": "1",
+        "cool": "5",
+        "req": "Geomancer 1, Necromancer 1" 
+    },
+    {
+        "id": "5",
+        "name": "Dust Blast",
+        "desc": "Throw dust at all enemies in range, blinding them and dealing [X] Earth Damage. Set Blinded for 2 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
+        "cost": "2",
+        "cool": "3",
+        "req": "Geomancer 2, Huntsman 2" 
+    },
+    {
+        "id": "6",
+        "name": "Earthquake",
+        "desc": "Deals [X] Earth Damage and Knockdown enemy characters and items around you. Creates 8 random oil surfaces within the area. Set Knocked Down for 1 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
+        "cost": "1",
+        "cool": "5",
+        "req": "Geomancer 2"
+    },
+    {
+        "id": "7",
+        "name": "Fortify",
+        "desc": "Provides [X] Physical Armour. While Fortified, the target cannot be teleported. Removes Poisoned, Bleeding, Burning, Acid, Decaying. Set Fortified for 3 turn(s).",
+        "cost": "1",
+        "cool": "4",
+        "req": "Geomancer 1"
+    },
+    {
+        "id": "8",
+        "name": "Fossil Strike",
+        "desc": "A giant rock with sticky oil that deals [X] Earth Damage. Creates an oil surface where it lands. Damage is bases on your level and receives bonus from your Intelligence.",
+        "cost": "#1",
+        "cool": "3",
+        "req": "Geomancer 1"
+    },
+    {
+        "id": "9",
+        "name": "Impalement",
+        "desc": "Spikes impale all characters and items, setting Crippled and dealing [X] Earth Damage. Also creates an oil puddle. Set Crippled for 1 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
+        "cost": "1",
+        "cool": "4",
+        "req": "Geomancer 2"
+    },
+    {
+        "id": "10",
+        "name": "Living Wall",
+        "desc": "Vines sprout from the ground to block the path in the target area, emitting poison clouds around them.",
+        "cost": "1",
+        "cool": "5",
+        "req": "Geomancer 3"
+    },
+    {
+        "id": "11",
+        "name": "Mass Oily Carapace",
+        "desc": "Each ally consumes oil surfaces around them, converting the oil surfaces to Physical Armour physical. Removed Slowed. Restore up to 34 Physical Armour, depending on relevant surface area.",
+        "cost": "2",
+        "cool": "5",
+        "req": "Geomancer 2, Warfare 2" 
+    },
+    {
+        "id": "12",
+        "name": "Mend Metal",
+        "desc": "Allies near you start slowly regenerating Physical Armour. Restore [X] Physical Armour for 3 turn(s).",
+        "cost": "1",
+        "cool": "3",
+        "req": "Geomancer 2"
+    },
+    {
+        "id": "13",
+        "name": "Oily Carapace",
+        "desc": "Consume oil surfaces around you and convert them to Physical Armour. Removes Slowed. Restore up to 34 Physical Armour, depending on relevant surface area.",
+        "cost": "1",
+        "cool": "3",
+        "req": "Geomancer 1, Warfare 1" 
+    },
+    {
+        "id": "14",
+        "name": "Poison Dart",
+        "desc": "Cast a magical poisonous dart that does [X] Poison Damage, and creates a puddle of poison. Set Poisoned for 3 turn(s). Damage is bases on your level and receives bonus from your Intelligence.",
+        "cost": "1",
+        "cool": "5",
+        "req": "Geomancer 1"
+    },
+    {
+        "id": "15",
+        "name": "Poison Wave",
+        "desc": "Poison erupts from the caster in a circular wave, dealing [X] Poison Damage and forming poison clouds. Gives immunity to poison and earth damage for 1 turn. Set Earth Immunity for 1 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
+        "cost": "1",
+        "cool": "4",
+        "req": "Geomancer 2"
+    },
+    {
+        "id": "16",
+        "name": "Pyroclastic Eruption",
+        "desc": "Multiple oil-filled rocks erupt from the caster at all enemies in the area. On impact, they create oil surfaces and deal [X] Earth Damage. Damage is based on your level and receives bonus from your Intelligence.",
+        "cost": "3",
+        "cool": "5",
+        "req": "Geomancer 5"
+    },
+    {
+        "id": "17",
+        "name": "Reactive Armor",
+        "desc": "Deal [X] Physical Damage, based on your current Physical Armour, in a wave of metal spikes to everyone in the area (including yourself). Damage is based on your current Physical Armour.",
+        "cost": "1",
+        "cool": "6",
+        "req": "Geomancer 2"
+    },
+    {
+        "id": "18",
+        "name": "Siphon Poison",
+        "desc": "Remove poison surfaces and clouds. Gain poison damage bonus to weapon attacks and weapon-based skills (dependent upon size of poison area cleared). Set Siphon Poison for 2 turn(s).",
+        "cost": "1",
+        "cool": "5",
+        "req": "Geomancer 2"
+    },
+    {
+        "id": "19",
+        "name": "Summon Artillery Plant",
+        "desc": "Plant can lob acidic spores and emit cursed poison clouds. The stats of the summons will depend on caster level and Summoning ability.",
+        "cost": "2",
+        "cool": "6",
+        "req": "Geomancer 3"
+    },
+    {
+        "id": "20",
+        "name": "Throw Dust",
+        "desc": "Throw dust at a character, blinding them and dealing [X] Earth Damage. Clears surfaces and clouds in the area. Set Blinded for 1 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
+        "cost": "1",
+        "cool": "3",
+        "req": "Geomancer 2, Huntsman 2"
+    },
+    {
+        "id": "21",
+        "name": "Turn to Oil",
+        "desc": "Turn water and blood surfaces into oil. Remove Stun and Shocked from characters.",
+        "cost": "2",
+        "cool": "4",
+        "req": "Geomancer 1, Polymorph 1" 
+    },
+    {
+        "id": "22",
+        "name": "Venom Coating",
+        "desc": "Coat your weapon with poison, adding [X] Poison Damage to your weapon skills and attacks. Set Venom Coating for 2 turn(s).",
+        "cost": "1",
+        "cool": "5",
+        "req": "Geomancer 1, Scoundrel 1" 
+    },
+    {
+        "id": "23",
+        "name": "Venomous Aura",
+        "desc": "Allies in range receive Venom Coating, which adds [X] Poison Damage to weapon skills and attacks. Set Venomous Aura for 4 turn(s).",
+        "cost": "2",
+        "cool": "5",
+        "req": "Geomancer 2, Scoundrel 2" 
+    },
+    {
+        "id": "24",
+        "name": "Worm Tremor",
+        "desc": "Deals [X] Earth Damage to each character in the area. At your command, poisonous worms slither up from the earth, attaching to every character in the area who is not protected by Magical Armour . Affected characters cannot move or teleport, and they receive [X] Poison Damage each turn. Set Entangled for 2 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
+        "cost": "1",
+        "cool": "5",
+        "req": "Geomancer 2"
+    }
+]
