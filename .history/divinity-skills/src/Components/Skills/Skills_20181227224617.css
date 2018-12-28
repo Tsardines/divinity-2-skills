@@ -21,15 +21,11 @@
     font-size: 1vw;
     margin: 2em;
     padding: 1.75em;
-    text-align: left;
+    text-align: center;
     width: 35%;
 }
 
 .skill-name {
-    text-align: center;
-}
-
-.tier-2 {
     text-align: center;
 }
 

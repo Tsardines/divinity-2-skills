@@ -44,23 +44,24 @@ class Aero extends Component {
                   <p key={num}>{item.name}</p>
                 </div>
 
+              {/* <tg>                
+                <th><div className="skill-name">
+                  <p key={num}>{item.name}</p>
+                </div></th> */}
+
                 <tg>
-
-                  <div className="tier-2">
                 
-                    <th><div className="skill-cost">
-                      <p key={num}>Memory: {item.cost}</p>
-                    </div></th>
+                <th><div className="skill-cost">
+                  <p key={num}>Memory: {item.cost}</p>
+                </div></th>
 
-                    <th><div className="skill-cool">
-                      <p key={num}>Cooldown: {item.cool} turns</p>
-                    </div></th>
+                <th><div className="skill-cool">
+                  <p key={num}>Cooldown: {item.cool} turns</p>
+                </div></th>
 
-                    <th><div className="skill-req">
-                      <p key={num}>Requirements: {item.req}</p>
-                    </div></th>
-
-                  </div>
+                <th><div className="skill-req">
+                  <p key={num}>Requirements: {item.req}</p>
+                </div></th>
               </tg>
 
               <tg>

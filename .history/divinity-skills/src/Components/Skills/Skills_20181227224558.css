@@ -4,6 +4,7 @@
     flex-wrap: wrap;
     justify-content: center;
     margin-top: 5em;
+    text-align: center;
 }
 
 .skill-title h1 {
@@ -26,10 +27,6 @@
 }
 
 .skill-name {
-    text-align: center;
-}
-
-.tier-2 {
     text-align: center;
 }
 
