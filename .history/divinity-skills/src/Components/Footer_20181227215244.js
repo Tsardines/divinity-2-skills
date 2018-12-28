@@ -14,6 +14,8 @@ const Footer = () => {
         <div className="top">
             <ul>
                 <li>Home</li>
+                <li><a href="https://hjsulcer.netlify.com">Personal Site</a></li>
+                <li></li>
             </ul>
         </div>
 
@@ -28,6 +30,7 @@ const Footer = () => {
         <div className="bottom">
 
             <ul>
+
                 <li>
                     <a href="https://hjsulcer.netlify.com/"><img src={code} alt="code" height="50" width="50" /></a>
                 </li>
@@ -43,6 +46,7 @@ const Footer = () => {
                 <li>
                     <a href="mailto:hjsulcer@gmail.com" target="_blank" rel="noopener noreferrer"><img src={mail} alt="mail" height="50" width="50"/></a> 
                 </li>
+
             </ul>
 
         </div>

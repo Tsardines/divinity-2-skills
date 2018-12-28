@@ -24,7 +24,7 @@
     /* display: flex;
     justify-content: space-around; */
     margin-top: 30em;
-    padding-top: 2em;
+    padding-top: 8em;
 }
 
 .footer a {
@@ -33,18 +33,14 @@
 
 .footer ul li {
     list-style-type: none;
-    padding: 0.4em;
 }
 
-.middle, .top {
+.footer .middle, .top {
     color: white;
 }
 
-.middle {
-    padding-top: 0.3em;
-}
-
 .bottom {
+    background-color: pink;
     display: flex;
     justify-content: center;
 }

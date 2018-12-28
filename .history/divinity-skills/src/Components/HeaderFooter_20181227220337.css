@@ -24,7 +24,7 @@
     /* display: flex;
     justify-content: space-around; */
     margin-top: 30em;
-    padding-top: 2em;
+    padding-top: 4em;
 }
 
 .footer a {
@@ -33,7 +33,6 @@
 
 .footer ul li {
     list-style-type: none;
-    padding: 0.4em;
 }
 
 .middle, .top {
@@ -41,7 +40,7 @@
 }
 
 .middle {
-    padding-top: 0.3em;
+    padding-top: 1em;
 }
 
 .bottom {

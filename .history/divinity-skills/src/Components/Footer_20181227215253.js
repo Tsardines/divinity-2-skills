@@ -14,6 +14,8 @@ const Footer = () => {
         <div className="top">
             <ul>
                 <li>Home</li>
+                <li><a href="https://hjsulcer.netlify.com">Personal Site</a></li>
+                <li></li>
             </ul>
         </div>
 
