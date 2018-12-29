@@ -56,3 +56,7 @@
 .bottom ul li {
     padding: 2em;
 }
+
+.bottom ul li:hover {
+    background-color: rgb(53, 53, 54);
+}
