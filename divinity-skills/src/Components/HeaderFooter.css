@@ -5,6 +5,7 @@
 
 .link {
     display: inline;
+    font-size: 1em;
     padding: 0.5em;
 }
 
@@ -21,8 +22,6 @@
 /* ----------- */
 
 .footer {
-    /* display: flex;
-    justify-content: space-around; */
     margin-top: 30em;
     padding-top: 2em;
 }
@@ -38,6 +37,10 @@
 
 .middle, .top {
     color: white;
+}
+
+.top ul li, .middle ul li {
+    font-size: 1.25em;
 }
 
 .middle {

@@ -27,7 +27,7 @@ class Geo extends Component {
     
     return (
 
-      <div className="wrapper">
+      <div className="geo-wrap">
 
         <span className="skill-title"><h1>Geomancer</h1></span>
 

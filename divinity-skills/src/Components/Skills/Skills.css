@@ -1,5 +1,14 @@
+.aero-wrap {
+    background-color: rgb(163, 199, 223);
+}
+
+.geo-wrap {
+    background-color: rgb(143, 138, 129);
+}
+
+/* ------------------------------------ */
+
 .Aero, .Geo {
-    /* background-color: rgb(62, 85, 104); */
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -8,6 +17,7 @@
 
 .skill-title h1 {
     padding-top: 1em;
+    text-shadow: 2px 2px white;
 }
 
 .skill-title:hover {

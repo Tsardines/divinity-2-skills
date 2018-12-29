@@ -27,7 +27,7 @@ class Aero extends Component {
     
     return (
 
-      <div className="wrapper">
+      <div className="aero-wrap">
 
         <span className="skill-title"><h1>Aerotheurge</h1></span>
 

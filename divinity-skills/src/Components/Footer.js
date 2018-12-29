@@ -12,11 +12,11 @@ const Footer = () => {
   return (
       <div className="footer">
 
-        <div className="top">
+        {/* <div className="top">
             <ul>
                 <li>Home</li>
             </ul>
-        </div>
+        </div> */}
 
         <div className="middle">
             <ul>
