@@ -49,15 +49,15 @@ class Aero extends Component {
                   <div className="tier-2">
                 
                     <th><div className="skill-cost">
-                      <p key={num}>Memory: {item.cost}</p>
+                      <p key={num}><strong>Memory:</strong> {item.cost}</p>
                     </div></th>
 
                     <th><div className="skill-cool">
-                      <p key={num}>Cooldown: {item.cool} turns</p>
+                      <p key={num}><strong>Cooldown:</strong> {item.cool} turns</p>
                     </div></th>
 
                     <th><div className="skill-req">
-                      <p key={num}>Requirements: {item.req}</p>
+                      <p key={num}><strong>Requirements:</strong> {item.req}</p>
                     </div></th>
 
                   </div>

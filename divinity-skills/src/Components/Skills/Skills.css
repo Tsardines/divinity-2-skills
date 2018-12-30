@@ -6,9 +6,13 @@
     background-color: rgb(143, 138, 129);
 }
 
+.hunts-wrap {
+    background-color: rgb(136, 158, 139)
+}
+
 /* ------------------------------------ */
 
-.Aero, .Geo {
+.Aero, .Geo, .Hunts {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -69,4 +73,8 @@
 
 .Geo p:hover {
     color: green;
+}
+
+.Hunts p:hover {
+    color: maroon;
 }
