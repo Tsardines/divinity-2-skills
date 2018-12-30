@@ -13,7 +13,7 @@ class Hunts extends Component {
   }
 
   componentWillMount() {
-    fetch('https://api.myjson.com/bins/ewjs4')
+    fetch('https://api.myjson.com/bins/9ctys')
     .then(res => res.json())
     .then(data => {
       this.setState({ items: data });

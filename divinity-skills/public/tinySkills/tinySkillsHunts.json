@@ -1,0 +1,138 @@
+[
+    {
+        "id": "1",
+        "name": "Arrow Spray",
+        "desc": "Fire 16 arrows in a 60 degree arc. Each arrow deals 40% damage.",
+        "special": "Damage is based on your basic attack and receives a bonus from Finesse.",
+        "cost": "2",
+        "cool": "5",
+        "req": "Huntsman 3"
+    },
+    {
+        "id": "2",
+        "name": "Arrow Storm",
+        "desc": "16 arrows fall from the sky in the target area, each dealing 40% damage.",
+        "special": "Damage is based on your basic attack and receives a bonus from Finesse.",
+        "cost": "3",
+        "cool": "2",
+        "req": "Huntsman 5"
+    },
+    {
+        "id": "3",
+        "name": "Assassinate",
+        "desc": "Attacking your target with meticulous aim, dealing 135% damage in one shot. When performed from stealth, this attack gains a 50% damage increase.",
+        "special": "Damage is based on your basic attack and receives a bonus from Finesse.",
+        "cost": "1",
+        "cool": "5",
+        "req": "Huntsman 1"
+    },
+    {
+        "id": "4",
+        "name": "Ballistic Shot",
+        "desc": "A shot that deals 100% damage and receives 5% bonus damage per 1m distance to target.",
+        "special": "Damage is based on your basic attack and receives a bonus from Finesse.",
+        "cost": "1",
+        "cool": "4",
+        "req": "Huntsman 2"
+    },
+    {
+        "id": "5",
+        "name": "Barrage",
+        "desc": "Fire three arrows at three targets of your choice, each dealing 60% damage.",
+        "special": "Damage is based on your basic attack and receives a bonus from Finesse.",
+        "cost": "1",
+        "cool": "3",
+        "req": "Huntsman 2"
+    },
+    {
+        "id": "6",
+        "name": "Elemental Arrowheads",
+        "desc": "Target a surface in melee radius. For one turn, elemental damage matching that surface is added to your ranged weapon attacks and ranged weapon-based skills.",
+        "special": null,
+        "cost": "1",
+        "cool": "4",
+        "req": "Huntsman 1"
+    },
+    {
+        "id": "7",
+        "name": "Farsight",
+        "desc": "Increase the range of a targeted character's ranged attacks and skills by 4m.",
+        "special": "Set Farsight for 3 Turn(s).",
+        "cost": "2",
+        "cool": "3",
+        "req": "Huntsman 3"
+    },
+    {
+        "id": "8",
+        "name": "First Aid",
+        "desc": "Heals target for [X] Vitality. Cures Crippled, Atrophy, Knocked Down, Blind, Silenced, Bleeding, Burning, Poisoned, and Diseased.",
+        "special": "Restore [X] Vitality. Set Rested for 1 turn(s).",
+        "cost": "1",
+        "cool": "1",
+        "req": "Huntsman 1"
+    },
+    {
+        "id": "9",
+        "name": "Glitter Dust",
+        "desc": "Target is marked, reducing its ability to dodge. Prevents target from going invisible.",
+        "special": "Set Marked for 3 turn(s).",
+        "cost": "1",
+        "cool": "3",
+        "req": "Huntsman 3"
+    },
+    {
+        "id": "10",
+        "name": "Marksman's Fang",
+        "desc": "Shoot an arrow that goes straight through enemies. Each enemy that's hit takes 100% damage, ignoring armour.",
+        "special": "Damage is based on your basic attack and receives a bonus from Finesse.",
+        "cost": "1",
+        "cool": "2",
+        "req": "Huntsman 2"
+    },
+    {
+        "id": "11",
+        "name": "Pin Down",
+        "desc": "Deals 120% damage and Cripples target character.",
+        "special": "Set Crippled for 1 turn(s). Damage is based on your basic attack and receives a bonus from Finesse.",
+        "cost": "1",
+        "cool": "3",
+        "req": "Huntsman 1"
+    },
+    {
+        "id": "12",
+        "name": "Reactive Shot",
+        "desc": "Target a circular area. Until your next turn, you will reflexively shoot at the first three enemies moving within this area.",
+        "special": "Set Reactive Shot for 1 Turn(s).",
+        "cost": "1",
+        "cool": "2",
+        "req": "Huntsman 2"
+    },
+    {
+        "id": "13",
+        "name": "Ricochet",
+        "desc": "Fire a normal arrow that deals 90% damage and then finds another target within 5m. Forks up to 2 times.",
+        "special": "Damage is based on your basic attack and receives a bonus from Finesse.",
+        "cost": "1",
+        "cool": "4",
+        "req": "Huntsman 1"
+    },
+    {
+        "id": "14",
+        "name": "Sky Shot",
+        "desc": "Leap into the air before shooting, gaining damage bonuses for your superior height. Deals 100% Damage.",
+        "special": "This skill receives high ground bonuses regardless of elevation. Damage is based on your basic attack and receives a bonus from Finesse.",
+        "cost": "1",
+        "cool": "2",
+        "req": "Huntsman 1"
+    },
+    {
+        "id": "15",
+        "name": "Tactical Retreat",
+        "desc": "Apply haste to yourself, then teleport away from imminent danger.",
+        "special": "Set Hasted for 1 Turn(s)",
+        "cost": "1",
+        "cool": "4",
+        "req": "Huntsman 2"
+    }
+]
+
