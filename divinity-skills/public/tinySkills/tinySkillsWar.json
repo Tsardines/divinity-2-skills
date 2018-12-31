@@ -1,122 +1,122 @@
 {
     {
         "id": "1",
-        "name": "",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": ""
+        "name": "Battering Ram",
+        "desc": "Rush forward in a straight line, to a designated point, hitting all enemies in your path for 50% damage and setting Knockdown. Set Knocked Down for 1 turn(s). Damage is based on your basic attack and receives a bonus from [Weapon Attribute].",
+        "cost": "1",
+        "cool": "5",
+        "req": "War 1"
     },
     {
         "id": "2",
-        "name": "",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": ""
+        "name": "Battle Stomp",
+        "desc": "Smash your weapon into the ground, knocking down non-allied characters in front of you, and hitting them for 60% damage. Also clears non-cursed surfaces and clouds. Set Knocked Down for 1 turn(s). Damage is based on your basic attack and receives a bonus from Strength.",
+        "cost": "1",
+        "cool": "4",
+        "req": "War 1"
     },
     {
         "id": "3",
-        "name": "",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": ""
+        "name": "Blitz Attack",
+        "desc": "Jump from one target to another, hitting up to 2 targets, dealing 70% damage to each. Targets are chosen randomly in a 10m radius. Damage is based on your basic attack and receives a bonus from Strength.",
+        "cost": "1",
+        "cool": "3",
+        "req": "War 2"
     },
     {
         "id": "4",
-        "name": "",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": ""
+        "name": "Bouncing Shield",
+        "desc": "Throw your shield at an enemy dealing [X] Physical Damage. Shield can bounce to another enemy in 5m range. Damage is based on the Physical Armour of your shield.",
+        "cost": "1",
+        "cool": "2",
+        "req": "War 1, a Shield"
     },
     {
         "id": "5",
-        "name": "",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": ""
+        "name": "Challenge",
+        "desc": "Mark target enemy. If they die in the next 2 turns, you are healed and receive damage and armour bonuses. If target survives, their Vitality is healed to full and caster receives damage.",
+        "cost": "1",
+        "cool": "5",
+        "req": "War 3"
     },
     {
         "id": "6",
-        "name": "",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": ""
+        "name": "Crippling Blow",
+        "desc": "Cripple the target with a sweeping blow, and all characters around it. Deals 115% damage. Set Crippled for 1 turn(s). Damage is based on your basic attack and receives a bonus from [Weapon Attribute].",
+        "cost": "1",
+        "cool": "3",
+        "req": "War 1, a Melee weapon"
     },
     {
         "id": "7",
-        "name": "",
+        "name": "Deflective Barrier",
         "desc": "",
         "cost": "#",
         "cool": "",
-        "req": ""
+        "req": "War "
     },
     {
         "id": "8",
-        "name": "",
+        "name": "Enrage",
         "desc": "",
         "cost": "#",
         "cool": "",
-        "req": ""
+        "req": "War "
     },
     {
         "id": "9",
-        "name": "",
+        "name": "Guardian Angel",
         "desc": "",
         "cost": "#",
         "cool": "",
-        "req": ""
+        "req": "War "
     },
     {
         "id": "10",
-        "name": "",
+        "name": "Onslaught",
         "desc": "",
         "cost": "#",
         "cool": "",
-        "req": ""
+        "req": "War "
     },
     {
         "id": "11",
-        "name": "",
+        "name": "Overpower",
         "desc": "",
         "cost": "#",
         "cool": "",
-        "req": ""
+        "req": "War "
     },
     {
         "id": "12",
-        "name": "",
+        "name": "Phoenix Dive",
         "desc": "",
         "cost": "#",
         "cool": "",
-        "req": ""
+        "req": "War "
     },
     {
         "id": "13",
-        "name": "",
+        "name": "Provoke",
         "desc": "",
         "cost": "#",
         "cool": "",
-        "req": ""
+        "req": "War "
     },
     {
         "id": "14",
-        "name": "",
+        "name": "Thick of the Fight",
         "desc": "",
         "cost": "#",
         "cool": "",
-        "req": ""
+        "req": "War "
     },
     {
         "id": "15",
-        "name": "",
+        "name": "Whirlwind",
         "desc": "",
         "cost": "#",
         "cool": "",
-        "req": ""
+        "req": "War "
     }
 }
