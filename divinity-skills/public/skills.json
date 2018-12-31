@@ -9,7 +9,7 @@
                 "name": "Apportation",
                 "desc": "Transport pickupable items in the target area into your inventory.",
                 "special": null,
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "3",
                 "req": "Aerotheurge 2"
             },
@@ -18,7 +18,7 @@
                 "name": "Blessed Smoke Cloud",
                 "desc": "Conjure a cloud of thick blessed smoke that makes characters invisible.",
                 "special": null,
-                "cost": "2 Memory",
+                "cost": "2",
                 "cool": "5",
                 "req":  { 
                     "aero": "Aerotheurge 2", 
@@ -30,7 +30,7 @@
                 "name": "Blinding Radiance",
                 "desc": "Enemies around you receive [X] air damage. Every enemy withint a 5m radius turns blind.",
                 "special": "100% chance to cast an aura for 1 turn.",
-                "cost": "2 AP / 1 Memory",
+                "cost": "2 AP / 1",
                 "cool": "4",
                 "req": "Aerotheurge 1"
             },
@@ -39,7 +39,7 @@
                 "name": "Breathing Bubble",
                 "desc": "Creates a bubble of clean air around your head, allowing you to ignore effects of cloud surfaces. Immune to Suffocation and Silence.",
                 "special": "Sets Breathing Bubble for 5 turn(s).",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "5",
                 "req":  { 
                     "aero": "Aerotheurge 1", 
@@ -51,7 +51,7 @@
                 "name": "Chain Lightning",
                 "desc": "Shoot a stunning bolt of lightning that forks up to 8 times in a 8m radius and deals [X] Air Damage to each target.",
                 "special": "Sets Shocked for 2 turn(s). Damage is based on your level and receives a bonus from Intelligence",
-                "cost": "2 Memory",
+                "cost": "2",
                 "cool": "5 turns",
                 "req": "Aerotheurge 3"
             },
@@ -60,7 +60,7 @@
                 "name": "Closed Circuit",
                 "desc": "Deals [X] Air Damage to enemies around you; then creates cursed static clouds on the edges of the spell.",
                 "special": "Sets Air Immunity for 1 turn(s). Sets Shocked for 2 turn(s). Damage is based on your level and receives a bonus from Intelligence",
-                "cost": "2 Memory",
+                "cost": "2",
                 "cool": "4",
                 "req": "Aerotheurge 3"
             },
@@ -69,7 +69,7 @@
                 "name": "Dazing Bolt",
                 "desc": "An electrical bolt falls from the sky, dealing [X] Air Damage to characters and items in the area, and setting Shocked status.",
                 "special": "Sets Shocked for 1 turn(s). Damage is based on your level and receives a bonus from Intelligence.",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "3",
                 "req": "Aerotheurge 2"
             },
@@ -78,7 +78,7 @@
                 "name": "Electric Discharge",
                 "desc": "An electrical jolt deals air damage to target character. Sets status Shocked.",
                 "special": "Sets shocked for 2 turns. Damage is based on skill level and receives a bonus from Intelligence.",
-                "cost": "1 Memory slot",
+                "cost": "1 slot",
                 "cool": "3 turns",
                 "req": "Aerotheurge 1"
             },
@@ -87,7 +87,7 @@
                 "name": "Erratic Wisp",
                 "desc": "Cause target character to teleport in a random direction each time they are attacked. Increases Air Resistance by 40%.",
                 "special": "Sets Erratic Wisp for 2 turn(s).",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "5",
                 "req":  { 
                     "aero": "Aerotheurge 1", 
@@ -99,7 +99,7 @@
                 "name": "Evasive Aura",
                 "desc": "Sets Evasive Aura for you and allies around you. Dodging chance is increased by 90% and your Movement Speed is increased by 1m.",
                 "special": "Sets Erratic Wisp for 1 turn(s).",
-                "cost": "2 Memory",
+                "cost": "2",
                 "cool": "5",
                 "req":  { 
                     "aero": "Aerotheurge 2", 
@@ -111,7 +111,7 @@
                 "name": "Favourable Wind",
                 "desc": "Control the forces of nature so the wind is literally at your party's back. An aura increases you allies' movement speeds while they stay close to you.",
                 "special": "Sets Favourable Winds Aura for 4 turn(s).",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "6",
                 "req": "Aerotheurge 1"
             },
@@ -120,7 +120,7 @@
                 "name": "Mass Breathing Bubbles",
                 "desc": "Set Breathing Bubbles on allies around you, allowing them to ignore effects of cloud surfaces and making them immune to Suffocation and Silence.",
                 "special": "Sets Mass Breathing Bubbles for 5 turn(s).",
-                "cost": "2 Memory",
+                "cost": "2",
                 "cool": "5",
                 "req":  { 
                     "aero": "Aerotheurge 2", 
@@ -132,7 +132,7 @@
                 "name": "Nether Swamp",
                 "desc": "Make two characters switch places. One of the characters can be you.",
                 "special": "Sets Nether Swap for 1 turn(s).",
-                "cost": "# Memory",
+                "cost": "#",
                 "cool": "3",
                 "req": "Aerotheurge 2"
             },
@@ -141,7 +141,7 @@
                 "name": "Pressure Spike",
                 "desc": "Condense all cloud surfaces in the area. Deals air damage to enemies and douses fire.",
                 "special": "Damage is based on your level and receives a bonus from Intelligence.",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "3",
                 "req": "Aerotheurge 2"
             },
@@ -150,7 +150,7 @@
                 "name": "Shocking Touch",
                 "desc": "Stuns nearby enemies and deals [X] air damage.",
                 "special": "Sets shocked for 2 turns. Damage is based on skill level and receives a bonus from Intelligence.",
-                "cost": "# Memory1 Memory",
+                "cost": "#1",
                 "cool": "3",
                 "req": "Aerotheurge 1"
             },
@@ -159,7 +159,7 @@
                 "name": "Smoke Cover",
                 "desc": "Create a smoke cloud around you, hiding from sight.",
                 "special": null,
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "5",
                 "req":  { 
                     "aero": "Aerotheurge 1", 
@@ -171,7 +171,7 @@
                 "name": "Superconductor",
                 "desc": "Shoot forking spikes at all enemies within the area, dealing [X] Air Damage and setting Shocked.",
                 "special": "Sets Shocked for 1 turn(s). Damage is based on your level and receives a bonus from Intelligence.",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "3",
                 "req": "Aerotheurge 3"
             },
@@ -180,7 +180,7 @@
                 "name": "Teleportation",
                 "desc": "Teleport a target character or item to a point of your choosing.",
                 "special": "Damage is based on your level and receives a bonus from Intelligence.",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "4",
                 "req": "Aerotheurge 2"
             },
@@ -189,7 +189,7 @@
                 "name": "Thunderstorm",
                 "desc": "A storm rages in the target area, hitting enemies with lightning bolts for 3 turns.",
                 "special": null,
-                "cost": "3 Memory",
+                "cost": "3",
                 "cool": "5",
                 "req": "Aerotheurge 5"
             },
@@ -198,7 +198,7 @@
                 "name": "Tornado",
                 "desc": "A tornado moves randomly around the battlefield, removing surfaces and revealing invisible characters. Also clears Invisible, Burning and Slowed.",
                 "special": null,
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "5",
                 "req": "Aerotheurge 3"
             },
@@ -207,7 +207,7 @@
                 "name": "Uncanny Evasion",
                 "desc": "Target character's dodging is increased by 90% and your Movement Speed is increased by 20%.",
                 "special": "Sets Evading for 1 turn(s).",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "4",
                 "req": "Aerotheurge 2"
             },
@@ -216,7 +216,7 @@
                 "name": "Vacuum Aura",
                 "desc": "Deal [X] Air Damage to enemies in the area. Caster receives an aura that sets Silence and Suffocating on enemies.",
                 "special": "Sets Vacuum Aura for 3 turn(s). Damage is based on your level and receives bonus from Intelligence",
-                "cost": "2 Memory",
+                "cost": "2",
                 "cool": "5",
                 "req":  { 
                     "aero": "Aerotheurge 2", 
@@ -228,7 +228,7 @@
                 "name": "Vacuum Touch",
                 "desc": "Deal [X] Air Damage. Set Suffocation and Silence on target.",
                 "special": "Sets Suffocating for 1 turn(s). Sets Silenced for 1 turn(s). Damage is based on your level and receives a bonus from Intelligence.",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "5",
                 "req":  { 
                     "aero": "Aerotheurge 1", 
@@ -240,7 +240,7 @@
                 "name": "Vaporize",
                 "desc": "Remove Petrified and Frozen from target character. Vaporise ground surfaces into clouds. Does not work on Oil, Ice or Lava surfaces",
                 "special": null,
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "4",
                 "req":  { 
                     "aero": "Aerotheurge 1", 
@@ -262,7 +262,7 @@
                 "name": "Acid Spores",
                 "desc": "Shoot spores of corrosive acid, dealing [X] Poison Damage.",
                 "special": "Set Poisoned for 3 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
-                "cost": "2 Memory",
+                "cost": "2",
                 "cool": "5",
                 "req": "Geomancer 3"
             },
@@ -271,7 +271,7 @@
                 "name": "Contamination",
                 "desc": "Deals [X] Poison Damage to enemies and undead allies around you and can poison them. Turns water, blood surfaces and clouds in to poison!",
                 "special": "Set Poisoned for 2 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "3",
                 "req": "Geomancer 1"
             },
@@ -280,7 +280,7 @@
                 "name": "Corrosive Spray",
                 "desc": "Destroy [X] Physical Armour physical  on targets in a cone, and set Acid and Atrophy",
                 "special": "Set Acid for 2 turn(s). Set Atrophy for 1 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
-                "cost": "2 Memory",
+                "cost": "2",
                 "cool": "3",
                 "req":  { 
                     "geo": "Geomancer 2", 
@@ -292,7 +292,7 @@
                 "name": "Corrosive Touch",
                 "desc": "Destroy [X] Physical Armour on target character, and set Acid status.",
                 "special": "Set Acid for 2 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "5",
                 "req":  { 
                     "geo": "Geomancer 1", 
@@ -304,7 +304,7 @@
                 "name": "Dust Blast",
                 "desc": "Throw dust at all enemies in range, blinding them and dealing [X] Earth Damage.",
                 "special": "Set Blinded for 2 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
-                "cost": "2 Memory",
+                "cost": "2",
                 "cool": "3",
                 "req":  { 
                     "geo": "Geomancer 2", 
@@ -316,7 +316,7 @@
                 "name": "Earthquake",
                 "desc": "Deals [X] Earth Damage and Knockdown enemy characters and items around you. Creates 8 random oil surfaces within the area.",
                 "special": "Set Knocked Down for 1 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "5",
                 "req": "Geomancer 2"
             },
@@ -325,7 +325,7 @@
                 "name": "Fortify",
                 "desc": "Provides [X] Physical Armour. While Fortified, the target cannot be teleported. Removes Poisoned, Bleeding, Burning, Acid, Decaying.",
                 "special": "Set Fortified for 3 turn(s).",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "4",
                 "req": "Geomancer 1"
             },
@@ -334,7 +334,7 @@
                 "name": "Fossil Strike",
                 "desc": "A giant rock with sticky oil that deals [X] Earth Damage. Creates an oil surface where it lands.",
                 "special": "Damage is bases on your level and receives bonus from your Intelligence.",
-                "cost": "#1 Memory",
+                "cost": "#1",
                 "cool": "3",
                 "req": "Geomancer 1"
             },
@@ -343,7 +343,7 @@
                 "name": "Impalement",
                 "desc": "Spikes impale all characters and items, setting Crippled and dealing [X] Earth Damage. Also creates an oil puddle.",
                 "special": "Set Crippled for 1 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "4",
                 "req": "Geomancer 2"
             },
@@ -352,7 +352,7 @@
                 "name": "Living Wall",
                 "desc": "Vines sprout from the ground to block the path in the target area, emitting poison clouds around them.",
                 "special": null,
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "5",
                 "req": "Geomancer 3"
             },
@@ -361,7 +361,7 @@
                 "name": "Mass Oily Carapace",
                 "desc": "Each ally consumes oil surfaces around them, converting the oil surfaces to Physical Armour physical. Removed Slowed.",
                 "special": "Restore up to 34 Physical Armour, depending on relevant surface area.",
-                "cost": "2 Memory",
+                "cost": "2",
                 "cool": "5",
                 "req":  { 
                     "geo": "Geomancer 2", 
@@ -373,7 +373,7 @@
                 "name": "Mend Metal",
                 "desc": "Allies near you start slowly regenerating Physical Armour.",
                 "special": "Restore [X] Physical Armour for 3 turn(s).",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "3",
                 "req": "Geomancer 2"
             },
@@ -382,7 +382,7 @@
                 "name": "Oily Carapace",
                 "desc": "Consume oil surfaces around you and convert them to Physical Armour. Removes Slowed.",
                 "special": "Restore up to 34 Physical Armour, depending on relevant surface area.",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "3",
                 "req":  { 
                     "geo": "Geomancer 1", 
@@ -394,7 +394,7 @@
                 "name": "Poison Dart",
                 "desc": "Cast a magical poisonous dart that does [X] Poison Damage, and creates a puddle of poison.",
                 "special": "Set Poisoned for 3 turn(s). Damage is bases on your level and receives bonus from your Intelligence.",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "5",
                 "req": "Geomancer 1"
             },
@@ -403,7 +403,7 @@
                 "name": "Poison Wave",
                 "desc": "Poison erupts from the caster in a circular wave, dealing [X] Poison Damage and forming poison clouds. Gives immunity to poison and earth damage for 1 turn.",
                 "special": "Set Earth Immunity for 1 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "4",
                 "req": "Geomancer 2"
             },
@@ -412,7 +412,7 @@
                 "name": "Pyroclastic Eruption",
                 "desc": "Multiple oil-filled rocks erupt from the caster at all enemies in the area. On impact, they create oil surfaces and deal [X] Earth Damage.",
                 "special": "Damage is based on your level and receives bonus from your Intelligence.",
-                "cost": "3 Memory",
+                "cost": "3",
                 "cool": "5",
                 "req": "Geomancer 5"
             },
@@ -421,7 +421,7 @@
                 "name": "Reactive Armor",
                 "desc": "Deal [X] Physical Damage, based on your current Physical Armour, in a wave of metal spikes to everyone in the area (including yourself).",
                 "special": "Damage is based on your current Physical Armour.",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "6",
                 "req": "Geomancer 2"
             },
@@ -430,7 +430,7 @@
                 "name": "Siphon Poison",
                 "desc": "Remove poison surfaces and clouds. Gain poison damage bonus to weapon attacks and weapon-based skills (dependent upon size of poison area cleared).",
                 "special": "Set Siphon Poison for 2 turn(s).",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "5",
                 "req": "Geomancer 2"
             },
@@ -439,7 +439,7 @@
                 "name": "Summon Artillery Plant",
                 "desc": "Plant can lob acidic spores and emit cursed poison clouds.",
                 "special": "The stats of the summons will depend on caster level and Summoning ability.",
-                "cost": "2 Memory",
+                "cost": "2",
                 "cool": "6",
                 "req": "Geomancer 3"
             },
@@ -448,7 +448,7 @@
                 "name": "Throw Dust",
                 "desc": "Throw dust at a character, blinding them and dealing [X] Earth Damage. Clears surfaces and clouds in the area.",
                 "special": "Set Blinded for 1 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "3",
                 "req":  { 
                     "geo": "Geomancer 2", 
@@ -460,7 +460,7 @@
                 "name": "Turn to Oil",
                 "desc": "Turn water and blood surfaces into oil. Remove Stun and Shocked from characters.",
                 "special": null,
-                "cost": "2 Memory",
+                "cost": "2",
                 "cool": "4",
                 "req":  { 
                     "geo": "Geomancer 1", 
@@ -472,7 +472,7 @@
                 "name": "Venom Coating",
                 "desc": "Coat your weapon with poison, adding [X] Poison Damage to your weapon skills and attacks.",
                 "special": "Set Venom Coating for 2 turn(s).",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "5",
                 "req":  { 
                     "geo": "Geomancer 1", 
@@ -484,7 +484,7 @@
                 "name": "Venomous Aura",
                 "desc": "Allies in range receive Venom Coating, which adds [X] Poison Damage to weapon skills and attacks.",
                 "special": "Set Venomous Aura for 4 turn(s).",
-                "cost": "2 Memory",
+                "cost": "2",
                 "cool": "5",
                 "req":  { 
                     "geo": "Geomancer 2", 
@@ -496,7 +496,7 @@
                 "name": "Worm Tremor",
                 "desc": "Deals [X] Earth Damage to each character in the area. At your command, poisonous worms slither up from the earth, attaching to every character in the area who is not protected by Magical Armour . Affected characters cannot move or teleport, and they receive [X] Poison Damage each turn.",
                 "special": "Set Entangled for 2 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "5",
                 "req": "Geomancer 2"
             }
@@ -518,7 +518,7 @@
                 "name": "Arrow Spray",
                 "desc": "Fire 16 arrows in a 60 degree arc. Each arrow deals 40% damage.",
                 "special": "Damage is based on your basic attack and receives a bonus from Finesse.",
-                "cost": "2 Memory",
+                "cost": "2",
                 "cool": "53",
                 "req": "Huntsman 3"
             },
@@ -527,7 +527,7 @@
                 "name": "Arrow Storm",
                 "desc": "16 arrows fall from the sky in the target area, each dealing 40% damage.",
                 "special": "Damage is based on your basic attack and receives a bonus from Finesse.",
-                "cost": "3 Memory",
+                "cost": "3",
                 "cool": "2",
                 "req": "Huntsman 5"
             },
@@ -536,7 +536,7 @@
                 "name": "Assassinate",
                 "desc": "Attacking your target with meticulous aim, dealing 135% damage in one shot. When performed from stealth, this attack gains a 50% damage increase.",
                 "special": "Damage is based on your basic attack and receives a bonus from Finesse.",
-                "cost": "# Memory",
+                "cost": "#",
                 "cool": "5",
                 "req": "Huntsman 1"
             },
@@ -545,7 +545,7 @@
                 "name": "Ballistic Shot",
                 "desc": "A shot that deals 100% damage and receives 5% bonus damage per 1m distance to target.",
                 "special": "Damage is based on your basic attack and receives a bonus from Finesse.",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "4",
                 "req": "Huntsman 2"
             },
@@ -554,7 +554,7 @@
                 "name": "Barrage",
                 "desc": "Fire three arrows at three targets of your choice, each dealing 60% damage.",
                 "special": "Damage is based on your basic attack and receives a bonus from Finesse.",
-                "cost": "# Memory",
+                "cost": "#",
                 "cool": "3",
                 "req": "Hunts 2"
             },
@@ -563,7 +563,7 @@
                 "name": "Elemental Arrowheads",
                 "desc": "Target a surface in melee radius. For one turn, elemental damage matching that surface is added to your ranged weapon attacks and ranged weapon-based skills.",
                 "special": null,
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "4",
                 "req": "Huntsman 1"
             },
@@ -572,7 +572,7 @@
                 "name": "Farsight",
                 "desc": "Increase the range of a targeted character's ranged attacks and skills by 4m.",
                 "special": "Set Farsight for 3 Turn(s).",
-                "cost": "2 Memory",
+                "cost": "2",
                 "cool": "3",
                 "req": "Huntsman 3"
             },
@@ -581,7 +581,7 @@
                 "name": "First Aid",
                 "desc": "Heals target for [X] Vitality. Cures Crippled, Atrophy, Knocked Down, Blind, Silenced, Bleeding, Burning, Poisoned, and Diseased.",
                 "special": "Restore [X] Vitality. Set Rested for 1 turn(s).",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "1",
                 "req": "Huntsman 1"
             },
@@ -590,7 +590,7 @@
                 "name": "Glitter Dust",
                 "desc": "Target is marked, reducing its ability to dodge. Prevents target from going invisible.",
                 "special": "Set Marked for 3 turn(s).",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "3",
                 "req": "Huntsman 3"
             },
@@ -599,7 +599,7 @@
                 "name": "Marksman's Fang",
                 "desc": "Shoot an arrow that goes straight through enemies. Each enemy that's hit takes 100% damage, ignoring armour.",
                 "special": "Damage is based on your basic attack and receives a bonus from Finesse.",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "2",
                 "req": "Huntsman 2"
             },
@@ -608,7 +608,7 @@
                 "name": "Pin Down",
                 "desc": "Deals 120% damage and Cripples target character.",
                 "special": "Set Crippled for 1 turn(s). Damage is based on your basic attack and receives a bonus from Finesse.",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "3",
                 "req": "Huntsman 1"
             },
@@ -617,7 +617,7 @@
                 "name": "Reactive Shot",
                 "desc": "Target a circular area. Until your next turn, you will reflexively shoot at the first three enemies moving within this area.",
                 "special": "Set Reactive Shot for 1 Turn(s).",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "2",
                 "req": "Huntsman 2"
             },
@@ -626,7 +626,7 @@
                 "name": "Ricochet",
                 "desc": "Fire a normal arrow that deals 90% damage and then finds another target within 5m. Forks up to 2 times.",
                 "special": "Damage is based on your basic attack and receives a bonus from Finesse.",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "4",
                 "req": "Huntsman 1"
             },
@@ -635,7 +635,7 @@
                 "name": "Sky Shot",
                 "desc": "Leap into the air before shooting, gaining damage bonuses for your superior height. Deals 100% Damage.",
                 "special": "This skill receives high ground bonuses regardless of elevation. Damage is based on your basic attack and receives a bonus from Finesse.",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "2",
                 "req": "Huntsman 1"
             },
@@ -644,7 +644,7 @@
                 "name": "Tactical Retreat",
                 "desc": "Apply haste to yourself, then teleport away from imminent danger.",
                 "special": "Set Hasted for 1 Turn(s)",
-                "cost": "1 Memory",
+                "cost": "1",
                 "cool": "4",
                 "req": "Huntsman 2"
             }
@@ -664,206 +664,178 @@
               {
                   "id": "1",
                   "name": "Arcane Stitch",
-                  "desc": "Fully restore target character's Magic Armour. Removes Frozen, Stunned, Petrified, Plague, Suffocating, Poisoned, Burning, Necrofire, Terrified, Silenced, Taunted, Mad.",
-                  "special": "Restore [X] Magic Armour.",
-                  "cost": "2 Memory",
+                  "desc": "Fully restore target character's Magic Armour. Removes Frozen, Stunned, Petrified, Plague, Suffocating, Poisoned, Burning, Necrofire, Terrified, Silenced, Taunted, Mad. Restore [X] Magic Armour.",
+                  "cost": "2",
                   "cool": "4",
                   "req": "Hyd 3"
               },
               {
                   "id": "2",
                   "name": "Armour of Frost",
-                  "desc": "Ice forms a defensive barrier around the target, providing [X] Magical Armour magic_armour-icon. Cures Burning, Poisoned, Stunned, Frozen, Suffocating and Petrified.",
-                  "special": "Set Magic Shell for 3 turn(s).",
-                  "cost": "1 Memory",
+                  "desc": "Ice forms a defensive barrier around the target, providing [X] Magical Armour magic_armour-icon. Cures Burning, Poisoned, Stunned, Frozen, Suffocating and Petrified. Sets Magic Shell for 3 turn(s).",
+                  "cost": "1",
                   "cool": "4",
                   "req": "Hyd 1"
               },
               {
                   "id": "3",
                   "name": "Cleanse Wounds",
-                  "desc": "Heal target and create a water puddle beneath them. Remove Burning, Diseased, Decaying Touch, Poisoned and Bleeding.",
-                  "special": "Restore [X] Vitality",
-                  "cost": "1 Memory",
+                  "desc": "Heal target and create a water puddle beneath them. Remove Burning, Diseased, Decaying Touch, Poisoned and Bleeding. Restore [X] Vitality",
+                  "cost": "1",
                   "cool": "5",
-                  "req":  { 
-                      "hyd": "Hyd 1", 
-                      "war": "Warfare 1" 
-                  }
+                  "req": "Hyd 1, Warfare 1" 
               },
               {
                   "id": "4",
                   "name": "Cryogenic Stasis",
-                  "desc": "Target ally enters Cryogenic Stasis. Though incapacitated, they become immune to all damage, and heal over time. Removes Shackles Of Pain.",
-                  "special": "Set Permafrost for 1 Turn(s).",
-                  "cost": "# Memory",
+                  "desc": "Target ally enters Cryogenic Stasis. Though incapacitated, they become immune to all damage, and heal over time. Removes Shackles Of Pain. Sets Permafrost for 1 Turn(s).",
+                  "cost": "#",
                   "cool": "4",
                   "req": "Hyd 2"
               },
               {
                   "id": "5",
                   "name": "Cryotherapy",
-                  "desc": "Consume Frozen surfaces around you and convert them to Magic Armour. Removes Burning and Necrofire.",
-                  "special": "Restore up to 34 Magic Armour depending on relevant surface area.",
-                  "cost": "1 Memory",
+                  "desc": "Consume Frozen surfaces around you and convert them to Magic Armour. Removes Burning and Necrofire. Restore up to 34 Magic Armour depending on relevant surface area.",
+                  "cost": "1",
                   "cool": "3",
-                  "req":  { 
-                      "hyd": "Hyd 1", 
-                      "hunt": "Huntsman 1" 
-                  }
+                  "req": "Hyd 1, Huntsman 1" 
               },
               {
                   "id": "6",
-                  "name": "",
-                  "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
-                  "cool": "",
-                  "req": "Hyd "
+                  "name": "Cryogenic Stasis",
+                  "desc": "Target ally enters Cryogenic Stasis. Though incapacitated, they become immune to all damage, and heal over time. Removes Shackles Of Pain.",
+                  "cost": "1",
+                  "cool": "4",
+                  "req": "Hyd 2"
               },
               {
                   "id": "7",
-                  "name": "",
-                  "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
-                  "cool": "",
-                  "req": "Hyd "
+                  "name": "Deep Freeze",
+                  "desc": "Targets in the cone that are frozen and under 10% Vitality shatter and instantly die. Otherwise they receive [X] Water Damage and become Frozen. Set Frozen for 1 Turn(s). Damage is based on your level and receives a bonus from Intelligence.",
+                  "cost": "1",
+                  "cool": "6",
+                  "req": "Hyd 3"
               },
               {
                   "id": "8",
-                  "name": "",
-                  "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
-                  "cool": "",
-                  "req": "Hyd "
+                  "name": "Global Cooling",
+                  "desc": "Set Chilled on enemies around you and deal [X] Water Damage. Freeze all succeptible surfaces. Damage is based on your level and receives a bonus from Intelligence.",
+                  "cost": "3",
+                  "cool": "1",
+                  "req": "Hyd 2"
               },
               {
                   "id": "9",
-                  "name": "",
-                  "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
-                  "cool": "",
-                  "req": "Hyd "
+                  "name": "Hail Storm",
+                  "desc": "20 ice shards fall from the sky, each dealing [X] Water Damage to characters within 13m range from impact. Damage is based on your level and receives a bonus from Intelligence.",
+                  "cost": "3",
+                  "cool": 4,
+                  "req": "Hyd 5"
               },
               {
                   "id": "10",
-                  "name": "",
-                  "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
-                  "cool": "",
-                  "req": "Hyd "
+                  "name": "Hail Strike",
+                  "desc": "Icicles fall from the sky, chilling enemies and dealing [X] water damage. They create Ice surfaces where they hit the ground. Damages is based on your level and receives bonus from Intelligence.",
+                  "cost": "1",
+                  "cool": "3",
+                  "req": "Hyd 1"
               },
               {
                   "id": "11",
-                  "name": "",
-                  "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
-                  "cool": "",
-                  "req": "Hyd "
+                  "name": "Healing Ritual",
+                  "desc": "Shoot a bolt of healing energy that will jump to nearby allies. Restore 7 Vitality",
+                  "cost": "1",
+                  "cool": "5",
+                  "req": "Hyd 2"
               },
               {
                   "id": "12",
-                  "name": "",
-                  "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
-                  "cool": "",
-                  "req": "Hyd "
+                  "name": "Healing Tears",
+                  "desc": "Three healing tears circle around you. Everytime an ally walks into melee range near you, a healing tear bathes them. Set Healing Tears for 3 Turn(s)",
+                  "cost": "1",
+                  "cool": "5",
+                  "req": "Hyd 1"
               },
               {
                   "id": "13",
-                  "name": "",
-                  "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
-                  "cool": "",
-                  "req": "Hyd "
+                  "name": "Ice Fan",
+                  "desc": "Target 3 positions and shoot an ice shard at each one, dealing [X] Water Damage and making targets Chilled. Set Chilled for 1 turn(s). Damage is based on your level and receives a bonus from Intelligence.",
+                  "cost": "1",
+                  "cool": "4",
+                  "req": "Hyd 2"
               },
               {
                   "id": "14",
-                  "name": "",
-                  "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
-                  "cool": "",
-                  "req": "Hyd "
+                  "name": "Mass Cleanse Wounds",
+                  "desc": "Heal yourself and allies around you. Create a water puddle beneath every target. Remove Necrofire, Burning, Diseased, Decaying Touch, Poisoned, Bleeding, Suffocation and Acid. Restore 15 Vitality",
+                  "cost": "2",
+                  "cool": "5",
+                  "req": "Hyd 2, Warfare 2"
               },
               {
                   "id": "15",
-                  "name": "",
-                  "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
-                  "cool": "",
-                  "req": "Hyd "
+                  "name": "Mass Cryotherapy",
+                  "desc": "Each ally consumes Frozen surfaces around them, converting the frozen surfaces to Magic Armour. Removes Burning and Necrofire. Restore up to 34 Magic Armour depending on relevant surface area.",
+                  "cost": "2",
+                  "cool": "5",
+                  "req": "Hyd 2, Huntsman 2"
               },
               {
                   "id": "16",
-                  "name": "",
-                  "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
-                  "cool": "",
-                  "req": "Hyd "
+                  "name": "Rain",
+                  "desc": "Create a spreading water surface which douses fires. Set Wet status on characters in the area.",
+                  "cost": "1",
+                  "cool": "6",
+                  "req": "Hyd 1"
               },
               {
                   "id": "17",
-                  "name": "",
-                  "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
-                  "cool": "",
-                  "req": "Hyd "
+                  "name": "Restoration",
+                  "desc": "Restore Vitality of a target character. Restoration also cures Poisoned and Bleeding. Restore [X] Vitality for 2 turn(s).",
+                  "cost": "1",
+                  "cool": "4",
+                  "req": "Hyd 1"
               },
               {
                   "id": "18",
-                  "name": "",
-                  "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
-                  "cool": "",
-                  "req": "Hyd "
+                  "name": "Soothing Cold",
+                  "desc": "Regenerate Magical Armour magic_armour-icon for all alies around caster. Restore [x] Magic Armour for 3 turn(s).",
+                  "cost": "1",
+                  "cool": "3",
+                  "req": "Hyd 2"
               },
               {
                   "id": "19",
-                  "name": "",
-                  "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
-                  "cool": "",
-                  "req": "Hyd "
+                  "name": "Steam Lance",
+                  "desc": "Releases a stream of Blessed Steam that heals characters in its path. Restore 6 Vitality for 3 Turn(s)",
+                  "cost": "2",
+                  "cool": "3",
+                  "req": "Hyd 3"
               },
               {
                   "id": "20",
-                  "name": "",
-                  "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
-                  "cool": "",
-                  "req": "Hyd "
+                  "name": "Vampiric Hunger",
+                  "desc": "Set Vampiric Hunger on target character, adding 50% Life Steal for 2 turns. Life Steal heals you in proportion to the damage you deal to Vitality. Set Vampiric Hunger for 2 Turn(s)",
+                  "cost": "1",
+                  "cool": "5",
+                  "req": "Hyd 1, Scoundrel 1"
               },
               {
                   "id": "21",
-                  "name": "",
-                  "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
-                  "cool": "",
-                  "req": "Hyd "
+                  "name": "Vampiric Hunger Aura",
+                  "desc": "Set Vampiric Hunger Aura on every ally around you, adding 50% Life Steal for 2 turns. Life Steal heals you in proportion to the damage you deal to Vitality. Set Vampiric Hunger Aura for 2 Turn(s)",
+                  "cost": "2",
+                  "cool": "5",
+                  "req": "Hyd 2, Scoundrel 2"
               },
               {
                   "id": "22",
-                  "name": "",
-                  "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
-                  "cool": "",
-                  "req": "Hyd "
+                  "name": "Winter Blast",
+                  "desc": "Deal [X] Water Damage and set Chilled status on characters in the area. Freeze blood and water surfaces. Set Chilled for 2 turn(s). Damage is based on your level and receives a bonus from Intelligence.",
+                  "cost": "1",
+                  "cool": "3",
+                  "req": "Hyd 2"
               }
           }
       ]
@@ -880,8 +852,7 @@
               "id": "1",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -889,8 +860,7 @@
               "id": "2",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -898,8 +868,7 @@
               "id": "3",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -907,8 +876,7 @@
               "id": "4",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -916,8 +884,7 @@
               "id": "5",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -925,8 +892,7 @@
               "id": "6",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -934,8 +900,7 @@
               "id": "7",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -943,8 +908,7 @@
               "id": "8",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -952,8 +916,7 @@
               "id": "9",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -961,8 +924,7 @@
               "id": "10",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -970,8 +932,7 @@
               "id": "11",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -979,8 +940,7 @@
               "id": "12",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -988,8 +948,7 @@
               "id": "13",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -997,8 +956,7 @@
               "id": "14",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1006,8 +964,7 @@
               "id": "15",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1015,8 +972,7 @@
               "id": "16",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1024,8 +980,7 @@
               "id": "17",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },  
@@ -1042,8 +997,7 @@
               "id": "1",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1051,8 +1005,7 @@
               "id": "2",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1060,8 +1013,7 @@
               "id": "3",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1069,8 +1021,7 @@
               "id": "4",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1078,8 +1029,7 @@
               "id": "5",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1087,8 +1037,7 @@
               "id": "6",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1096,8 +1045,7 @@
               "id": "7",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1105,8 +1053,7 @@
               "id": "8",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1114,8 +1061,7 @@
               "id": "9",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1123,8 +1069,7 @@
               "id": "10",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1132,8 +1077,7 @@
               "id": "11",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1141,8 +1085,7 @@
               "id": "12",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1150,8 +1093,7 @@
               "id": "13",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1159,8 +1101,7 @@
               "id": "14",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1168,8 +1109,7 @@
               "id": "15",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1177,8 +1117,7 @@
               "id": "16",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1186,8 +1125,7 @@
               "id": "17",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1195,8 +1133,7 @@
               "id": "18",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1204,8 +1141,7 @@
               "id": "19",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1213,8 +1149,7 @@
               "id": "20",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1222,8 +1157,7 @@
               "id": "21",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },   
@@ -1237,8 +1171,7 @@
               "id": "1",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1246,8 +1179,7 @@
               "id": "2",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1255,8 +1187,7 @@
               "id": "3",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1264,8 +1195,7 @@
               "id": "4",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1273,8 +1203,7 @@
               "id": "5",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1282,8 +1211,7 @@
               "id": "6",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1291,8 +1219,7 @@
               "id": "7",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1300,8 +1227,7 @@
               "id": "8",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1309,8 +1235,7 @@
               "id": "9",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1318,8 +1243,7 @@
               "id": "10",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1327,8 +1251,7 @@
               "id": "11",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1336,8 +1259,7 @@
               "id": "12",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1345,8 +1267,7 @@
               "id": "13",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1354,8 +1275,7 @@
               "id": "14",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1363,8 +1283,7 @@
               "id": "15",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1372,8 +1291,7 @@
               "id": "16",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1381,8 +1299,7 @@
               "id": "17",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1390,8 +1307,7 @@
               "id": "18",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1399,8 +1315,7 @@
               "id": "19",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1408,8 +1323,7 @@
               "id": "20",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1417,8 +1331,7 @@
               "id": "21",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1426,8 +1339,7 @@
               "id": "22",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1435,8 +1347,7 @@
               "id": "23",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1444,8 +1355,7 @@
               "id": "24",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1463,8 +1373,7 @@
               "id": "1",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1472,8 +1381,7 @@
               "id": "2",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1481,8 +1389,7 @@
               "id": "3",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1490,8 +1397,7 @@
               "id": "4",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1499,8 +1405,7 @@
               "id": "5",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1508,8 +1413,7 @@
               "id": "6",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1517,8 +1421,7 @@
               "id": "7",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1526,8 +1429,7 @@
               "id": "8",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1535,8 +1437,7 @@
               "id": "9",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1544,8 +1445,7 @@
               "id": "10",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1553,8 +1453,7 @@
               "id": "11",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1562,8 +1461,7 @@
               "id": "12",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1571,8 +1469,7 @@
               "id": "13",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1580,8 +1477,7 @@
               "id": "14",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1589,8 +1485,7 @@
               "id": "15",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1607,8 +1502,7 @@
               "id": "1",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1616,8 +1510,7 @@
               "id": "2",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1625,8 +1518,7 @@
               "id": "3",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1634,8 +1526,7 @@
               "id": "4",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1643,8 +1534,7 @@
               "id": "5",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1652,8 +1542,7 @@
               "id": "6",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1661,8 +1550,7 @@
               "id": "7",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1670,8 +1558,7 @@
               "id": "8",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1679,8 +1566,7 @@
               "id": "9",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1688,8 +1574,7 @@
               "id": "10",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1697,8 +1582,7 @@
               "id": "11",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1706,8 +1590,7 @@
               "id": "12",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1715,8 +1598,7 @@
               "id": "13",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1724,8 +1606,7 @@
               "id": "14",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1733,8 +1614,7 @@
               "id": "15",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1742,8 +1622,7 @@
               "id": "16",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1760,8 +1639,8 @@
                   "id": "1",
                   "name": "",
                   "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
+
+                  "cost": "#",
                   "cool": "",
                   "req": ""
               },
@@ -1769,8 +1648,8 @@
                   "id": "2",
                   "name": "",
                   "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
+
+                  "cost": "#",
                   "cool": "",
                   "req": ""
               },
@@ -1778,8 +1657,8 @@
                   "id": "3",
                   "name": "",
                   "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
+
+                  "cost": "#",
                   "cool": "",
                   "req": ""
               },
@@ -1787,8 +1666,8 @@
                   "id": "4",
                   "name": "",
                   "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
+
+                  "cost": "#",
                   "cool": "",
                   "req": ""
               },
@@ -1796,8 +1675,8 @@
                   "id": "5",
                   "name": "",
                   "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
+
+                  "cost": "#",
                   "cool": "",
                   "req": ""
               },
@@ -1805,8 +1684,8 @@
                   "id": "6",
                   "name": "",
                   "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
+
+                  "cost": "#",
                   "cool": "",
                   "req": ""
               },
@@ -1814,8 +1693,8 @@
                   "id": "7",
                   "name": "",
                   "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
+
+                  "cost": "#",
                   "cool": "",
                   "req": ""
               },
@@ -1823,8 +1702,8 @@
                   "id": "8",
                   "name": "",
                   "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
+
+                  "cost": "#",
                   "cool": "",
                   "req": ""
               },
@@ -1832,8 +1711,8 @@
                   "id": "9",
                   "name": "",
                   "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
+
+                  "cost": "#",
                   "cool": "",
                   "req": ""
               },
@@ -1841,8 +1720,8 @@
                   "id": "10",
                   "name": "",
                   "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
+
+                  "cost": "#",
                   "cool": "",
                   "req": ""
               },
@@ -1850,8 +1729,8 @@
                   "id": "11",
                   "name": "",
                   "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
+
+                  "cost": "#",
                   "cool": "",
                   "req": ""
               },
@@ -1859,8 +1738,8 @@
                   "id": "12",
                   "name": "",
                   "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
+
+                  "cost": "#",
                   "cool": "",
                   "req": ""
               },
@@ -1868,8 +1747,8 @@
                   "id": "13",
                   "name": "",
                   "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
+
+                  "cost": "#",
                   "cool": "",
                   "req": ""
               },
@@ -1877,8 +1756,8 @@
                   "id": "14",
                   "name": "",
                   "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
+
+                  "cost": "#",
                   "cool": "",
                   "req": ""
               },
@@ -1886,8 +1765,8 @@
                   "id": "15",
                   "name": "",
                   "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
+
+                  "cost": "#",
                   "cool": "",
                   "req": ""
               },
@@ -1895,8 +1774,8 @@
                   "id": "16",
                   "name": "",
                   "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
+
+                  "cost": "#",
                   "cool": "",
                   "req": ""
               },
@@ -1904,8 +1783,8 @@
                   "id": "17",
                   "name": "",
                   "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
+
+                  "cost": "#",
                   "cool": "",
                   "req": ""
               },
@@ -1913,8 +1792,8 @@
                   "id": "18",
                   "name": "",
                   "desc": "",
-                  "special": "",
-                  "cost": "# Memory",
+
+                  "cost": "#",
                   "cool": "",
                   "req": ""
               },
@@ -1929,8 +1808,7 @@
               "id": "1",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1938,8 +1816,7 @@
               "id": "2",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1947,8 +1824,7 @@
               "id": "3",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1956,8 +1832,7 @@
               "id": "4",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1965,8 +1840,7 @@
               "id": "5",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1974,8 +1848,7 @@
               "id": "6",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1983,8 +1856,7 @@
               "id": "7",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -1992,8 +1864,7 @@
               "id": "8",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2001,8 +1872,7 @@
               "id": "9",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2010,8 +1880,7 @@
               "id": "10",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2019,8 +1888,7 @@
               "id": "11",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2028,8 +1896,7 @@
               "id": "12",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2037,8 +1904,7 @@
               "id": "13",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2046,8 +1912,7 @@
               "id": "14",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2055,8 +1920,7 @@
               "id": "15",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2064,8 +1928,7 @@
               "id": "16",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2073,8 +1936,7 @@
               "id": "17",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2082,8 +1944,7 @@
               "id": "18",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2091,8 +1952,7 @@
               "id": "19",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2100,8 +1960,7 @@
               "id": "20",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2109,8 +1968,7 @@
               "id": "21",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2118,8 +1976,7 @@
               "id": "22",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2127,8 +1984,7 @@
               "id": "23",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2136,8 +1992,7 @@
               "id": "24",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2145,8 +2000,7 @@
               "id": "25",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2154,8 +2008,7 @@
               "id": "26",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2163,8 +2016,7 @@
               "id": "27",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2172,8 +2024,7 @@
               "id": "28",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2190,8 +2041,7 @@
               "id": "1",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2199,8 +2049,7 @@
               "id": "2",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2208,8 +2057,7 @@
               "id": "3",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2217,8 +2065,7 @@
               "id": "4",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2226,8 +2073,7 @@
               "id": "5",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2235,8 +2081,7 @@
               "id": "6",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2244,8 +2089,7 @@
               "id": "7",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2253,8 +2097,7 @@
               "id": "8",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2262,8 +2105,7 @@
               "id": "9",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2271,8 +2113,7 @@
               "id": "10",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2280,8 +2121,7 @@
               "id": "11",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2289,8 +2129,7 @@
               "id": "12",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2298,8 +2137,7 @@
               "id": "13",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2307,8 +2145,7 @@
               "id": "14",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
@@ -2316,8 +2153,7 @@
               "id": "15",
               "name": "",
               "desc": "",
-              "special": "",
-              "cost": "# Memory",
+              "cost": "#",
               "cool": "",
               "req": ""
           },
