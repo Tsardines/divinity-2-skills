@@ -10,9 +10,13 @@
     background-color: rgb(136, 158, 139)
 }
 
+.hydro-wrap {
+    background-color: rgb(78, 92, 138);
+}
+
 /* ------------------------------------ */
 
-.Aero, .Geo, .Hunts {
+.Aero, .Geo, .Hunts, .Hydro {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -79,3 +83,15 @@
 .Hunts p:hover {
     color: maroon;
 }
+
+.Hydro p:hover {
+    color: rgb(138, 113, 58);
+}
+
+/* ------------------------------------ */
+
+
+.hydro-wrap .skill-title h1 {
+    color: rgb(32, 141, 204);
+    text-shadow: 2px 2px black;
+} 

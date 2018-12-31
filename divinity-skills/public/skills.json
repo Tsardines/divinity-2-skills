@@ -667,7 +667,7 @@
                   "desc": "Fully restore target character's Magic Armour. Removes Frozen, Stunned, Petrified, Plague, Suffocating, Poisoned, Burning, Necrofire, Terrified, Silenced, Taunted, Mad. Restore [X] Magic Armour.",
                   "cost": "2",
                   "cool": "4",
-                  "req": "Hyd 3"
+                  "req": "Hydrosophist 3"
               },
               {
                   "id": "2",
@@ -675,7 +675,7 @@
                   "desc": "Ice forms a defensive barrier around the target, providing [X] Magical Armour magic_armour-icon. Cures Burning, Poisoned, Stunned, Frozen, Suffocating and Petrified. Sets Magic Shell for 3 turn(s).",
                   "cost": "1",
                   "cool": "4",
-                  "req": "Hyd 1"
+                  "req": "Hydrosophist 1"
               },
               {
                   "id": "3",
@@ -683,7 +683,7 @@
                   "desc": "Heal target and create a water puddle beneath them. Remove Burning, Diseased, Decaying Touch, Poisoned and Bleeding. Restore [X] Vitality",
                   "cost": "1",
                   "cool": "5",
-                  "req": "Hyd 1, Warfare 1" 
+                  "req": "Hydrosophist 1, Warfare 1" 
               },
               {
                   "id": "4",
@@ -691,7 +691,7 @@
                   "desc": "Target ally enters Cryogenic Stasis. Though incapacitated, they become immune to all damage, and heal over time. Removes Shackles Of Pain. Sets Permafrost for 1 Turn(s).",
                   "cost": "#",
                   "cool": "4",
-                  "req": "Hyd 2"
+                  "req": "Hydrosophist 2"
               },
               {
                   "id": "5",
@@ -699,7 +699,7 @@
                   "desc": "Consume Frozen surfaces around you and convert them to Magic Armour. Removes Burning and Necrofire. Restore up to 34 Magic Armour depending on relevant surface area.",
                   "cost": "1",
                   "cool": "3",
-                  "req": "Hyd 1, Huntsman 1" 
+                  "req": "Hydrosophist 1, Huntsman 1" 
               },
               {
                   "id": "6",
@@ -707,7 +707,7 @@
                   "desc": "Target ally enters Cryogenic Stasis. Though incapacitated, they become immune to all damage, and heal over time. Removes Shackles Of Pain.",
                   "cost": "1",
                   "cool": "4",
-                  "req": "Hyd 2"
+                  "req": "Hydrosophist 2"
               },
               {
                   "id": "7",
@@ -715,7 +715,7 @@
                   "desc": "Targets in the cone that are frozen and under 10% Vitality shatter and instantly die. Otherwise they receive [X] Water Damage and become Frozen. Set Frozen for 1 Turn(s). Damage is based on your level and receives a bonus from Intelligence.",
                   "cost": "1",
                   "cool": "6",
-                  "req": "Hyd 3"
+                  "req": "Hydrosophist 3"
               },
               {
                   "id": "8",
@@ -723,7 +723,7 @@
                   "desc": "Set Chilled on enemies around you and deal [X] Water Damage. Freeze all succeptible surfaces. Damage is based on your level and receives a bonus from Intelligence.",
                   "cost": "3",
                   "cool": "1",
-                  "req": "Hyd 2"
+                  "req": "Hydrosophist 2"
               },
               {
                   "id": "9",
@@ -731,7 +731,7 @@
                   "desc": "20 ice shards fall from the sky, each dealing [X] Water Damage to characters within 13m range from impact. Damage is based on your level and receives a bonus from Intelligence.",
                   "cost": "3",
                   "cool": 4,
-                  "req": "Hyd 5"
+                  "req": "Hydrosophist 5"
               },
               {
                   "id": "10",
@@ -739,7 +739,7 @@
                   "desc": "Icicles fall from the sky, chilling enemies and dealing [X] water damage. They create Ice surfaces where they hit the ground. Damages is based on your level and receives bonus from Intelligence.",
                   "cost": "1",
                   "cool": "3",
-                  "req": "Hyd 1"
+                  "req": "Hydrosophist 1"
               },
               {
                   "id": "11",
@@ -747,7 +747,7 @@
                   "desc": "Shoot a bolt of healing energy that will jump to nearby allies. Restore 7 Vitality",
                   "cost": "1",
                   "cool": "5",
-                  "req": "Hyd 2"
+                  "req": "Hydrosophist 2"
               },
               {
                   "id": "12",
@@ -755,7 +755,7 @@
                   "desc": "Three healing tears circle around you. Everytime an ally walks into melee range near you, a healing tear bathes them. Set Healing Tears for 3 Turn(s)",
                   "cost": "1",
                   "cool": "5",
-                  "req": "Hyd 1"
+                  "req": "Hydrosophist 1"
               },
               {
                   "id": "13",
@@ -763,7 +763,7 @@
                   "desc": "Target 3 positions and shoot an ice shard at each one, dealing [X] Water Damage and making targets Chilled. Set Chilled for 1 turn(s). Damage is based on your level and receives a bonus from Intelligence.",
                   "cost": "1",
                   "cool": "4",
-                  "req": "Hyd 2"
+                  "req": "Hydrosophist 2"
               },
               {
                   "id": "14",
@@ -771,7 +771,7 @@
                   "desc": "Heal yourself and allies around you. Create a water puddle beneath every target. Remove Necrofire, Burning, Diseased, Decaying Touch, Poisoned, Bleeding, Suffocation and Acid. Restore 15 Vitality",
                   "cost": "2",
                   "cool": "5",
-                  "req": "Hyd 2, Warfare 2"
+                  "req": "Hydrosophist 2, Warfare 2"
               },
               {
                   "id": "15",
@@ -779,7 +779,7 @@
                   "desc": "Each ally consumes Frozen surfaces around them, converting the frozen surfaces to Magic Armour. Removes Burning and Necrofire. Restore up to 34 Magic Armour depending on relevant surface area.",
                   "cost": "2",
                   "cool": "5",
-                  "req": "Hyd 2, Huntsman 2"
+                  "req": "Hydrosophist 2, Huntsman 2"
               },
               {
                   "id": "16",
@@ -787,7 +787,7 @@
                   "desc": "Create a spreading water surface which douses fires. Set Wet status on characters in the area.",
                   "cost": "1",
                   "cool": "6",
-                  "req": "Hyd 1"
+                  "req": "Hydrosophist 1"
               },
               {
                   "id": "17",
@@ -795,7 +795,7 @@
                   "desc": "Restore Vitality of a target character. Restoration also cures Poisoned and Bleeding. Restore [X] Vitality for 2 turn(s).",
                   "cost": "1",
                   "cool": "4",
-                  "req": "Hyd 1"
+                  "req": "Hydrosophist 1"
               },
               {
                   "id": "18",
@@ -803,7 +803,7 @@
                   "desc": "Regenerate Magical Armour magic_armour-icon for all alies around caster. Restore [x] Magic Armour for 3 turn(s).",
                   "cost": "1",
                   "cool": "3",
-                  "req": "Hyd 2"
+                  "req": "Hydrosophist 2"
               },
               {
                   "id": "19",
@@ -811,7 +811,7 @@
                   "desc": "Releases a stream of Blessed Steam that heals characters in its path. Restore 6 Vitality for 3 Turn(s)",
                   "cost": "2",
                   "cool": "3",
-                  "req": "Hyd 3"
+                  "req": "Hydrosophist 3"
               },
               {
                   "id": "20",
@@ -819,7 +819,7 @@
                   "desc": "Set Vampiric Hunger on target character, adding 50% Life Steal for 2 turns. Life Steal heals you in proportion to the damage you deal to Vitality. Set Vampiric Hunger for 2 Turn(s)",
                   "cost": "1",
                   "cool": "5",
-                  "req": "Hyd 1, Scoundrel 1"
+                  "req": "Hydrosophist 1, Scoundrel 1"
               },
               {
                   "id": "21",
@@ -827,7 +827,7 @@
                   "desc": "Set Vampiric Hunger Aura on every ally around you, adding 50% Life Steal for 2 turns. Life Steal heals you in proportion to the damage you deal to Vitality. Set Vampiric Hunger Aura for 2 Turn(s)",
                   "cost": "2",
                   "cool": "5",
-                  "req": "Hyd 2, Scoundrel 2"
+                  "req": "Hydrosophist 2, Scoundrel 2"
               },
               {
                   "id": "22",
@@ -835,7 +835,7 @@
                   "desc": "Deal [X] Water Damage and set Chilled status on characters in the area. Freeze blood and water surfaces. Set Chilled for 2 turn(s). Damage is based on your level and receives a bonus from Intelligence.",
                   "cost": "1",
                   "cool": "3",
-                  "req": "Hyd 2"
+                  "req": "Hydrosophist 2"
               }
           }
       ]
