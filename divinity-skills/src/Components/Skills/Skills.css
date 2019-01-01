@@ -14,9 +14,15 @@
     background-color: rgb(78, 92, 138);
 }
 
+
+
+.war-wrap {
+    background-color: rgb(83, 32, 32)
+}
+
 /* ------------------------------------ */
 
-.Aero, .Geo, .Hunts, .Hydro {
+.Aero, .Geo, .Hunts, .Hydro, .War {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
