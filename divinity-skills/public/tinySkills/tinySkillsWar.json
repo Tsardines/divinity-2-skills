@@ -50,73 +50,73 @@
     {
         "id": "7",
         "name": "Deflective Barrier",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "War "
+        "desc": "Projectiles that hit you are reflected back at the caster. This does not prevent the original projectile effects. Provides [X] Physical Armour. Set Deflecting for 3 turn(s).",
+        "cost": "1",
+        "cool": "5",
+        "req": "War 2, a Shield"
     },
     {
         "id": "8",
         "name": "Enrage",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "War "
+        "desc": "Motivate an allied character with the power of rage. Target allied character is garaunteed to land critical hits with basic attacks and weapon skills, but is muted. Clears Taunted, Terrified, Charmed, Mad and Clear-Minded statuses. Set Enraged for 1 turn(s).",
+        "cost": "1",
+        "cool": "5",
+        "req": "War 2"
     },
     {
         "id": "9",
         "name": "Guardian Angel",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "War "
+        "desc": "Allies in melee range redirect 50% of received damage to you. Set Guardian Angel Aura for 2 turn(s).",
+        "cost": "1",
+        "cool": "6",
+        "req": "War 3"
     },
     {
         "id": "10",
         "name": "Onslaught",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "War "
+        "desc": "Attack five times with astonishing speed, each hit dealing 50% weapon damage.",
+        "cost": "2",
+        "cool": "6",
+        "req": "War 3"
     },
     {
         "id": "11",
         "name": "Overpower",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "War "
+        "desc": "Deals 150% weapon damage. If your Physical Armour is higher than your opponent's, destroy all their Physical Armour. Set Knocked Down for 1 turn(s).",
+        "cost": "3",
+        "cool": "3",
+        "req": "War 5"
     },
     {
         "id": "12",
         "name": "Phoenix Dive",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "War "
+        "desc": "Leap through the air to a target position, creating a fire surface upon landing.",
+        "cost": "1",
+        "cool": "4",
+        "req": "War 2"
     },
     {
         "id": "13",
         "name": "Provoke",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "War "
+        "desc": "Taunt the enemies around you. Provoke and tease them so that they want to attack you. Set Taunted for 1 turn(s).",
+        "cost": "1",
+        "cool": "5",
+        "req": "War 2"
     },
     {
         "id": "14",
         "name": "Thick of the Fight",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "War "
+        "desc": "The more the merrier! Gain a damage boost for every nearby character. Set Thick of the Fight for 2 turn(s).",
+        "cost": "2",
+        "cool": "4",
+        "req": "War 3"
     },
     {
         "id": "15",
         "name": "Whirlwind",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "War "
+        "desc": "Perform a whirlwind attack, hitting enemies around you for 100% weapon damage.",
+        "cost": "1",
+        "cool": "3",
+        "req": "War 2, a Shield"
     }
 }
