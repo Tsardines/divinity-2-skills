@@ -48,16 +48,16 @@ class Geo extends Component {
 
                   <div className="tier-2">
                 
-                    <th><div className="skill-cost">
-                      <p key={num}><strong>Memory:</strong> {item.cost}</p>
+                  <th><div className="skill-cost">
+                      <p key={num}><strong>Memory:<br /></strong> {item.cost}</p>
                     </div></th>
 
                     <th><div className="skill-cool">
-                      <p key={num}><strong>Cooldown:</strong> {item.cool} turns</p>
+                      <p key={num}><strong>Cooldown:<br /></strong> {item.cool} turns</p>
                     </div></th>
 
                     <th><div className="skill-req">
-                      <p key={num}><strong>Requirements:</strong> {item.req}</p>
+                      <p key={num}><strong>Requirements:<br /></strong> {item.req}</p>
                     </div></th>
 
                   </div>

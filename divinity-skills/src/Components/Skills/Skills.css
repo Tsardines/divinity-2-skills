@@ -55,6 +55,10 @@
 
 .tier-2 {
     font-size: 1.25vw;
+    padding-left: 10%;
+}
+
+.tier-2 p {
     text-align: center;
 }
 
@@ -94,6 +98,9 @@
     color: rgb(131, 80, 13);
 }
 
+.War p:hover {
+    color: rgb(44, 113, 177)
+}
 /* ------------------------------------ */
 
 
@@ -101,3 +108,8 @@
     color: rgb(32, 141, 204);
     text-shadow: 2px 2px black;
 } 
+
+.war-wrap .skill-title h1 {
+    color: white;
+    text-shadow: 2px 2px black;
+}
