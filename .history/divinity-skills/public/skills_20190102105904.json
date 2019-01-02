@@ -1369,7 +1369,7 @@
         "desc": "Gain 2 Action Points immediately, but lose 2 Action Points next turn. Any Action Points over your maximum are lost. Does not break Invisibility or Sneaking.",
         "cost": "1",
         "cool": "4",
-        "req": "Scoundrel 1"
+        "req": "Sco 1"
     },
     {
         "id": "2",
@@ -1377,7 +1377,7 @@
         "desc": "Jump over the enemy, landing behind their back and backstabbing them for [X] physical damage. 100% chance to Backstab.",
         "cost": "1",
         "cool": "3",
-        "req": "Scoundrel 1, a Dagger"
+        "req": "Sco 1, a Dagger"
     },
     {
         "id": "3",
@@ -1385,7 +1385,7 @@
         "desc": "Throw a knife at your opponent, dealing [X] physical damage. Can backstab.",
         "cost": "1",
         "cool": "1",
-        "req": "Scoundrel 1"
+        "req": "Sco 1"
     },
     {
         "id": "4",
@@ -1393,7 +1393,7 @@
         "desc": "Teleport without breaking sneaking. Does not break Invisibility or Sneaking.",
         "cost": "1",
         "cool": "4",
-        "req": "Scoundrel 2"
+        "req": "Sco 2"
     },
     {
         "id": "5",
@@ -1401,7 +1401,7 @@
         "desc": "Dagger attack that deals [X] physical damage and sets Decay and Diseased. Set Decaying for 2 turn(s). Set Diseased for 2 turn(s).",
         "cost": "1",
         "cool": "4",
-        "req": "Scoundrel 2, a Dagger"
+        "req": "Sco 2, a Dagger"
     },
     {
         "id": "6",
@@ -1409,7 +1409,7 @@
         "desc": "Whirl into a barrage of 5 stabs, each dealing [X] physical damage.",
         "cost": "2",
         "cool": "6",
-        "req": "Scoundrel 3, a Dagger"
+        "req": "Sco 3, a Dagger"
     },
     {
         "id": "7",
@@ -1417,7 +1417,7 @@
         "desc": "Fling a dagger at every enemy around you, dealing [X] physical damage. Can backstab.",
         "cost": "2",
         "cool": "2",
-        "req": "Scoundrel 3, a Dagger"
+        "req": "Sco 3, a Dagger"
     },
     {
         "id": "8",
@@ -1425,7 +1425,7 @@
         "desc": "Destroy [X] Magic Armour on target character. Silence target for 1 turn.",
         "cost": "1",
         "cool": "4",
-        "req": "Scoundrel 2, a Dagger"
+        "req": "Sco 2, a Dagger"
     },
     {
         "id": "9",
@@ -1433,7 +1433,7 @@
         "desc": "Deal [140% weapon] physical damage. Damage is doubled if you are sneaking or invisible. Target is killed instantly if below 20% Viality.",
         "cost": "3",
         "cool": "N/A",
-        "req": "Scoundrel 5, a Dagger"
+        "req": "Sco 5, a Dagger"
     },
     {
         "id": "10",
@@ -1441,7 +1441,7 @@
         "desc": "Deal [X] physical damage to target character. When they try to move, they will take piercing damage. Set Ruptured Tendons for 2 turn(s).",
         "cost": "1",
         "cool": "5",
-        "req": "Scoundrel 2, a Dagger"
+        "req": "Sco 2, a Dagger"
     },
     {
         "id": "11",
@@ -1449,7 +1449,7 @@
         "desc": "Pierce the enemy's Physical Armour and directly deals [X] piercing damage. Sets Bleeding if enemy has no Physical Armour for 3 turn(s).",
         "cost": "1",
         "cool": "3",
-        "req": "Scoundrel 2, a Dagger"
+        "req": "Sco 2, a Dagger"
     },
     {
         "id": "12",
@@ -1457,7 +1457,7 @@
         "desc": "Deal [X] physical damage and set Atrophy: your target can't use weapons or weapon skills anymore. Set Atrophy for 2 turn(s).",
         "cost": "1",
         "cool": "3",
-        "req": "Scoundrel 2, a Dagger"
+        "req": "Sco 2, a Dagger"
     },
     {
         "id": "13",
@@ -1465,7 +1465,7 @@
         "desc": "Dagger attack that deals [X] physical damage and sets Bleeding and Fear on target character. Set Bleeding for 3 turn(s)and set Terrified for 1 turn(s).",
         "cost": "1",
         "cool": "6",
-        "req": "Scoundrel 3, a Dagger"
+        "req": "Sco 3, a Dagger"
     },
     {
         "id": "14",
@@ -1473,7 +1473,7 @@
         "desc": "Throw a knife at your opponent, dealing [X] physical damage. Can backstab.",
         "cost": "1",
         "cool": "1",
-        "req": "Scoundrel 1, a Dagger"
+        "req": "Sco 1, a Dagger"
     },
     {
         "id": "15",
@@ -1481,7 +1481,7 @@
         "desc": "Summon a mechanical bomber at the target point. The bomber can explode, dealing fire damage and producing a fire surface. Does not break Invisibility or Sneaking. The stats of the summons will depend on caster level and Summoning ability.",
         "cost": "1",
         "cool": "6",
-        "req": "Scoundrel 3"
+        "req": "Sco 3"
     }
 ]
 
