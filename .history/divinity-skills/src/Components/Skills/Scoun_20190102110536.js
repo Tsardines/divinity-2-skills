@@ -51,7 +51,7 @@ class Scoun extends Component {
                   <div className="tier-2">
                 
                   <th><div className="skill-cost">
-                      <p key={num}><strong>Memory:<br /></strong> {item.cost}</p>
+                      <p key={num}><strong>Memory:</strong> {item.cost}</p>
                     </div></th>
 
                     <th><div className="skill-cool">

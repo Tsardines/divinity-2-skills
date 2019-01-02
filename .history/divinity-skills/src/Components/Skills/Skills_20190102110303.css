@@ -16,9 +16,8 @@
 
 
 .scoun-wrap {
-    background-color: rgb(67, 133, 127)
+    background-color: rgb(68, 68, 68)
 }
-
 
 .war-wrap {
     background-color: rgb(83, 32, 32)
@@ -102,10 +101,6 @@
     color: rgb(131, 80, 13);
 }
 
-.Scoun p:hover {
-    color: rgb(143, 60, 104);
-}
-
 .War p:hover {
     color: rgb(44, 113, 177)
 }
@@ -116,11 +111,6 @@
     color: rgb(32, 141, 204);
     text-shadow: 2px 2px black;
 } 
-
-.scoun-wrap .skill-title h1 {
-    color: white;
-    text-shadow: 2px 2px black;
-}
 
 .war-wrap .skill-title h1 {
     color: white;

@@ -16,9 +16,8 @@
 
 
 .scoun-wrap {
-    background-color: rgb(67, 133, 127)
+    background-color: rgb(47, 92, 88)
 }
-
 
 .war-wrap {
     background-color: rgb(83, 32, 32)
@@ -103,7 +102,7 @@
 }
 
 .Scoun p:hover {
-    color: rgb(143, 60, 104);
+    color: rgb(122, 35, 23);
 }
 
 .War p:hover {
