@@ -10,7 +10,7 @@
     {
         "id": "2",
         "name": "Armour of Frost",
-        "desc": "Ice forms a defensive barrier around the target, providing [X] Magical Armour. Cures Burning, Poisoned, Stunned, Frozen, Suffocating and Petrified. Sets Magic Shell for 3 turn(s).",
+        "desc": "Ice forms a defensive barrier around the target, providing [X] Magical Armour magic_armour-icon. Cures Burning, Poisoned, Stunned, Frozen, Suffocating and Petrified. Sets Magic Shell for 3 turn(s).",
         "cost": "1",
         "cool": "4",
         "req": "Hydrosophist 1"

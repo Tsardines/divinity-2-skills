@@ -10,7 +10,7 @@
     {
         "id": "2",
         "name": "Armour of Frost",
-        "desc": "Ice forms a defensive barrier around the target, providing [X] Magical Armour. Cures Burning, Poisoned, Stunned, Frozen, Suffocating and Petrified. Sets Magic Shell for 3 turn(s).",
+        "desc": "Ice forms a defensive barrier around the target, providing [X] Magical Armour magic_armour-icon. Cures Burning, Poisoned, Stunned, Frozen, Suffocating and Petrified. Sets Magic Shell for 3 turn(s).",
         "cost": "1",
         "cool": "4",
         "req": "Hydrosophist 1"
@@ -138,7 +138,7 @@
     {
         "id": "18",
         "name": "Soothing Cold",
-        "desc": "Regenerate Magical Armour for all alies around caster. Restore [x] Magic Armour for 3 turn(s).",
+        "desc": "Regenerate Magical Armour magic_armour-icon for all alies around caster. Restore [x] Magic Armour for 3 turn(s).",
         "cost": "1",
         "cool": "3",
         "req": "Hydrosophist 2"
