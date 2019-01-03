@@ -20,7 +20,7 @@ const Home = () => {
         {/* <span className="home-h1"><h1> Skills</h1></span> */}
 
         <form className="home-form">
-          Search skills: <input type="text"/>
+          Search skills: <input type="text" />
         </form>
 
         <div className="home-skills">
