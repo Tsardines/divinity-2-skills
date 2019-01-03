@@ -9,8 +9,10 @@ const Header = () => {
 
       <div className="header">
 
-          <h1>Divinity 2: Skills Checker</h1>
-          
+          <h1>Divinity Original Sin: 2 
+              <br /> 
+                Skills Checker</h1>
+
         <div className="nav-links">
 
             <div className="link">
