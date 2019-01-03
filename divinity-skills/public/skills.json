@@ -848,139 +848,139 @@
 
           {
               "id": "1",
-              "name": "",
+              "name": "Black Shroud",
               "desc": "",
               "cost": "#",
               "cool": "",
-              "req": ""
+              "req": "Necr "
           },
           {
               "id": "2",
-              "name": "",
-              "desc": "",
-              "cost": "#",
-              "cool": "",
-              "req": ""
+              "name": "Blood Storm",
+              "desc": "The sky weeps bloody tears. Bolts of coagulated blood fall on enemy characters in the area, setting Disease and Decaying Touch. Turns all water in the area into blood.",
+              "cost": "3",
+              "cool": "5",
+              "req": "Necr 3, Aerotheurge 3"
           },
           {
               "id": "3",
-              "name": "",
-              "desc": "",
-              "cost": "#",
-              "cool": "",
-              "req": ""
+              "name": "Blood Sucker",
+              "desc": "Target character consumes blood surfaces around them, restoring Vitality. The more blood, the more they are healed! Restores up to [X] Vitality.",
+              "cost": "1",
+              "cool": "3",
+              "req": "Necr 1"
           },
           {
               "id": "4",
-              "name": "",
+              "name": "Bone Cage",
               "desc": "",
               "cost": "#",
               "cool": "",
-              "req": ""
+              "req": "Necr "
           },
           {
               "id": "5",
-              "name": "",
+              "name": "Death Wish",
               "desc": "",
               "cost": "#",
               "cool": "",
-              "req": ""
+              "req": "Necr "
           },
           {
               "id": "6",
-              "name": "",
-              "desc": "",
-              "cost": "#",
-              "cool": "",
-              "req": ""
+              "name": "Decaying Touch",
+              "desc": "Deal [X] physical damage to target character. Sets Decay for 2 turn(s), so the target will take piercing damage from healing spells and potions.",
+              "cost": "1",
+              "cool": "3",
+              "req": "Necr 1"
           },
           {
               "id": "7",
-              "name": "",
+              "name": "Grasp of the Starved",
               "desc": "",
               "cost": "#",
               "cool": "",
-              "req": ""
+              "req": "Necr "
           },
           {
               "id": "8",
-              "name": "",
+              "name": "Infect",
               "desc": "",
               "cost": "#",
               "cool": "",
-              "req": ""
+              "req": "Necr "
           },
           {
               "id": "9",
-              "name": "",
+              "name": "Last Rites",
               "desc": "",
               "cost": "#",
               "cool": "",
-              "req": ""
+              "req": "Necr "
           },
           {
               "id": "10",
-              "name": "",
+              "name": "Living on the Edge",
               "desc": "",
               "cost": "#",
               "cool": "",
-              "req": ""
+              "req": "Necr "
           },
           {
               "id": "11",
-              "name": "",
-              "desc": "",
-              "cost": "#",
-              "cool": "",
-              "req": ""
+              "name": "Mosquito Storm",
+              "desc": "Unleash a swarm of giant mosquitos to suck the blood from your enemies, dealing physical damage and healing yourself. Restore up to [X] Vitality, depending on the damage dealt. Set Bleeding for 2 turn(s).",
+              "cost": "1",
+              "cool": "3",
+              "req": "Necr 1"
           },
           {
               "id": "12",
-              "name": "",
-              "desc": "",
-              "cost": "#",
-              "cool": "",
-              "req": ""
+              "name": "Raining Blood",
+              "desc": "Create blood surfaces. Set Bleeding on enemies for 2 turn(s). Douse fire surfaces.",
+              "cost": "1",
+              "cool": "5",
+              "req": "Necr 1, Aerotheurge 1"
           },
           {
               "id": "13",
-              "name": "",
-              "desc": "",
-              "cost": "#",
-              "cool": "",
-              "req": ""
+              "name": "Raise Bloated Corpse",
+              "desc": "Target a corpse to raise a bloated cadaver that fights for you. It can explode your target, dealing Physical Damage.",
+              "cost": "1",
+              "cool": "3",
+              "req": "Necr 1"
           },
           {
               "id": "14",
-              "name": "",
+              "name": "Raise Bone Widow",
               "desc": "",
               "cost": "#",
               "cool": "",
-              "req": ""
+              "req": "Necr "
           },
           {
               "id": "15",
-              "name": "",
+              "name": "Shackles of Pain",
               "desc": "",
               "cost": "#",
               "cool": "",
-              "req": ""
+              "req": "Necr "
           },
           {
               "id": "16",
-              "name": "",
+              "name": "Silencing Stare",
               "desc": "",
               "cost": "#",
               "cool": "",
-              "req": ""
+              "req": "Necr "
           },
           {
               "id": "17",
-              "name": "",
-              "desc": "",
-              "cost": "#",
-              "cool": "",
-              "req": ""
+              "name": "Totems of the Necromancer",
+              "desc": "Spawn bone totems near every enemy (alive or dead) in the area. Bone totems have ranged attacks that deal [x] physical damage.",
+              "cost": "3",
+              "cool": "5",
+              "req": "Necr 5"
           },  
       },  
 
