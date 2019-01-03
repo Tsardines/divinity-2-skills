@@ -14,6 +14,9 @@
     background-color: rgb(78, 92, 138);
 }
 
+.necro-wrap {
+    background-color: rgb(85, 70, 109)
+}
 
 .scoun-wrap {
     background-color: rgb(67, 133, 127)
@@ -26,7 +29,7 @@
 
 /* ------------------------------------ */
 
-.Aero, .Geo, .Hunts, .Hydro, .Scoun, .War {
+.Aero, .Geo, .Hunts, .Hydro, .Necro, .Scoun, .War {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -102,6 +105,10 @@
     color: rgb(131, 80, 13);
 }
 
+.Necro p:hover {
+    color: rgb(180, 59, 120)
+}
+
 .Scoun p:hover {
     color: rgb(143, 60, 104);
 }
@@ -114,6 +121,11 @@
 
 .hydro-wrap .skill-title h1 {
     color: rgb(32, 141, 204);
+    text-shadow: 2px 2px black;
+} 
+
+.necro-wrap .skill-title h1 {
+    color: white;
     text-shadow: 2px 2px black;
 } 
 
