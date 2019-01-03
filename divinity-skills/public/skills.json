@@ -849,10 +849,10 @@
           {
               "id": "1",
               "name": "Black Shroud",
-              "desc": "",
-              "cost": "#",
-              "cool": "",
-              "req": "Necr "
+              "desc": "Create a cloud of cursed smoke in an area, setting Suffocating and Blind on all characters within.",
+              "cost": "2",
+              "cool": "5",
+              "req": "Necromancer 3"
           },
           {
               "id": "2",
@@ -860,7 +860,7 @@
               "desc": "The sky weeps bloody tears. Bolts of coagulated blood fall on enemy characters in the area, setting Disease and Decaying Touch. Turns all water in the area into blood.",
               "cost": "3",
               "cool": "5",
-              "req": "Necr 3, Aerotheurge 3"
+              "req": "Necromancer 3, Aerotheurge 3"
           },
           {
               "id": "3",
@@ -868,23 +868,23 @@
               "desc": "Target character consumes blood surfaces around them, restoring Vitality. The more blood, the more they are healed! Restores up to [X] Vitality.",
               "cost": "1",
               "cool": "3",
-              "req": "Necr 1"
+              "req": "Necromancer 1"
           },
           {
               "id": "4",
               "name": "Bone Cage",
-              "desc": "",
-              "cost": "#",
-              "cool": "",
-              "req": "Necr "
+              "desc": "Increases Physical Armour by [X] and another [X] Physical Armour for each corpse in the area around you.",
+              "cost": "1",
+              "cool": "5",
+              "req": "Necromancer 2"
           },
           {
               "id": "5",
               "name": "Death Wish",
-              "desc": "",
-              "cost": "#",
-              "cool": "",
-              "req": "Necr "
+              "desc": "Target character receives a damage bonus equal to the percentage of their lost Vitality. For example, a character with 30% Vitality will gain a 70% damage bonus. Sets Death Wish for 2 turn(s).",
+              "cost": "1",
+              "cool": "5",
+              "req": "Necromancer 2"
           },
           {
               "id": "6",
@@ -892,39 +892,39 @@
               "desc": "Deal [X] physical damage to target character. Sets Decay for 2 turn(s), so the target will take piercing damage from healing spells and potions.",
               "cost": "1",
               "cool": "3",
-              "req": "Necr 1"
+              "req": "Necromancer 1"
           },
           {
               "id": "7",
               "name": "Grasp of the Starved",
-              "desc": "",
-              "cost": "#",
-              "cool": "",
-              "req": "Necr "
+              "desc": "Undead hands rise from underground, attacking characters that stand in blood surfaces and clouds. Deals [X] physical damage to each character and sets Crippled for 2 turn(s).",
+              "cost": "2",
+              "cool": "5",
+              "req": "Necromancer 3"
           },
           {
               "id": "8",
               "name": "Infect",
-              "desc": "",
-              "cost": "#",
-              "cool": "",
-              "req": "Necr "
+              "desc": "Deal [X] physical damage. Infect a target for 2 turn(s) with a disease that will spread to other nearby characters. Diseased characters deal reduced damage with all attacks and have lowered Constitution.",
+              "cost": "1",
+              "cool": "3",
+              "req": "Necromancer 2"
           },
           {
               "id": "9",
               "name": "Last Rites",
-              "desc": "",
-              "cost": "#",
-              "cool": "",
-              "req": "Necr "
+              "desc": "Sacrifice yourself to bring an ally back to life. Deals [X] piercing damage to you, and resurrects target character with maximum Vitality.",
+              "cost": "1",
+              "cool": "N/A",
+              "req": "Necromancer 3"
           },
           {
               "id": "10",
               "name": "Living on the Edge",
-              "desc": "",
-              "cost": "#",
-              "cool": "",
-              "req": "Necr "
+              "desc": "For 2 turns your character's Vitality cannot be reduced below 1 point, keeping them alive against all odds. If the target is a summon, their lifetime will be prolonged for the duration. Sets Death Resist for 2 turn(s)",
+              "cost": "1",
+              "cool": "5",
+              "req": "Necromancer 2"
           },
           {
               "id": "11",
@@ -932,7 +932,7 @@
               "desc": "Unleash a swarm of giant mosquitos to suck the blood from your enemies, dealing physical damage and healing yourself. Restore up to [X] Vitality, depending on the damage dealt. Set Bleeding for 2 turn(s).",
               "cost": "1",
               "cool": "3",
-              "req": "Necr 1"
+              "req": "Necromancer 1"
           },
           {
               "id": "12",
@@ -940,7 +940,7 @@
               "desc": "Create blood surfaces. Set Bleeding on enemies for 2 turn(s). Douse fire surfaces.",
               "cost": "1",
               "cool": "5",
-              "req": "Necr 1, Aerotheurge 1"
+              "req": "Necromancer 1, Aerotheurge 1"
           },
           {
               "id": "13",
@@ -948,31 +948,31 @@
               "desc": "Target a corpse to raise a bloated cadaver that fights for you. It can explode your target, dealing Physical Damage.",
               "cost": "1",
               "cool": "3",
-              "req": "Necr 1"
+              "req": "Necromancer 1"
           },
           {
               "id": "14",
               "name": "Raise Bone Widow",
-              "desc": "",
-              "cost": "#",
-              "cool": "",
-              "req": "Necr "
+              "desc": "Raise a walking pile of bones which can consume corpses to restore Vitality and receive a stacking damage buff. The stats of the summons will depend on caster level and Summoning ability.",
+              "cost": "1",
+              "cool": "5",
+              "req": "Necromancer 2"
           },
           {
               "id": "15",
               "name": "Shackles of Pain",
-              "desc": "",
-              "cost": "#",
-              "cool": "",
-              "req": "Necr "
+              "desc": "Mark a target so that it will receive all of the damage you receive. Sets Shackles of Pain for 3 turn(s).",
+              "cost": "1",
+              "cool": "5",
+              "req": "Necromancer 2"
           },
           {
               "id": "16",
               "name": "Silencing Stare",
-              "desc": "",
-              "cost": "#",
-              "cool": "",
-              "req": "Necr "
+              "desc": "Destroy [X-Y] Magic Armour and Silences all enemies in a cone in front of you. Sets Silenced for 1 turn.",
+              "cost": "1",
+              "cool": "2",
+              "req": "Necromancer 3"
           },
           {
               "id": "17",
@@ -980,7 +980,7 @@
               "desc": "Spawn bone totems near every enemy (alive or dead) in the area. Bone totems have ranged attacks that deal [x] physical damage.",
               "cost": "3",
               "cool": "5",
-              "req": "Necr 5"
+              "req": "Necromancer 5"
           },  
       },  
 
