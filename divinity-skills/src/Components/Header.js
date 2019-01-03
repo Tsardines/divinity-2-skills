@@ -8,6 +8,9 @@ const Header = () => {
   return (
 
       <div className="header">
+
+          <h1>Divinity 2: Skills Checker</h1>
+          
         <div className="nav-links">
 
             <div className="link">

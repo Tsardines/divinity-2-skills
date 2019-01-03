@@ -3,9 +3,14 @@
     padding: 2em;
 }
 
+.header h1 {
+    color: rgb(112, 202, 230);
+    margin: 0 0 1em 0;
+}
+
 .link {
     display: inline;
-    font-size: 1em;
+    font-size: 1.25em;
     padding: 0.5em;
 }
 
@@ -15,7 +20,7 @@
 }
 
 .link a:hover {
-    color: pink;
+    color: rgb(221, 129, 53);
     font-weight: bold;
 }
 

@@ -11,24 +11,32 @@ import Scoun from './Skills/Scoun.js';
 import Summ from './Skills/Summ.js';
 import War from './Skills/War.js';
 
-// import './Home.css';
+import './Home.css';
 
 const Home = () => {
   return (
 
       <div className="home">
-        <h1>Browse all Skills</h1>
+        {/* <span className="home-h1"><h1> Skills</h1></span> */}
 
-        <Aero />
-        <Geo />
-        <Hunts />
-        <Hydro />
-        <Necro />
-        <Poly />
-        <Pyro />
-        <Scoun />
-        <Summ />
-        <War />
+        <form className="home-form">
+          Search skills: <input type="text"/>
+        </form>
+
+        <div className="home-skills">
+
+          <Aero />
+          <Geo />
+          <Hunts />
+          <Hydro />
+          <Necro />
+          <Poly />
+          <Pyro />
+          <Scoun />
+          <Summ />
+          <War />
+
+        </div>
 
       </div>
 
