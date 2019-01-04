@@ -1,27 +1,13 @@
-.header, .footer {
+.footer {
     background-color: rgb(48, 48, 48);
     padding: 2em;
 }
 
-.header h1 {
-    color: rgb(112, 202, 230);
-    margin: 0 0 1em 0;
-}
-
-.link {
-    display: inline;
+.ml-auto {
+    display: flex;
+    flex-wrap: wrap;
     font-size: 1.25em;
-    padding: 0.5em;
-}
-
-.link a {
-    color: white;
-    text-decoration: none;
-}
-
-.link a:hover {
-    color: rgb(221, 129, 53);
-    font-weight: bold;
+    justify-content: center;
 }
 
 /* ----------- */

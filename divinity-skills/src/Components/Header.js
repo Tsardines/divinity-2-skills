@@ -1,69 +1,107 @@
 import React from 'react';
-import { NavLink } from 'react-router-dom';
 
+import {
+  Collapse,
+  Navbar,
+  NavbarToggler,
+  NavbarBrand,
+  Nav,
+  NavItem,
+  NavLink
+} from 'reactstrap';
 
-import './HeaderFooter.css';
+export default class Header extends React.Component {
+  constructor(props) {
+    super(props);
 
-const Header = () => {
-  return (
+    this.toggle = this.toggle.bind(this);
+    this.state = {
+      isOpen: false
+    };
+  }
+  toggle() {
+    this.setState({
+      isOpen: !this.state.isOpen
+    });
+  }
+  render() {
+    return (
+      <div>
+        <Navbar color="dark" dark expand="md">
+          <NavbarBrand href="/">Skill Checker</NavbarBrand>
+          <NavbarToggler onClick={this.toggle} />
+          <Collapse isOpen={this.state.isOpen} navbar>
+          
+            <Nav className="ml-auto" navbar>
 
-      <div className="header">
+            <NavItem>
+                <NavLink href="/aerotheurge">Aerotheurge&emsp;</NavLink>
+            </NavItem>
 
-          <h1>Divinity Original Sin: 2 
-              <br /> 
-                Skills Checker</h1>
+            <NavItem>
+                <NavLink href="/geomancer">Geomancer&emsp;</NavLink>
+            </NavItem>
 
-        <div className="nav-links">
-
-            <div className="link">
-                <NavLink to="/">Home&emsp;</NavLink>
-            </div>
-
-            <div className="link">
-                <NavLink to="/aerotheurge">Aerotheurge&emsp;</NavLink>
-            </div>
-
-            <div className="link">
-                <NavLink to="/geomancer">Geomancer&emsp;</NavLink>
-            </div>
-
-            <div className="link">
-                <NavLink to="/huntsman">Huntsman&emsp;</NavLink>
-            </div>
+            <NavItem>
+                <NavLink href="/huntsman">Huntsman&emsp;</NavLink>
+            </NavItem>
             
-            <div className="link">
-                <NavLink to="/hydrosophist">Hydrosophist&emsp;</NavLink>
-            </div>
+            <NavItem>
+                <NavLink href="/hydrosophist">Hydrosophist&emsp;</NavLink>
+            </NavItem>
             
-            <div className="link">
-                <NavLink to="/necromancer">Necromancer&emsp;</NavLink>
-            </div>
-            
-            <div className="link">
-                <NavLink to="/polymorph">Polymorph&emsp;</NavLink>
-            </div>
-            
-            <div className="link">
-                <NavLink to="/pyrokinetic">Pyrokinetic&emsp;</NavLink>
-            </div>
+            <NavItem>
+                <NavLink href="/necromancer">Necromancer&emsp;</NavLink>
+            </NavItem>
 
-            <div className="link">
-                <NavLink to="/scoundrel">Scoundrel&emsp;</NavLink>
-            </div>
+            <NavItem>
+                <NavLink href="/polymorph">Polymorph&emsp;</NavLink>
+            </NavItem>
             
-            <div className="link">
-                <NavLink to="/summoning">Summoning&emsp;</NavLink>
-            </div>           
+            <NavItem>
+                <NavLink href="/pyrokinetic">Pyrokinetic&emsp;</NavLink>
+            </NavItem>
+
+            <NavItem>
+                <NavLink href="/scoundrel">Scoundrel&emsp;</NavLink>
+            </NavItem>
             
-            <div className="link">
-                <NavLink to="/warfare">Warfare&emsp;</NavLink>
-            </div>
+            <NavItem>
+                <NavLink href="/summoning">Summoning&emsp;</NavLink>
+            </NavItem>           
+            
+            <NavItem>
+                <NavLink href="/warfare">Warfare&emsp;</NavLink>
+            </NavItem>
+              
 
-        </div>
-
+            </Nav>
+          </Collapse>
+        </Navbar>
       </div>
-  );
+    );
+  }
 }
 
-export default Header;
+
+
+
+
+              /* <UncontrolledDropdown nav inNavbar>
+                <DropdownToggle nav caret>
+                  Options
+                </DropdownToggle>
+                <DropdownMenu right>
+                  <DropdownItem>
+                    Option 1
+                  </DropdownItem>
+                  <DropdownItem>
+                    Option 2
+                  </DropdownItem>
+                  <DropdownItem divider />
+                  <DropdownItem>
+                    Reset
+                  </DropdownItem>
+                </DropdownMenu>
+              </UncontrolledDropdown> */
 
