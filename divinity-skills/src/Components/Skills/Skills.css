@@ -33,7 +33,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin-top: 5em;
+    margin-top: 2em;
 }
 
 .skill-title h1 {
@@ -50,13 +50,15 @@
     border-radius: 0.3em;
     box-shadow: 0.1em 0.1em 0.1em 0.1em gray;
     font-size: 1vw;
-    margin: 2em;
-    padding: 1em;
+    height: 50%;
+    margin: 1.75em;
+    padding: 0.5em;
     text-align: left;
-    width: 35%;
+    width: 35vw;
 }
 
-.skill-name {
+.skill-name p {
+    font-size: 1.5em;
     text-align: center;
 }
 
@@ -90,7 +92,7 @@
 /* ------------------------------------ */
 
 .Aero p:hover {
-    color: turquoise;
+    color: rgb(139, 80, 31);
 }
 
 .Geo p:hover {
