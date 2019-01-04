@@ -20,9 +20,9 @@ const Footer = () => {
 
         <div className="middle">
             <ul>
-                <li>This was built with React in 2019.</li>
-                <li>Divinity Original Sin 2 is the property of <a href="http://larian.com/">Larian Studios.</a></li>
-                <li>This product is not intended for commercial use. For personal use only.</li>
+                <li>Skills Checker was built with React in 2019.</li>
+                <li>Divinity Original Sin: 2 is the property of <a href="http://larian.com/">Larian Studios.</a></li>
+                <li>This product is not for commercial use. For personal use only.</li>
             </ul>
         </div>
 
