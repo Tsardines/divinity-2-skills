@@ -1003,25 +1003,25 @@
               "id": "2",
               "name": "Bull Horns",
               "desc": "Magnificent horns sprout from your forehead, making you see red. You can rush at your enemies and gore them. Increases Retribution ability by 1 for the duration. Incompatible with Medusa Head. Sets Bull Horns for 4 turn(s).",
-              "cost": "1",
-              "cool": "6",
-              "req": "Poly 1"
+              "cost": "#",
+              "cool": "",
+              "req": "Poly "
           },
           {
               "id": "3",
               "name": "Chameleon Cloak",
-              "desc": "Grants you the ability to blend in with any enviroment as if invisible.",
-              "cost": "1",
-              "cool": "6",
-              "req": "Poly 1"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Poly "
           },
           {
               "id": "4",
               "name": "Chicken Claw",
-              "desc": "Turn the target character into a chicken for 2 turn(s). Squawk!",
-              "cost": "1",
-              "cool": "6",
-              "req": "Poly 1"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Poly "
           },
           {
               "id": "5",
@@ -1130,10 +1130,10 @@
           {
               "id": "18",
               "name": "Tentacle Lash",
-              "desc": "Lash out at your opponent dealing, physical damage and setting Atrophy on them for 1 turn(s).",
-              "cost": "1",
-              "cool": "3",
-              "req": "Poly 1"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Poly "
           },
           {
               "id": "19",
