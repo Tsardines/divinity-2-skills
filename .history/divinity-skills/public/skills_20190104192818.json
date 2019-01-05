@@ -994,10 +994,10 @@
           {
               "id": "1",
               "name": "Apotheosis",
-              "desc": "You take the first step towards godhood. The cost of all Source skills is reduced by -3 Source Point. Active for 2 turn(s).",
-              "cost": "3",
-              "cool": "N/A",
-              "req": "Poly 5"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Poly "
           },
           {
               "id": "2",
@@ -1026,34 +1026,34 @@
           {
               "id": "5",
               "name": "Equalise",
-              "desc": "Vitality and Armour percentages of characters in target area are summed up and redistributed equally.",
-              "cost": "1",
-              "cool": "5",
-              "req": "Poly 3"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Poly "
           },
           {
               "id": "6",
               "name": "Flaming Skin",
-              "desc": "You get immunity to fire, but lowered resistance to water. You bleed fire. Active for 2 turn(s).",
-              "cost": "2",
-              "cool": "5",
-              "req": "Poly 2, Pyrokinetic 2"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Poly "
           },
           {
               "id": "7",
               "name": "Flay Skin",
-              "desc": "Destroy [X] Magic Armour on target character. Set Nullified Resistance for 3 turn(s).",
-              "cost": "1",
-              "cool": "5",
-              "req": "Poly 3"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Poly "
           },
           {
               "id": "8",
               "name": "Forced Exchange",
-              "desc": "Exchange Vitality percentages with target character.",
-              "cost": "2",
-              "cool": "1",
-              "req": "Poly 3"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Poly "
           },
           {
               "id": "9",
@@ -1066,42 +1066,42 @@
           {
               "id": "10",
               "name": "Icy Skin",
-              "desc": "You get immunity to water, but lowered resistance to fire. You bleed ice. Active for 2 turn(s).",
-              "cost": "2",
-              "cool": "5",
-              "req": "Poly 2, Hydrosophist 2"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Poly "
           },
           {
               "id": "11",
               "name": "Jellyfish Skin",
-              "desc": "Bleed electrified water. You get immunity to electricity, but lowered resistance to poison and earth damage. Active for 2 turn(s).",
-              "cost": "2",
-              "cool": "5",
-              "req": "Poly 2, Aerotheurge 2"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Poly "
           },
           {
               "id": "12",
               "name": "Medusa Head",
-              "desc": "Snakes grow out of your head, giving you a petrifying aura and the Petrifying Visage skill. Incompatible with Bull Horns. Active for 2 turn(s).",
-              "cost": "1",
-              "cool": "5",
-              "req": "Poly 2"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Poly "
           },
           {
               "id": "13",
               "name": "Poisonous Skin",
-              "desc": "You get immunity to poison and earth, but lowered resistance to air. You bleed poison. Active for 2 turn(s).",
-              "cost": "2",
-              "cool": "5",
-              "req": "Poly 2, Geomancer 2"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Poly "
           },
           {
               "id": "14",
               "name": "Skin Graft",
-              "desc": "Reset all cooldowns. Removes Burning, Necrofire, Poisoned and Bleeding.",
-              "cost": "2",
-              "cool": "N/A",
-              "req": "Poly 3"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Poly "
           },
           {
               "id": "15",
@@ -1122,10 +1122,10 @@
           {
               "id": "17",
               "name": "Summon Oily Blob",
-              "desc": "Fling an Oil Blob at a target point, dealing [X] Earth Damage in the area. Oil Blob deals earth damage with melee attacks and leaves an oil puddle on death. 3m explode radius.",
-              "cost": "1",
-              "cool": "6",
-              "req": "Poly 2"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Poly "
           },
           {
               "id": "18",
@@ -1138,10 +1138,10 @@
           {
               "id": "19",
               "name": "Terrain Transmutation",
-              "desc": "Target two circular areas. Swap surfaces and clouds.",
-              "cost": "1",
-              "cool": "2",
-              "req": "Poly 2"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Poly "
           }  
       }     
   {

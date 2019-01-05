@@ -994,10 +994,10 @@
           {
               "id": "1",
               "name": "Apotheosis",
-              "desc": "You take the first step towards godhood. The cost of all Source skills is reduced by -3 Source Point. Active for 2 turn(s).",
-              "cost": "3",
-              "cool": "N/A",
-              "req": "Poly 5"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Poly "
           },
           {
               "id": "2",

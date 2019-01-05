@@ -994,10 +994,10 @@
           {
               "id": "1",
               "name": "Apotheosis",
-              "desc": "You take the first step towards godhood. The cost of all Source skills is reduced by -3 Source Point. Active for 2 turn(s).",
-              "cost": "3",
-              "cool": "N/A",
-              "req": "Poly 5"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Poly "
           },
           {
               "id": "2",
@@ -1026,10 +1026,10 @@
           {
               "id": "5",
               "name": "Equalise",
-              "desc": "Vitality and Armour percentages of characters in target area are summed up and redistributed equally.",
-              "cost": "1",
-              "cool": "5",
-              "req": "Poly 3"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Poly "
           },
           {
               "id": "6",
@@ -1042,18 +1042,18 @@
           {
               "id": "7",
               "name": "Flay Skin",
-              "desc": "Destroy [X] Magic Armour on target character. Set Nullified Resistance for 3 turn(s).",
-              "cost": "1",
-              "cool": "5",
-              "req": "Poly 3"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Poly "
           },
           {
               "id": "8",
               "name": "Forced Exchange",
-              "desc": "Exchange Vitality percentages with target character.",
-              "cost": "2",
-              "cool": "1",
-              "req": "Poly 3"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Poly "
           },
           {
               "id": "9",
