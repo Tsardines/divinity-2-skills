@@ -115,10 +115,6 @@
     color: rgb(180, 59, 120)
 }
 
-.Poly p:hover {
-    color: rgb(136, 68, 12)
-}
-
 .Scoun p:hover {
     color: rgb(143, 60, 104);
 }
@@ -138,11 +134,6 @@
     color: white;
     text-shadow: 2px 2px black;
 } 
-
-.poly-wrap .skill-title h1 {
-    color: white;
-    text-shadow: 2px 2px black;
-}
 
 .scoun-wrap .skill-title h1 {
     color: white;
