@@ -1184,10 +1184,10 @@
           {
               "id": "5",
               "name": "Fire Whip",
-              "desc": "Long-range attack that deals [X] Fire Damage to a single target, leaving them blind and burning. Sets Blind for 1 turn and Burning for 1 turn.",
-              "cost": "1",
-              "cool": "3",
-              "req": "Pyro 2"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Pyro "
           },
           {
               "id": "6",
@@ -1216,10 +1216,10 @@
           {
               "id": "9",
               "name": "Flaming Tongues",
-              "desc": "Flaming tongues protect you, immediately attacking approaching enemies. Sets Flaming Tongues for 3 turn(s).",
-              "cost": "1",
-              "cool": "5",
-              "req": "Pyro 2"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Pyro "
           },
           {
               "id": "10",
@@ -1248,10 +1248,10 @@
           {
               "id": "13",
               "name": "Laser Ray",
-              "desc": "Line of intense heat that deals [X] Fire Damage to characters and leaves fire clouds behind. Sets Burning for 2 turn(s).",
-              "cost": "1",
-              "cool": "3",
-              "req": "Pyro 2"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Pyro "
           },
           {
               "id": "14",

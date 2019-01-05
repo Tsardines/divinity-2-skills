@@ -1168,10 +1168,10 @@
           {
               "id": "3",
               "name": "Deploy Mass Traps",
-              "desc": "Throw 4 explosive traps at target locations. Each trap takes a turn to activate. When active, trap will explode when a character approaches it.",
-              "cost": "2",
-              "cool": "5",
-              "req": "Pyro 2, Huntsman 2"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Pyro "
           },
           {
               "id": "4",
@@ -1184,10 +1184,10 @@
           {
               "id": "5",
               "name": "Fire Whip",
-              "desc": "Long-range attack that deals [X] Fire Damage to a single target, leaving them blind and burning. Sets Blind for 1 turn and Burning for 1 turn.",
-              "cost": "1",
-              "cool": "3",
-              "req": "Pyro 2"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Pyro "
           },
           {
               "id": "6",
@@ -1208,18 +1208,18 @@
           {
               "id": "8",
               "name": "Flaming Crescendo",
-              "desc": "Curse the target to explode (3m explode radius) in 1 turns or on death.",
-              "cost": "1",
-              "cool": "5",
-              "req": "Pyro 3"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Pyro "
           },
           {
               "id": "9",
-              "name": "Flaming Tongues",
-              "desc": "Flaming tongues protect you, immediately attacking approaching enemies. Sets Flaming Tongues for 3 turn(s).",
-              "cost": "1",
-              "cool": "5",
-              "req": "Pyro 2"
+              "name": "Flaming tongues",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Pyro "
           },
           {
               "id": "10",
@@ -1248,10 +1248,10 @@
           {
               "id": "13",
               "name": "Laser Ray",
-              "desc": "Line of intense heat that deals [X] Fire Damage to characters and leaves fire clouds behind. Sets Burning for 2 turn(s).",
-              "cost": "1",
-              "cool": "3",
-              "req": "Pyro 2"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Pyro "
           },
           {
               "id": "14",
@@ -1264,18 +1264,18 @@
           {
               "id": "15",
               "name": "Mass Sabotage",
-              "desc": "Explode 2 random grenades or arrows in the inventories of any enemy in a target circle.",
-              "cost": "2",
-              "cool": "5",
-              "req": "Pyro 2, Scoundrel 2"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Pyro "
           },
           {
               "id": "16",
               "name": "Master of Sparks",
-              "desc": "Target character and surrounding allies receive Sparkmaster status that adds a chance of fiery sparks to melee attacks. Sets Sparkmaster for 2 turn(s).",
-              "cost": "2",
-              "cool": "5",
-              "req": "Pyro 2, Warfare 2"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Pyro "
           },
           {
               "id": "17",
@@ -1328,10 +1328,10 @@
           {
               "id": "23",
               "name": "Summon Fire Slug",
-              "desc": "Summon a Fire Slug. Your Fire Slug can create fire surfaces and launch linear fire attacks. The stats of the summon will depend on the caster's level and summoning ability. Active for 5 turns.",
-              "cost": "2",
-              "cool": "6",
-              "req": "Pyro 3"
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": "Pyro "
           },
           {
               "id": "24",
