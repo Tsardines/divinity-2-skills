@@ -1319,7 +1319,7 @@
           },
           {
               "id": "22",
-              "name": "Spontaneous Combustion",
+              "name": "",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1327,7 +1327,7 @@
           },
           {
               "id": "23",
-              "name": "Summon Fire Slug",
+              "name": "",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1335,21 +1335,13 @@
           },
           {
               "id": "24",
-              "name": "Supernova",
+              "name": "",
               "desc": "",
               "cost": "#",
               "cool": "",
               "req": "Pyro "
           },
-          {
-            "id": "25",
-            "name": "Throw Explosive Trap",
-            "desc": "",
-            "cost": "#",
-            "cool": "",
-            "req": "Pyro "
-        }
-      }
+      },
 
 
 
