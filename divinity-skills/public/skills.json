@@ -1617,7 +1617,6 @@
                   "id": "1",
                   "name": "",
                   "desc": "",
-
                   "cost": "#",
                   "cool": "",
                   "req": ""
@@ -1626,7 +1625,6 @@
                   "id": "2",
                   "name": "",
                   "desc": "",
-
                   "cost": "#",
                   "cool": "",
                   "req": ""
@@ -1635,7 +1633,6 @@
                   "id": "3",
                   "name": "",
                   "desc": "",
-
                   "cost": "#",
                   "cool": "",
                   "req": ""
@@ -1644,7 +1641,6 @@
                   "id": "4",
                   "name": "",
                   "desc": "",
-
                   "cost": "#",
                   "cool": "",
                   "req": ""
@@ -1653,7 +1649,6 @@
                   "id": "5",
                   "name": "",
                   "desc": "",
-
                   "cost": "#",
                   "cool": "",
                   "req": ""
@@ -1662,7 +1657,6 @@
                   "id": "6",
                   "name": "",
                   "desc": "",
-
                   "cost": "#",
                   "cool": "",
                   "req": ""
@@ -1671,7 +1665,6 @@
                   "id": "7",
                   "name": "",
                   "desc": "",
-
                   "cost": "#",
                   "cool": "",
                   "req": ""
@@ -1680,7 +1673,6 @@
                   "id": "8",
                   "name": "",
                   "desc": "",
-
                   "cost": "#",
                   "cool": "",
                   "req": ""
@@ -1689,7 +1681,6 @@
                   "id": "9",
                   "name": "",
                   "desc": "",
-
                   "cost": "#",
                   "cool": "",
                   "req": ""
@@ -1698,7 +1689,6 @@
                   "id": "10",
                   "name": "",
                   "desc": "",
-
                   "cost": "#",
                   "cool": "",
                   "req": ""
@@ -1707,7 +1697,6 @@
                   "id": "11",
                   "name": "",
                   "desc": "",
-
                   "cost": "#",
                   "cool": "",
                   "req": ""
@@ -1716,7 +1705,6 @@
                   "id": "12",
                   "name": "",
                   "desc": "",
-
                   "cost": "#",
                   "cool": "",
                   "req": ""
@@ -1725,7 +1713,6 @@
                   "id": "13",
                   "name": "",
                   "desc": "",
-
                   "cost": "#",
                   "cool": "",
                   "req": ""
@@ -1734,7 +1721,6 @@
                   "id": "14",
                   "name": "",
                   "desc": "",
-
                   "cost": "#",
                   "cool": "",
                   "req": ""
@@ -1743,7 +1729,6 @@
                   "id": "15",
                   "name": "",
                   "desc": "",
-
                   "cost": "#",
                   "cool": "",
                   "req": ""
@@ -1752,7 +1737,6 @@
                   "id": "16",
                   "name": "",
                   "desc": "",
-
                   "cost": "#",
                   "cool": "",
                   "req": ""
@@ -1761,7 +1745,6 @@
                   "id": "17",
                   "name": "",
                   "desc": "",
-
                   "cost": "#",
                   "cool": "",
                   "req": ""
@@ -1770,7 +1753,6 @@
                   "id": "18",
                   "name": "",
                   "desc": "",
-
                   "cost": "#",
                   "cool": "",
                   "req": ""
@@ -1784,7 +1766,7 @@
 
           {
               "id": "1",
-              "name": "",
+              "name": "Acid Infusion",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1792,7 +1774,7 @@
           },
           {
               "id": "2",
-              "name": "",
+              "name": "Conjure Incarnate",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1800,7 +1782,7 @@
           },
           {
               "id": "3",
-              "name": "",
+              "name": "Cursed Electric Infusion",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1808,7 +1790,7 @@
           },
           {
               "id": "4",
-              "name": "",
+              "name": "Dimensional Bolt",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1816,7 +1798,7 @@
           },
           {
               "id": "5",
-              "name": "",
+              "name": "Dominate Mind",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1824,7 +1806,7 @@
           },
           {
               "id": "6",
-              "name": "",
+              "name": "Door to Eternity",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1832,7 +1814,7 @@
           },
           {
               "id": "7",
-              "name": "",
+              "name": "Electric Infusion",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1840,7 +1822,7 @@
           },
           {
               "id": "8",
-              "name": "",
+              "name": "Elemental Totem",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1848,7 +1830,7 @@
           },
           {
               "id": "9",
-              "name": "",
+              "name": "Ethereal Storm",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1856,7 +1838,7 @@
           },
           {
               "id": "10",
-              "name": "",
+              "name": "Farsight Infusion",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1864,7 +1846,7 @@
           },
           {
               "id": "11",
-              "name": "",
+              "name": "Fire Infusion",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1872,7 +1854,7 @@
           },
           {
               "id": "12",
-              "name": "",
+              "name": "Ice Infusion",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1880,7 +1862,7 @@
           },
           {
               "id": "13",
-              "name": "",
+              "name": "Necrofire Infusion",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1888,7 +1870,7 @@
           },
           {
               "id": "14",
-              "name": "",
+              "name": "Planar Gateway",
               "desc": "",
               "cost": "#",
               "cool": "",

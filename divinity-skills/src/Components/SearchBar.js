@@ -14,7 +14,7 @@ class SearchBar extends Component {
     }
 
     componentWillMount() {
-        fetch('https://jsonplaceholder.typicode.com/users')
+        fetch('')
         .then(res => res.json())
         .then(json => this.setState({ data: json }));
     }
@@ -39,7 +39,8 @@ class SearchBar extends Component {
                         {results.map(el => (
                             <div>
                             <span>{el.name}</span>
-                            <span>{el.email}</span>
+                            <br />
+                            <span>{el.desc}</span>
                             </div>
                         ))}
                         </div>
