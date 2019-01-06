@@ -1,0 +1,1687 @@
+[    
+    [       
+        {
+            "id": "1",
+            "name": "Apportation",
+            "desc": "Transport pickupable items in the target area into your inventory.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Aerotheurge 2"
+        },
+        {
+            "id": "2",
+            "name": "Blessed Smoke Cloud",
+            "desc": "Conjure a cloud of thick blessed smoke that makes characters invisible.",
+            "cost": "2",
+            "cool": "5",
+            "req": "Aerotheurge 2, Scoundrel 2" 
+        },
+        {
+            "id": "3",
+            "name": "Blinding Radiance",
+            "desc": "Enemies around you receive [X] air damage. Every enemy withint a 5m radius turns blind. 100% chance to cast an aura for 1 turn.",
+            "cost": "1",
+            "cool": "4",
+            "req": "Aerotheurge 1"
+        },
+        {
+            "id": "4",
+            "name": "Breathing Bubble",
+            "desc": "Creates a bubble of clean air around your head, allowing you to ignore effects of cloud surfaces. Immune to Suffocation and Silence. Sets Breathing Bubble for 5 turn(s).",
+            "cost": "1",
+            "cool": "5",
+            "req": "Aerotheurge 1, Warfare 1" 
+        },
+        {
+            "id": "5",
+            "name": "Chain Lightning",
+            "desc": "Shoot a stunning bolt of lightning that forks up to 8 times in a 8m radius and deals [X] Air Damage to each target. Sets Shocked for 2 turn(s). Damage is based on your level and receives a bonus from Intelligence",
+            "cost": "2",
+            "cool": "5 turns",
+            "req": "Aerotheurge 3"
+        },
+        {
+            "id": "6",
+            "name": "Closed Circuit",
+            "desc": "Deals [X] Air Damage to enemies around you; then creates cursed static clouds on the edges of the spell Sets Air Immunity for 1 turn(s). Sets Shocked for 2 turn(s). Damage is based on your level and receives a bonus from Intelligence",
+            "cost": "2",
+            "cool": "4",
+            "req": "Aerotheurge 3"
+        },
+        {
+            "id": "7",
+            "name": "Dazing Bolt",
+            "desc": "An electrical bolt falls from the sky, dealing [X] Air Damage to characters and items in the area, and setting Shocked status. Sets Shocked for 1 turn(s). Damage is based on your level and receives a bonus from Intelligence.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Aerotheurge 2"
+        },
+        {
+            "id": "8",
+            "name": "Electric Discharge",
+            "desc": "An electrical jolt deals air damage to target character. Sets status Shocked. Sets shocked for 2 turns. Damage is based on skill level and receives a bonus from Intelligence.",
+            "cost": "1 slot",
+            "cool": "3 turns",
+            "req": "Aerotheurge 1"
+        },
+        {
+            "id": "9",
+            "name": "Erratic Wisp",
+            "desc": "Cause target character to teleport in a random direction each time they are attacked. Increases Air Resistance by 40%. Sets Erratic Wisp for 2 turn(s).",
+            "cost": "1",
+            "cool": "5",
+            "req": "Aerotheurge 1, Huntsman 1" 
+            
+        },
+        {
+            "id": "10",
+            "name": "Evasive Aura",
+            "desc": "Sets Evasive Aura for you and allies around you. Dodging chance is increased by 90% and your Movement Speed is increased by 1m. Sets Erratic Wisp for 1 turn(s).",
+            "cost": "2",
+            "cool": "5",
+            "req": "Aerotheurge 2, Huntsman 2" 
+        },
+        {
+            "id": "11",
+            "name": "Favourable Wind",
+            "desc": "Control the forces of nature so the wind is literally at your party's back. An aura increases you allies' movement speeds while they stay close to you. Sets Favourable Winds Aura for 4 turn(s).",
+            "cost": "1",
+            "cool": "6",
+            "req": "Aerotheurge 1"
+        },
+        {
+            "id": "12",
+            "name": "Mass Breathing Bubbles",
+            "desc": "Set Breathing Bubbles on allies around you, allowing them to ignore effects of cloud surfaces and making them immune to Suffocation and Silence. Sets Mass Breathing Bubbles for 5 turn(s).",
+            "cost": "2",
+            "cool": "5",
+            "req": "Aerotheurge 2, Warfare 2"
+        },
+        {
+            "id": "13",
+            "name": "Nether Swamp",
+            "desc": "Make two characters switch places. One of the characters can be you. Sets Nether Swap for 1 turn(s).",
+            "cost": "#",
+            "cool": "3",
+            "req": "Aerotheurge 2"
+        },
+        {
+            "id": "14",
+            "name": "Pressure Spike",
+            "desc": "Condense all cloud surfaces in the area. Deals air damage to enemies and douses fire. Damage is based on your level and receives a bonus from Intelligence.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Aerotheurge 2"
+        },
+        {
+            "id": "15",
+            "name": "Shocking Touch",
+            "desc": "Stuns nearby enemies and deals [X] air damage. Sets shocked for 2 turns. Damage is based on skill level and receives a bonus from Intelligence.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Aerotheurge 1"
+        },
+        {
+            "id": "16",
+            "name": "Smoke Cover",
+            "desc": "Create a smoke cloud around you, hiding from sight.",
+            "cost": "1",
+            "cool": "5",
+            "req": "Aerotheurge 1 Scoundrel 1" 
+        },
+        {
+            "id": "17",
+            "name": "Superconductor",
+            "desc": "Shoot forking spikes at all enemies within the area, dealing [X] Air Damage and setting Shocked. Sets Shocked for 1 turn(s). Damage is based on your level and receives a bonus from Intelligence.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Aerotheurge 3"
+        },
+        {
+            "id": "18",
+            "name": "Teleportation",
+            "desc": "Teleport a target character or item to a point of your choosing. Damage is based on your level and receives a bonus from Intelligence.",
+            "cost": "1",
+            "cool": "4",
+            "req": "Aerotheurge 2"
+        },
+        {
+            "id": "19",
+            "name": "Thunderstorm",
+            "desc": "A storm rages in the target area, hitting enemies with lightning bolts for 3 turns.",
+            "cost": "3",
+            "cool": "5",
+            "req": "Aerotheurge 5"
+        },
+        {
+            "id": "20",
+            "name": "Tornado",
+            "desc": "A tornado moves randomly around the battlefield, removing surfaces and revealing invisible characters. Also clears Invisible, Burning and Slowed.",
+            "cost": "1",
+            "cool": "5",
+            "req": "Aerotheurge 3"
+        },
+        {
+            "id": "21",
+            "name": "Uncanny Evasion",
+            "desc": "Target character's dodging is increased by 90% and your Movement Speed is increased by 20%. Sets Evading for 1 turn(s).",
+            "cost": "1",
+            "cool": "4",
+            "req": "Aerotheurge 2"
+        },
+        {
+            "id": "22",
+            "name": "Vacuum Aura",
+            "desc": "Deal [X] Air Damage to enemies in the area. Caster receives an aura that sets Silence and Suffocating on enemies. Sets Vacuum Aura for 3 turn(s). Damage is based on your level and receives bonus from Intelligence.",
+            "cost": "2",
+            "cool": "5",
+            "req": "Aerotheurge 2, Necromancer 2"        
+        },
+        {
+            "id": "23",
+            "name": "Vacuum Touch",
+            "desc": "Deal [X] Air Damage. Set Suffocation and Silence on target. Sets Suffocating for 1 turn(s). Sets Silenced for 1 turn(s). Damage is based on your level and receives a bonus from Intelligence.",
+            "cost": "1",
+            "cool": "5",
+            "req": "Aerotheurge 1, Necromancer 1" 
+        },
+        {
+            "id": "24",
+            "name": "Vaporize",
+            "desc": "Remove Petrified and Frozen from target character. Vaporise ground surfaces into clouds. Does not work on Oil, Ice or Lava surfaces",
+            "cost": "1",
+            "cool": "4",
+            "req": "Aerotheurge 1, Polymorph 1" 
+        }
+    ],
+
+
+
+    [
+        {
+            "id": "1",
+            "name": "Acid Spores",
+            "desc": "Shoot spores of corrosive acid, dealing [X] Poison Damage. Set Poisoned for 3 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
+            "cost": "2",
+            "cool": "5",
+            "req": "Geomancer 3"
+        },
+        {
+            "id": "2",
+            "name": "Contamination",
+            "desc": "Deals [X] Poison Damage to enemies and undead allies around you and can poison them. Turns water, blood surfaces and clouds in to poison! Set Poisoned for 2 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Geomancer 1"
+        },
+        {
+            "id": "3",
+            "name": "Corrosive Spray",
+            "desc": "Destroy [X] Physical Armour physical  on targets in a cone, and set Acid and Atrophy Set Acid for 2 turn(s). Set Atrophy for 1 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
+            "cost": "2",
+            "cool": "3",
+            "req": "Geomancer 2, Necromancer 2" 
+        },
+        {
+            "id": "4",
+            "name": "Corrosive Touch",
+            "desc": "Destroy [X] Physical Armour on target character, and set Acid status. Set Acid for 2 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
+            "cost": "1",
+            "cool": "5",
+            "req": "Geomancer 1, Necromancer 1" 
+        },
+        {
+            "id": "5",
+            "name": "Dust Blast",
+            "desc": "Throw dust at all enemies in range, blinding them and dealing [X] Earth Damage. Set Blinded for 2 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
+            "cost": "2",
+            "cool": "3",
+            "req": "Geomancer 2, Huntsman 2" 
+        },
+        {
+            "id": "6",
+            "name": "Earthquake",
+            "desc": "Deals [X] Earth Damage and Knockdown enemy characters and items around you. Creates 8 random oil surfaces within the area. Set Knocked Down for 1 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
+            "cost": "1",
+            "cool": "5",
+            "req": "Geomancer 2"
+        },
+        {
+            "id": "7",
+            "name": "Fortify",
+            "desc": "Provides [X] Physical Armour. While Fortified, the target cannot be teleported. Removes Poisoned, Bleeding, Burning, Acid, Decaying. Set Fortified for 3 turn(s).",
+            "cost": "1",
+            "cool": "4",
+            "req": "Geomancer 1"
+        },
+        {
+            "id": "8",
+            "name": "Fossil Strike",
+            "desc": "A giant rock with sticky oil that deals [X] Earth Damage. Creates an oil surface where it lands. Damage is bases on your level and receives bonus from your Intelligence.",
+            "cost": "#1",
+            "cool": "3",
+            "req": "Geomancer 1"
+        },
+        {
+            "id": "9",
+            "name": "Impalement",
+            "desc": "Spikes impale all characters and items, setting Crippled and dealing [X] Earth Damage. Also creates an oil puddle. Set Crippled for 1 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
+            "cost": "1",
+            "cool": "4",
+            "req": "Geomancer 2"
+        },
+        {
+            "id": "10",
+            "name": "Living Wall",
+            "desc": "Vines sprout from the ground to block the path in the target area, emitting poison clouds around them.",
+            "cost": "1",
+            "cool": "5",
+            "req": "Geomancer 3"
+        },
+        {
+            "id": "11",
+            "name": "Mass Oily Carapace",
+            "desc": "Each ally consumes oil surfaces around them, converting the oil surfaces to Physical Armour physical. Removed Slowed. Restore up to 34 Physical Armour, depending on relevant surface area.",
+            "cost": "2",
+            "cool": "5",
+            "req": "Geomancer 2, Warfare 2" 
+        },
+        {
+            "id": "12",
+            "name": "Mend Metal",
+            "desc": "Allies near you start slowly regenerating Physical Armour. Restore [X] Physical Armour for 3 turn(s).",
+            "cost": "1",
+            "cool": "3",
+            "req": "Geomancer 2"
+        },
+        {
+            "id": "13",
+            "name": "Oily Carapace",
+            "desc": "Consume oil surfaces around you and convert them to Physical Armour. Removes Slowed. Restore up to 34 Physical Armour, depending on relevant surface area.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Geomancer 1, Warfare 1" 
+        },
+        {
+            "id": "14",
+            "name": "Poison Dart",
+            "desc": "Cast a magical poisonous dart that does [X] Poison Damage, and creates a puddle of poison. Set Poisoned for 3 turn(s). Damage is bases on your level and receives bonus from your Intelligence.",
+            "cost": "1",
+            "cool": "5",
+            "req": "Geomancer 1"
+        },
+        {
+            "id": "15",
+            "name": "Poison Wave",
+            "desc": "Poison erupts from the caster in a circular wave, dealing [X] Poison Damage and forming poison clouds. Gives immunity to poison and earth damage for 1 turn. Set Earth Immunity for 1 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
+            "cost": "1",
+            "cool": "4",
+            "req": "Geomancer 2"
+        },
+        {
+            "id": "16",
+            "name": "Pyroclastic Eruption",
+            "desc": "Multiple oil-filled rocks erupt from the caster at all enemies in the area. On impact, they create oil surfaces and deal [X] Earth Damage. Damage is based on your level and receives bonus from your Intelligence.",
+            "cost": "3",
+            "cool": "5",
+            "req": "Geomancer 5"
+        },
+        {
+            "id": "17",
+            "name": "Reactive Armor",
+            "desc": "Deal [X] Physical Damage, based on your current Physical Armour, in a wave of metal spikes to everyone in the area (including yourself). Damage is based on your current Physical Armour.",
+            "cost": "1",
+            "cool": "6",
+            "req": "Geomancer 2"
+        },
+        {
+            "id": "18",
+            "name": "Siphon Poison",
+            "desc": "Remove poison surfaces and clouds. Gain poison damage bonus to weapon attacks and weapon-based skills (dependent upon size of poison area cleared). Set Siphon Poison for 2 turn(s).",
+            "cost": "1",
+            "cool": "5",
+            "req": "Geomancer 2"
+        },
+        {
+            "id": "19",
+            "name": "Summon Artillery Plant",
+            "desc": "Plant can lob acidic spores and emit cursed poison clouds. The stats of the summons will depend on caster level and Summoning ability.",
+            "cost": "2",
+            "cool": "6",
+            "req": "Geomancer 3"
+        },
+        {
+            "id": "20",
+            "name": "Throw Dust",
+            "desc": "Throw dust at a character, blinding them and dealing [X] Earth Damage. Clears surfaces and clouds in the area. Set Blinded for 1 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Geomancer 2, Huntsman 2"
+        },
+        {
+            "id": "21",
+            "name": "Turn to Oil",
+            "desc": "Turn water and blood surfaces into oil. Remove Stun and Shocked from characters.",
+            "cost": "2",
+            "cool": "4",
+            "req": "Geomancer 1, Polymorph 1" 
+        },
+        {
+            "id": "22",
+            "name": "Venom Coating",
+            "desc": "Coat your weapon with poison, adding [X] Poison Damage to your weapon skills and attacks. Set Venom Coating for 2 turn(s).",
+            "cost": "1",
+            "cool": "5",
+            "req": "Geomancer 1, Scoundrel 1" 
+        },
+        {
+            "id": "23",
+            "name": "Venomous Aura",
+            "desc": "Allies in range receive Venom Coating, which adds [X] Poison Damage to weapon skills and attacks. Set Venomous Aura for 4 turn(s).",
+            "cost": "2",
+            "cool": "5",
+            "req": "Geomancer 2, Scoundrel 2" 
+        },
+        {
+            "id": "24",
+            "name": "Worm Tremor",
+            "desc": "Deals [X] Earth Damage to each character in the area. At your command, poisonous worms slither up from the earth, attaching to every character in the area who is not protected by Magical Armour . Affected characters cannot move or teleport, and they receive [X] Poison Damage each turn. Set Entangled for 2 turn(s). Damage is based on your level and receives bonus from your Intelligence.",
+            "cost": "1",
+            "cool": "5",
+            "req": "Geomancer 2"
+        }
+    ],
+
+
+
+
+
+    [
+        {
+            "id": "1",
+            "name": "Arrow Spray",
+            "desc": "Fire 16 arrows in a 60 degree arc. Each arrow deals 40% damage.",
+            "special": "Damage is based on your basic attack and receives a bonus from Finesse.",
+            "cost": "2",
+            "cool": "5",
+            "req": "Huntsman 3"
+        },
+        {
+            "id": "2",
+            "name": "Arrow Storm",
+            "desc": "16 arrows fall from the sky in the target area, each dealing 40% damage.",
+            "special": "Damage is based on your basic attack and receives a bonus from Finesse.",
+            "cost": "3",
+            "cool": "2",
+            "req": "Huntsman 5"
+        },
+        {
+            "id": "3",
+            "name": "Assassinate",
+            "desc": "Attacking your target with meticulous aim, dealing 135% damage in one shot. When performed from stealth, this attack gains a 50% damage increase.",
+            "special": "Damage is based on your basic attack and receives a bonus from Finesse.",
+            "cost": "1",
+            "cool": "5",
+            "req": "Huntsman 1"
+        },
+        {
+            "id": "4",
+            "name": "Ballistic Shot",
+            "desc": "A shot that deals 100% damage and receives 5% bonus damage per 1m distance to target.",
+            "special": "Damage is based on your basic attack and receives a bonus from Finesse.",
+            "cost": "1",
+            "cool": "4",
+            "req": "Huntsman 2"
+        },
+        {
+            "id": "5",
+            "name": "Barrage",
+            "desc": "Fire three arrows at three targets of your choice, each dealing 60% damage.",
+            "special": "Damage is based on your basic attack and receives a bonus from Finesse.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Huntsman 2"
+        },
+        {
+            "id": "6",
+            "name": "Elemental Arrowheads",
+            "desc": "Target a surface in melee radius. For one turn, elemental damage matching that surface is added to your ranged weapon attacks and ranged weapon-based skills.",
+            "special": null,
+            "cost": "1",
+            "cool": "4",
+            "req": "Huntsman 1"
+        },
+        {
+            "id": "7",
+            "name": "Farsight",
+            "desc": "Increase the range of a targeted character's ranged attacks and skills by 4m.",
+            "special": "Set Farsight for 3 Turn(s).",
+            "cost": "2",
+            "cool": "3",
+            "req": "Huntsman 3"
+        },
+        {
+            "id": "8",
+            "name": "First Aid",
+            "desc": "Heals target for [X] Vitality. Cures Crippled, Atrophy, Knocked Down, Blind, Silenced, Bleeding, Burning, Poisoned, and Diseased.",
+            "special": "Restore [X] Vitality. Set Rested for 1 turn(s).",
+            "cost": "1",
+            "cool": "1",
+            "req": "Huntsman 1"
+        },
+        {
+            "id": "9",
+            "name": "Glitter Dust",
+            "desc": "Target is marked, reducing its ability to dodge. Prevents target from going invisible.",
+            "special": "Set Marked for 3 turn(s).",
+            "cost": "1",
+            "cool": "3",
+            "req": "Huntsman 3"
+        },
+        {
+            "id": "10",
+            "name": "Marksman's Fang",
+            "desc": "Shoot an arrow that goes straight through enemies. Each enemy that's hit takes 100% damage, ignoring armour.",
+            "special": "Damage is based on your basic attack and receives a bonus from Finesse.",
+            "cost": "1",
+            "cool": "2",
+            "req": "Huntsman 2"
+        },
+        {
+            "id": "11",
+            "name": "Pin Down",
+            "desc": "Deals 120% damage and Cripples target character.",
+            "special": "Set Crippled for 1 turn(s). Damage is based on your basic attack and receives a bonus from Finesse.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Huntsman 1"
+        },
+        {
+            "id": "12",
+            "name": "Reactive Shot",
+            "desc": "Target a circular area. Until your next turn, you will reflexively shoot at the first three enemies moving within this area.",
+            "special": "Set Reactive Shot for 1 Turn(s).",
+            "cost": "1",
+            "cool": "2",
+            "req": "Huntsman 2"
+        },
+        {
+            "id": "13",
+            "name": "Ricochet",
+            "desc": "Fire a normal arrow that deals 90% damage and then finds another target within 5m. Forks up to 2 times.",
+            "special": "Damage is based on your basic attack and receives a bonus from Finesse.",
+            "cost": "1",
+            "cool": "4",
+            "req": "Huntsman 1"
+        },
+        {
+            "id": "14",
+            "name": "Sky Shot",
+            "desc": "Leap into the air before shooting, gaining damage bonuses for your superior height. Deals 100% Damage.",
+            "special": "This skill receives high ground bonuses regardless of elevation. Damage is based on your basic attack and receives a bonus from Finesse.",
+            "cost": "1",
+            "cool": "2",
+            "req": "Huntsman 1"
+        },
+        {
+            "id": "15",
+            "name": "Tactical Retreat",
+            "desc": "Apply haste to yourself, then teleport away from imminent danger.",
+            "special": "Set Hasted for 1 Turn(s)",
+            "cost": "1",
+            "cool": "4",
+            "req": "Huntsman 2"
+        }
+    ],
+
+
+
+
+    [
+        {
+            "id": "1",
+            "name": "Arcane Stitch",
+            "desc": "Fully restore target character's Magic Armour. Removes Frozen, Stunned, Petrified, Plague, Suffocating, Poisoned, Burning, Necrofire, Terrified, Silenced, Taunted, Mad. Restore [X] Magic Armour.",
+            "cost": "2",
+            "cool": "4",
+            "req": "Hydrosophist 3"
+        },
+        {
+            "id": "2",
+            "name": "Armour of Frost",
+            "desc": "Ice forms a defensive barrier around the target, providing [X] Magical Armour. Cures Burning, Poisoned, Stunned, Frozen, Suffocating and Petrified. Sets Magic Shell for 3 turn(s).",
+            "cost": "1",
+            "cool": "4",
+            "req": "Hydrosophist 1"
+        },
+        {
+            "id": "3",
+            "name": "Cleanse Wounds",
+            "desc": "Heal target and create a water puddle beneath them. Remove Burning, Diseased, Decaying Touch, Poisoned and Bleeding. Restore [X] Vitality",
+            "cost": "1",
+            "cool": "5",
+            "req": "Hydrosophist 1, Warfare 1" 
+        },
+        {
+            "id": "4",
+            "name": "Cryogenic Stasis",
+            "desc": "Target ally enters Cryogenic Stasis. Though incapacitated, they become immune to all damage, and heal over time. Removes Shackles Of Pain. Sets Permafrost for 1 Turn(s).",
+            "cost": "#",
+            "cool": "4",
+            "req": "Hydrosophist 2"
+        },
+        {
+            "id": "5",
+            "name": "Cryotherapy",
+            "desc": "Consume Frozen surfaces around you and convert them to Magic Armour. Removes Burning and Necrofire. Restore up to 34 Magic Armour depending on relevant surface area.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Hydrosophist 1, Huntsman 1" 
+        },
+        {
+            "id": "6",
+            "name": "Cryogenic Stasis",
+            "desc": "Target ally enters Cryogenic Stasis. Though incapacitated, they become immune to all damage, and heal over time. Removes Shackles Of Pain.",
+            "cost": "1",
+            "cool": "4",
+            "req": "Hydrosophist 2"
+        },
+        {
+            "id": "7",
+            "name": "Deep Freeze",
+            "desc": "Targets in the cone that are frozen and under 10% Vitality shatter and instantly die. Otherwise they receive [X] Water Damage and become Frozen. Set Frozen for 1 Turn(s). Damage is based on your level and receives a bonus from Intelligence.",
+            "cost": "1",
+            "cool": "6",
+            "req": "Hydrosophist 3"
+        },
+        {
+            "id": "8",
+            "name": "Global Cooling",
+            "desc": "Set Chilled on enemies around you and deal [X] Water Damage. Freeze all succeptible surfaces. Damage is based on your level and receives a bonus from Intelligence.",
+            "cost": "3",
+            "cool": "1",
+            "req": "Hydrosophist 2"
+        },
+        {
+            "id": "9",
+            "name": "Hail Storm",
+            "desc": "20 ice shards fall from the sky, each dealing [X] Water Damage to characters within 13m range from impact. Damage is based on your level and receives a bonus from Intelligence.",
+            "cost": "3",
+            "cool": 4,
+            "req": "Hydrosophist 5"
+        },
+        {
+            "id": "10",
+            "name": "Hail Strike",
+            "desc": "Icicles fall from the sky, chilling enemies and dealing [X] water damage. They create Ice surfaces where they hit the ground. Damages is based on your level and receives bonus from Intelligence.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Hydrosophist 1"
+        },
+        {
+            "id": "11",
+            "name": "Healing Ritual",
+            "desc": "Shoot a bolt of healing energy that will jump to nearby allies. Restore 7 Vitality",
+            "cost": "1",
+            "cool": "5",
+            "req": "Hydrosophist 2"
+        },
+        {
+            "id": "12",
+            "name": "Healing Tears",
+            "desc": "Three healing tears circle around you. Everytime an ally walks into melee range near you, a healing tear bathes them. Set Healing Tears for 3 Turn(s)",
+            "cost": "1",
+            "cool": "5",
+            "req": "Hydrosophist 1"
+        },
+        {
+            "id": "13",
+            "name": "Ice Fan",
+            "desc": "Target 3 positions and shoot an ice shard at each one, dealing [X] Water Damage and making targets Chilled. Set Chilled for 1 turn(s). Damage is based on your level and receives a bonus from Intelligence.",
+            "cost": "1",
+            "cool": "4",
+            "req": "Hydrosophist 2"
+        },
+        {
+            "id": "14",
+            "name": "Mass Cleanse Wounds",
+            "desc": "Heal yourself and allies around you. Create a water puddle beneath every target. Remove Necrofire, Burning, Diseased, Decaying Touch, Poisoned, Bleeding, Suffocation and Acid. Restore 15 Vitality",
+            "cost": "2",
+            "cool": "5",
+            "req": "Hydrosophist 2, Warfare 2"
+        },
+        {
+            "id": "15",
+            "name": "Mass Cryotherapy",
+            "desc": "Each ally consumes Frozen surfaces around them, converting the frozen surfaces to Magic Armour. Removes Burning and Necrofire. Restore up to 34 Magic Armour depending on relevant surface area.",
+            "cost": "2",
+            "cool": "5",
+            "req": "Hydrosophist 2, Huntsman 2"
+        },
+        {
+            "id": "16",
+            "name": "Rain",
+            "desc": "Create a spreading water surface which douses fires. Set Wet status on characters in the area.",
+            "cost": "1",
+            "cool": "6",
+            "req": "Hydrosophist 1"
+        },
+        {
+            "id": "17",
+            "name": "Restoration",
+            "desc": "Restore Vitality of a target character. Restoration also cures Poisoned and Bleeding. Restore [X] Vitality for 2 turn(s).",
+            "cost": "1",
+            "cool": "4",
+            "req": "Hydrosophist 1"
+        },
+        {
+            "id": "18",
+            "name": "Soothing Cold",
+            "desc": "Regenerate Magical Armour for all alies around caster. Restore [x] Magic Armour for 3 turn(s).",
+            "cost": "1",
+            "cool": "3",
+            "req": "Hydrosophist 2"
+        },
+        {
+            "id": "19",
+            "name": "Steam Lance",
+            "desc": "Releases a stream of Blessed Steam that heals characters in its path. Restore 6 Vitality for 3 Turn(s)",
+            "cost": "2",
+            "cool": "3",
+            "req": "Hydrosophist 3"
+        },
+        {
+            "id": "20",
+            "name": "Vampiric Hunger",
+            "desc": "Set Vampiric Hunger on target character, adding 50% Life Steal for 2 turns. Life Steal heals you in proportion to the damage you deal to Vitality. Set Vampiric Hunger for 2 Turn(s)",
+            "cost": "1",
+            "cool": "5",
+            "req": "Hydrosophist 1, Scoundrel 1"
+        },
+        {
+            "id": "21",
+            "name": "Vampiric Hunger Aura",
+            "desc": "Set Vampiric Hunger Aura on every ally around you, adding 50% Life Steal for 2 turns. Life Steal heals you in proportion to the damage you deal to Vitality. Set Vampiric Hunger Aura for 2 Turn(s)",
+            "cost": "2",
+            "cool": "5",
+            "req": "Hydrosophist 2, Scoundrel 2"
+        },
+        {
+            "id": "22",
+            "name": "Winter Blast",
+            "desc": "Deal [X] Water Damage and set Chilled status on characters in the area. Freeze blood and water surfaces. Set Chilled for 2 turn(s). Damage is based on your level and receives a bonus from Intelligence.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Hydrosophist 2"
+        }
+        
+    ]
+        
+
+                            
+    [
+        {
+            "id": "1",
+            "name": "Black Shroud",
+            "desc": "Create a cloud of cursed smoke in an area, setting Suffocating and Blind on all characters within.",
+            "cost": "2",
+            "cool": "5",
+            "req": "Necromancer 3"
+        },
+        {
+            "id": "2",
+            "name": "Blood Storm",
+            "desc": "The sky weeps bloody tears. Bolts of coagulated blood fall on enemy characters in the area, setting Disease and Decaying Touch. Turns all water in the area into blood.",
+            "cost": "3",
+            "cool": "5",
+            "req": "Necromancer 3, Aerotheurge 3"
+        },
+        {
+            "id": "3",
+            "name": "Blood Sucker",
+            "desc": "Target character consumes blood surfaces around them, restoring Vitality. The more blood, the more they are healed! Restores up to [X] Vitality.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Necromancer 1"
+        },
+        {
+            "id": "4",
+            "name": "Bone Cage",
+            "desc": "Increases Physical Armour by [X] and another [X] Physical Armour for each corpse in the area around you.",
+            "cost": "1",
+            "cool": "5",
+            "req": "Necromancer 2"
+        },
+        {
+            "id": "5",
+            "name": "Death Wish",
+            "desc": "Target character receives a damage bonus equal to the percentage of their lost Vitality. For example, a character with 30% Vitality will gain a 70% damage bonus. Sets Death Wish for 2 turn(s).",
+            "cost": "1",
+            "cool": "5",
+            "req": "Necromancer 2"
+        },
+        {
+            "id": "6",
+            "name": "Decaying Touch",
+            "desc": "Deal [X] physical damage to target character. Sets Decay for 2 turn(s), so the target will take piercing damage from healing spells and potions.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Necromancer 1"
+        },
+        {
+            "id": "7",
+            "name": "Grasp of the Starved",
+            "desc": "Undead hands rise from underground, attacking characters that stand in blood surfaces and clouds. Deals [X] physical damage to each character and sets Crippled for 2 turn(s).",
+            "cost": "2",
+            "cool": "5",
+            "req": "Necromancer 3"
+        },
+        {
+            "id": "8",
+            "name": "Infect",
+            "desc": "Deal [X] physical damage. Infect a target for 2 turn(s) with a disease that will spread to other nearby characters. Diseased characters deal reduced damage with all attacks and have lowered Constitution.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Necromancer 2"
+        },
+        {
+            "id": "9",
+            "name": "Last Rites",
+            "desc": "Sacrifice yourself to bring an ally back to life. Deals [X] piercing damage to you, and resurrects target character with maximum Vitality.",
+            "cost": "1",
+            "cool": "N/A",
+            "req": "Necromancer 3"
+        },
+        {
+            "id": "10",
+            "name": "Living on the Edge",
+            "desc": "For 2 turns your character's Vitality cannot be reduced below 1 point, keeping them alive against all odds. If the target is a summon, their lifetime will be prolonged for the duration. Sets Death Resist for 2 turn(s)",
+            "cost": "1",
+            "cool": "5",
+            "req": "Necromancer 2"
+        },
+        {
+            "id": "11",
+            "name": "Mosquito Storm",
+            "desc": "Unleash a swarm of giant mosquitos to suck the blood from your enemies, dealing physical damage and healing yourself. Restore up to [X] Vitality, depending on the damage dealt. Set Bleeding for 2 turn(s).",
+            "cost": "1",
+            "cool": "3",
+            "req": "Necromancer 1"
+        },
+        {
+            "id": "12",
+            "name": "Raining Blood",
+            "desc": "Create blood surfaces. Set Bleeding on enemies for 2 turn(s). Douse fire surfaces.",
+            "cost": "1",
+            "cool": "5",
+            "req": "Necromancer 1, Aerotheurge 1"
+        },
+        {
+            "id": "13",
+            "name": "Raise Bloated Corpse",
+            "desc": "Target a corpse to raise a bloated cadaver that fights for you. It can explode your target, dealing Physical Damage.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Necromancer 1"
+        },
+        {
+            "id": "14",
+            "name": "Raise Bone Widow",
+            "desc": "Raise a walking pile of bones which can consume corpses to restore Vitality and receive a stacking damage buff. The stats of the summons will depend on caster level and Summoning ability.",
+            "cost": "1",
+            "cool": "5",
+            "req": "Necromancer 2"
+        },
+        {
+            "id": "15",
+            "name": "Shackles of Pain",
+            "desc": "Mark a target so that it will receive all of the damage you receive. Sets Shackles of Pain for 3 turn(s).",
+            "cost": "1",
+            "cool": "5",
+            "req": "Necromancer 2"
+        },
+        {
+            "id": "16",
+            "name": "Silencing Stare",
+            "desc": "Destroy [X-Y] Magic Armour and Silences all enemies in a cone in front of you. Sets Silenced for 1 turn.",
+            "cost": "1",
+            "cool": "2",
+            "req": "Necromancer 3"
+        },
+        {
+            "id": "17",
+            "name": "Totems of the Necromancer",
+            "desc": "Spawn bone totems near every enemy (alive or dead) in the area. Bone totems have ranged attacks that deal [x] physical damage.",
+            "cost": "3",
+            "cool": "5",
+            "req": "Necromancer 5"
+        }
+    ],
+
+
+
+    [
+        {
+            "id": "1",
+            "name": "Apotheosis",
+            "desc": "You take the first step towards godhood. The cost of all Source skills are reduced by -3 Source Points. Active for 2 turn(s).",
+            "cost": "3",
+            "cool": "N/A",
+            "req": "Poly 5"
+        },
+        {
+            "id": "2",
+            "name": "Bull Horns",
+            "desc": "Magnificent horns sprout from your forehead, making you see red. You can rush at your enemies and gore them. Increases Retribution ability by 1 for the duration. Incompatible with Medusa Head. Sets Bull Horns for 4 turn(s).",
+            "cost": "1",
+            "cool": "6",
+            "req": "Poly 1"
+        },
+        {
+            "id": "3",
+            "name": "Chameleon Cloak",
+            "desc": "Grants you the ability to blend in with any enviroment as if invisible.",
+            "cost": "1",
+            "cool": "6",
+            "req": "Poly 1"
+        },
+        {
+            "id": "4",
+            "name": "Chicken Claw",
+            "desc": "Turn the target character into a chicken for 2 turn(s). Squawk!",
+            "cost": "1",
+            "cool": "6",
+            "req": "Poly 1"
+        },
+        {
+            "id": "5",
+            "name": "Equalise",
+            "desc": "Vitality and Armour percentages of characters in target area are summed up and redistributed equally.",
+            "cost": "1",
+            "cool": "5",
+            "req": "Poly 3"
+        },
+        {
+            "id": "6",
+            "name": "Flaming Skin",
+            "desc": "You get immunity to fire, but lowered resistance to water. You bleed fire. Active for 2 turn(s).",
+            "cost": "2",
+            "cool": "5",
+            "req": "Poly 2, Pyrokinetic 2"
+        },
+        {
+            "id": "7",
+            "name": "Flay Skin",
+            "desc": "Destroy [X] Magic Armour on target character. Set Nullified Resistance for 3 turn(s).",
+            "cost": "1",
+            "cool": "5",
+            "req": "Poly 3"
+        },
+        {
+            "id": "8",
+            "name": "Forced Exchange",
+            "desc": "Exchange Vitality percentages with target character.",
+            "cost": "2",
+            "cool": "1",
+            "req": "Poly 3"
+        },
+        {
+            "id": "9",
+            "name": "Heart of Steel",
+            "desc": "Your heart pumps liquid metal, creating a robust layer of Physical Armor. This regenerates each turn. Restore [X] Physical Armor for 4 turn(s).",
+            "cost": "1",
+            "cool": "5",
+            "req": "Poly 2"
+        },
+        {
+            "id": "10",
+            "name": "Icy Skin",
+            "desc": "You get immunity to water, but lowered resistance to fire. You bleed ice. Active for 2 turn(s).",
+            "cost": "2",
+            "cool": "5",
+            "req": "Poly 2, Hydrosophist 2"
+        },
+        {
+            "id": "11",
+            "name": "Jellyfish Skin",
+            "desc": "Bleed electrified water. You get immunity to electricity, but lowered resistance to poison and earth damage. Active for 2 turn(s).",
+            "cost": "2",
+            "cool": "5",
+            "req": "Poly 2, Aerotheurge 2"
+        },
+        {
+            "id": "12",
+            "name": "Medusa Head",
+            "desc": "Snakes grow out of your head, giving you a petrifying aura and the Petrifying Visage skill. Incompatible with Bull Horns. Active for 2 turn(s).",
+            "cost": "1",
+            "cool": "5",
+            "req": "Poly 2"
+        },
+        {
+            "id": "13",
+            "name": "Poisonous Skin",
+            "desc": "You get immunity to poison and earth, but lowered resistance to air. You bleed poison. Active for 2 turn(s).",
+            "cost": "2",
+            "cool": "5",
+            "req": "Poly 2, Geomancer 2"
+        },
+        {
+            "id": "14",
+            "name": "Skin Graft",
+            "desc": "Reset all cooldowns. Removes Burning, Necrofire, Poisoned and Bleeding.",
+            "cost": "2",
+            "cool": "N/A",
+            "req": "Poly 3"
+        },
+        {
+            "id": "15",
+            "name": "Spider Legs",
+            "desc": "Spider legs burst from your back. You can create web surfaces in an area to entangle foes. Incompatible with Wings. Active for 3 turn(s).",
+            "cost": "1",
+            "cool": "5",
+            "req": "Poly 2"
+        },
+        {
+            "id": "16",
+            "name": "Spread Your Wings",
+            "desc": "Sprout temporary wings to fly when you move, allowing you to ignore ground surfaces. Incompatible with Spider Legs. Active for 3 turn(s).",
+            "cost": "1",
+            "cool": "6",
+            "req": "Poly 2"
+        },
+        {
+            "id": "17",
+            "name": "Summon Oily Blob",
+            "desc": "Fling an Oil Blob at a target point, dealing [X] Earth Damage in the area. Oil Blob deals earth damage with melee attacks and leaves an oil puddle on death. 3m explode radius.",
+            "cost": "1",
+            "cool": "6",
+            "req": "Poly 2"
+        },
+        {
+            "id": "18",
+            "name": "Tentacle Lash",
+            "desc": "Lash out at your opponent dealing, physical damage and setting Atrophy on them for 1 turn(s).",
+            "cost": "1",
+            "cool": "3",
+            "req": "Poly 1"
+        },
+        {
+            "id": "19",
+            "name": "Terrain Transmutation",
+            "desc": "Target two circular areas. Swap surfaces and clouds.",
+            "cost": "1",
+            "cool": "2",
+            "req": "Poly 2"
+        }  
+    ]  
+
+
+
+    [
+        {
+            "id": "1",
+            "name": "Bleed Fire",
+            "desc": "Enemies will bleed fire when hit. Also creates a small fire area beneath each target and ignites surfaces in the area. Active for 3 turn(s).",
+            "cost": "1",
+            "cool": "3",
+            "req": "Pyrokinetic 1, Polymorph 1"
+        },
+        {
+            "id": "2",
+            "name": "Corpse Explosion",
+            "desc": "Explode the target corpse, dealing physical damage in the area",
+            "cost": "1",
+            "cool": "4",
+            "req": "Pyrokinetic 1, Necromancer 1"
+        },
+        {
+            "id": "3",
+            "name": "Deploy Mass Traps",
+            "desc": "Throw 4 explosive traps at target locations. Each trap takes a turn to activate. When active, trap will explode when a character approaches it.",
+            "cost": "2",
+            "cool": "5",
+            "req": "Pyrokinetic 2, Huntsman 2"
+        },
+        {
+            "id": "4",
+            "name": "Epidemic of Fire",
+            "desc": "Fire a cursed flame that will fork on impact up to 5 times, dealing [X] Fire Damage and leaving a cursed fire surface in its wake. Sets Necrofire for 2 turn(s).",
+            "cost": "3",
+            "cool": "6",
+            "req": "Pyrokinetic 3"
+        },
+        {
+            "id": "5",
+            "name": "Fire Whip",
+            "desc": "Long-range attack that deals [X] Fire Damage to a single target, leaving them blind and burning. Sets Blind for 1 turn and Burning for 1 turn.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Pyrokinetic 2"
+        },
+        {
+            "id": "6",
+            "name": "Fireball",
+            "desc": "Hurl a fiery sphere that will explode, dealing [X] Fire Damage. Set Burning for 2 turn(s).",
+            "cost": "1",
+            "cool": "4",
+            "req": "Pyrokinetic 2"
+        },
+        {
+            "id": "7",
+            "name": "Firebrand",
+            "desc": "An aura that adds [X] fire damage to weapon skills and attacks for all allies within an 8m radius.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Pyrokinetic 3"
+        },
+        {
+            "id": "8",
+            "name": "Flaming Crescendo",
+            "desc": "Curse the target to explode (3m explode radius) in 1 turns or on death.",
+            "cost": "1",
+            "cool": "5",
+            "req": "Pyrokinetic 3"
+        },
+        {
+            "id": "9",
+            "name": "Flaming Tongues",
+            "desc": "Flaming tongues protect you, immediately attacking approaching enemies. Sets Flaming Tongues for 3 turn(s).",
+            "cost": "1",
+            "cool": "5",
+            "req": "Pyrokinetic 2"
+        },
+        {
+            "id": "10",
+            "name": "Haste",
+            "desc": "Sets Hasted on target character for 2 turn(s). Hasted increases movement speed by 2m per AP and gives an additional 1 AP per turn. Clears Slowed and Crippled.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Pyrokinetic 1"
+        },
+        {
+            "id": "11",
+            "name": "Ignition",
+            "desc": "Sets enemy characters around you on fire. Deals [X] fire damage to each. Ignites all susceptible surfaces for 2 turn(s).",
+            "cost": "1",
+            "cool": "2",
+            "req": "Pyrokinetic 1"
+        },
+        {
+            "id": "12",
+            "name": "Laser Ray",
+            "desc": "Line of intense heat that deals [X] Fire Damage to characters and leaves fire clouds behind. Sets Burning for 2 turn(s).",
+            "cost": "1",
+            "cool": "3",
+            "req": "Pyrokinetic 2"
+        },
+        {
+            "id": "13",
+            "name": "Mass Corpse Explosion",
+            "desc": "Explode all corpses around you, dealing physical damage in the area.",
+            "cost": "2",
+            "cool": "2",
+            "req": "Pyrokinetic 2, Necromancer 2"
+        },
+        {
+            "id": "14",
+            "name": "Mass Sabotage",
+            "desc": "Explode 2 random grenades or arrows in the inventories of any enemy in a target circle.",
+            "cost": "2",
+            "cool": "5",
+            "req": "Pyrokinetic 2, Scoundrel 2"
+        },
+        {
+            "id": "15",
+            "name": "Master of Sparks",
+            "desc": "Target character and surrounding allies receive Sparkmaster status that adds a chance of fiery sparks to melee attacks. Sets Sparkmaster for 2 turn(s).",
+            "cost": "2",
+            "cool": "5",
+            "req": "Pyrokinetic 2, Warfare 2"
+        },
+        {
+            "id": "16",
+            "name": "Meteor Shower",
+            "desc": "25 fireballs come crashing from the sky. Each does [X] Fire Damage within a 3m range from impact.",
+            "cost": "3",
+            "cool": "4",
+            "req": "Pyrokinetic 5"
+        },
+        {
+            "id": "17",
+            "name": "Peace of Mind",
+            "desc": "Target gains Clear-Minded for 3 turn(s), which increases Strength, Finesse, Intelligence by 2 and Wits by 5. Removes Blinded, Terrified, Charmed, Taunted, Sleeping, Enraged and Mad.",
+            "cost": "#1",
+            "cool": "3",
+            "req": "Pyrokinetic 1"
+        },
+        {
+            "id": "18",
+            "name": "Sabotage",
+            "desc": "If target character is carrying grenades or arrows, a random one explodes in their inventory. Explodes 1 random Arrow(s) or Grenade(s) on target's inventory.",
+            "cost": "1",
+            "cool": "1",
+            "req": "Pyrokinetic 1, Scoundrel 1"
+        },
+        {
+            "id": "19",
+            "name": "Searing Daggers",
+            "desc": "Shoot 3 flaming daggers at targets of your choice, each creating a fire surface and dealing [X] fire damage. Sets Burning for 2 turn(s).",
+            "cost": "1",
+            "cool": "3",
+            "req": "Pyrokinetic 1"
+        },
+        {
+            "id": "20",
+            "name": "Sparking Swings",
+            "desc": "Receive Sparkstriker status for 3 turn(s). This causes your melee attacks to create a spark projectile that bounces off the initial target to hit the closest enemy. Has 4 charges.",
+            "cost": "1",
+            "cool": "5",
+            "req": "Pyrokinetic 1, Warfare 1"
+        },
+        {
+            "id": "21",
+            "name": "Spontaneous Combustion",
+            "desc": "Deal [X] Fire Damage to target character. If the character is affected by Burning or Necrofire, remove those statuses and deal additional damage for each turn of duration remaining.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Pyrokinetic 2"
+        },
+        {
+            "id": "22",
+            "name": "Summon Fire Slug",
+            "desc": "Summon a Fire Slug. Your Fire Slug can create fire surfaces and launch linear fire attacks. The stats of the summon will depend on the caster's level and summoning ability. Active for 5 turns.",
+            "cost": "2",
+            "cool": "6",
+            "req": "Pyrokinetic 3"
+        },
+        {
+            "id": "23",
+            "name": "Supernova",
+            "desc": "Explode, creating fire surfaces and dealing [X] Fire Damage in a large area around you (except areas blocked by obstacles).",
+            "cost": "1",
+            "cool": "6",
+            "req": "Pyrokinetic 2"
+        },
+        {
+            "id": "24",
+            "name": "Throw Explosive Trap",
+            "desc": "Throw an explosive trap at target locations. Trap takes a turn to activate. When active, trap will explode when a character approaches it.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Pyrokinetic 1, Huntsman 1"
+        }
+    ],
+
+
+
+
+    [
+        {
+            "id": "1",
+            "name": "Battering Ram",
+            "desc": "Rush forward in a straight line, to a designated point, hitting all enemies in your path for 50% damage and setting Knockdown. Set Knocked Down for 1 turn(s). Damage is based on your basic attack and receives a bonus from [Weapon Attribute].",
+            "cost": "1",
+            "cool": "5",
+            "req": "Warfare 1"
+        },
+        {
+            "id": "2",
+            "name": "Battle Stomp",
+            "desc": "Smash your weapon into the ground, knocking down non-allied characters in front of you, and hitting them for 60% damage. Also clears non-cursed surfaces and clouds. Set Knocked Down for 1 turn(s). Damage is based on your basic attack and receives a bonus from Strength.",
+            "cost": "1",
+            "cool": "4",
+            "req": "Warfare 1"
+        },
+        {
+            "id": "3",
+            "name": "Blitz Attack",
+            "desc": "Jump from one target to another, hitting up to 2 targets, dealing 70% damage to each. Targets are chosen randomly in a 10m radius. Damage is based on your basic attack and receives a bonus from Strength.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Warfare 2"
+        },
+        {
+            "id": "4",
+            "name": "Bouncing Shield",
+            "desc": "Throw your shield at an enemy dealing [X] Physical Damage. Shield can bounce to another enemy in 5m range. Damage is based on the Physical Armour of your shield.",
+            "cost": "1",
+            "cool": "2",
+            "req": "Warfare 1, a Shield"
+        },
+        {
+            "id": "5",
+            "name": "Challenge",
+            "desc": "Mark target enemy. If they die in the next 2 turns, you are healed and receive damage and armour bonuses. If target survives, their Vitality is healed to full and caster receives damage.",
+            "cost": "1",
+            "cool": "5",
+            "req": "Warfare 3"
+        },
+        {
+            "id": "6",
+            "name": "Crippling Blow",
+            "desc": "Cripple the target with a sweeping blow, and all characters around it. Deals 115% damage. Set Crippled for 1 turn(s). Damage is based on your basic attack and receives a bonus from [Weapon Attribute].",
+            "cost": "1",
+            "cool": "3",
+            "req": "Warfare 1, a Melee weapon"
+        },
+        {
+            "id": "7",
+            "name": "Deflective Barrier",
+            "desc": "Projectiles that hit you are reflected back at the caster. This does not prevent the original projectile effects. Provides [X] Physical Armour. Set Deflecting for 3 turn(s).",
+            "cost": "1",
+            "cool": "5",
+            "req": "Warfare 2, a Shield"
+        },
+        {
+            "id": "8",
+            "name": "Enrage",
+            "desc": "Motivate an allied character with the power of rage. Target allied character is garaunteed to land critical hits with basic attacks and weapon skills, but is muted. Clears Taunted, Terrified, Charmed, Mad and Clear-Minded statuses. Set Enraged for 1 turn(s).",
+            "cost": "1",
+            "cool": "5",
+            "req": "Warfare 2"
+        },
+        {
+            "id": "9",
+            "name": "Guardian Angel",
+            "desc": "Allies in melee range redirect 50% of received damage to you. Set Guardian Angel Aura for 2 turn(s).",
+            "cost": "1",
+            "cool": "6",
+            "req": "Warfare 3"
+        },
+        {
+            "id": "10",
+            "name": "Onslaught",
+            "desc": "Attack five times with astonishing speed, each hit dealing 50% weapon damage.",
+            "cost": "2",
+            "cool": "6",
+            "req": "Warfare 3"
+        },
+        {
+            "id": "11",
+            "name": "Overpower",
+            "desc": "Deals 150% weapon damage. If your Physical Armour is higher than your opponent's, destroy all their Physical Armour. Set Knocked Down for 1 turn(s).",
+            "cost": "3",
+            "cool": "3",
+            "req": "Warfare 5"
+        },
+        {
+            "id": "12",
+            "name": "Phoenix Dive",
+            "desc": "Leap through the air to a target position, creating a fire surface upon landing.",
+            "cost": "1",
+            "cool": "4",
+            "req": "Warfare 2"
+        },
+        {
+            "id": "13",
+            "name": "Provoke",
+            "desc": "Taunt the enemies around you. Provoke and tease them so that they want to attack you. Set Taunted for 1 turn(s).",
+            "cost": "1",
+            "cool": "5",
+            "req": "Warfare 2"
+        },
+        {
+            "id": "14",
+            "name": "Thick of the Fight",
+            "desc": "The more the merrier! Gain a damage boost for every nearby character. Set Thick of the Fight for 2 turn(s).",
+            "cost": "2",
+            "cool": "4",
+            "req": "Warfare 3"
+        },
+        {
+            "id": "15",
+            "name": "Whirlwind",
+            "desc": "Perform a whirlwind attack, hitting enemies around you for 100% weapon damage.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Warfare 2, a Shield"
+        }
+    ],
+
+
+
+    [
+        {
+            "id": "1",
+            "name": "Acid Infusion",
+            "desc": "Change Incarnate's element to acid, unlocking Poison Dart and Corrosive Spray.",
+            "cost": "2",
+            "cool": "3",
+            "req": "Summoning 2, Geomancer 2"
+        },
+        {
+            "id": "2",
+            "name": "Cannibalise",
+            "desc": "Destroy an allied summon or totem. Receive their Vitality, Physical Armour and Magic Armour.",
+            "cost": "1",
+            "cool": "2",
+            "req": "Summoning 3"
+        },
+        {
+            "id": "3",
+            "name": "Conjure Incarnate",
+            "desc": "Conjure a personal elemental that matches the ground surface it's summoned onto. Your incarnate can be buffed with Infusions. Once you hit Summoning ability level of 10, a colossal Incarnate Champion will answer your summons! The stats of the summons will depend on caster level and Summoning ability. Duration 10 turn(s).",
+            "cost": "1",
+            "cool": "5",
+            "req": "Summoning 1"
+        },
+        {
+            "id": "4",
+            "name": "Cursed Electric Infusion",
+            "desc": "Change Incarnate's element to cursed electricity, unlocking Electric Discharge and Closed Circuit.",
+            "cost": "2",
+            "cool": "3",
+            "req": "Summoning 2, Aerotheurge 2"
+        },
+        {
+            "id": "5",
+            "name": "Dimensional Bolt",
+            "desc": "Shoot a volatile bolt that deals [X] of a random type, and then creates a corresponding surface.",
+            "cost": "1",
+            "cool": "1",
+            "req": "Summoning 1"
+        },
+        {
+            "id": "6",
+            "name": "Dominate Mind",
+            "desc": "Charm target non-allied character, causing them to join your side in combat for the duration of the status.",
+            "cost": "1",
+            "cool": "5",
+            "req": "Summoning 2"
+        },
+        {
+            "id": "7",
+            "name": "Door to Eternity",
+            "desc": "Give all summons around you a status that prevents them from dying to damage or disappearing when their life runs out. Sets Persisting for 2 turn(s).",
+            "cost": "2",
+            "cool": "3",
+            "req": "Summoning 3"
+        },
+        {
+            "id": "8",
+            "name": "Electric Infusion",
+            "desc": "Change Incarnate's element to electricity, unlocking Electric Discharge.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Summoning 1, Aerotheurge 1"
+        },
+        {
+            "id": "9",
+            "name": "Elemental Totem",
+            "desc": "Target a ground surface and conjure a totem of the corresponding element. Each turn, this totem will fire a projectile at enemies in sight. The stats of the summons will depend on caster level and Summoning ability. Duration 3 turn(s).",
+            "cost": "1",
+            "cool": "1",
+            "req": "Summoning 1"
+        },
+        {
+            "id": "10",
+            "name": "Ethereal Storm",
+            "desc": "Unpredictable projectiles from distant planes strike target area, dealing random elemental damage to enemies or healing allies. Active for 2 turn(s).",
+            "cost": "3",
+            "cool": "5",
+            "req": "Summoning 5"
+        },
+        {
+            "id": "11",
+            "name": "Farsight Infusion",
+            "desc": "Unlock a ranged attack for your Incarnate. Provides [X] Magic Armour (amount depends on your level).",
+            "cost": "1",
+            "cool": "3",
+            "req": "Summoning 1"
+        },
+        {
+            "id": "12",
+            "name": "Fire Infusion",
+            "desc": "Change Incarnate's element to fire, unlocking Fireball.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Summoning 1, Pyrokinetic 2"
+        },
+        {
+            "id": "13",
+            "name": "Ice Infusion",
+            "desc": "Change Incarnate's element to blessed ice, unlocking Restoration and Healing Ritual.",
+            "cost": "2",
+            "cool": "3",
+            "req": "Summoning 1, Hydrosophist 2"
+        },
+        {
+            "id": "14",
+            "name": "Necrofire Infusion",
+            "desc": "Change Incarnate's element to necrofire, unlocking Fireball and Epidemic of Fire.",
+            "cost": "2",
+            "cool": "3",
+            "req": "Summoning 2, Pyrokinetic 2"
+        },
+        {
+            "id": "15",
+            "name": "Planar Gateway",
+            "desc": "Conjure two linked gateways that allow any character to instantly travel between them. Active for 10 turn(s).",
+            "cost": "2",
+            "cool": "6",
+            "req": "Summoning 3"
+        },
+        {
+            "id": "16",
+            "name": "Poison Infusion",
+            "desc": "Change Incarnate's element to poison, unlocking Poison Dart.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Summoning 1, Geomancer 1"
+        },
+        {
+            "id": "17",
+            "name": "Power Infusion",
+            "desc": "Unlock Whirlwind  and Rush for your Incarnate. Provides [X] Physical Armour (amount depends on your level).",
+            "cost": "1",
+            "cool": "3",
+            "req": "Summoning 2"
+        },
+        {
+            "id": "18",
+            "name": "Rallying Cry",
+            "desc": "Target character regenerates [X] Vitality and [X] Magic Armour according to the number of allied characters and totems in their vicinity.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Summoning 2"
+        },
+        {
+            "id": "19",
+            "name": "Shadow Infusion",
+            "desc": "Incarnate learns how to go invisible and strike foes with a corrosive slash. Unlocks skills equal in effect to Chameleon Cloak and Corrupted Blade.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Summoning 2"
+        },
+        {
+            "id": "10",
+            "name": "Soul Mate",
+            "desc": "Bind yourself to target character, copying any healing and Armour restoration that you receive to them. Clears Frozen, Stunned, Knocked Down and Petrified. Sets Soul Mate for e turn(s).",
+            "cost": "1",
+            "cool": "5",
+            "req": "Summoning 2"
+        },
+        {
+            "id": "21",
+            "name": "Summon Cat Familiar",
+            "desc": "Summons a black cat by your side. Cat can leap, claw, and swap places with it's summoner.",
+            "cost": "1",
+            "cool": "5",
+            "req": "N/A"
+        },
+        {
+            "id": "22",
+            "name": "Summon Condor",
+            "desc": "Summons a condor that will aid you in combat. The stats of the summons will depend on caster level and Summoning ability.",
+            "cost": "1",
+            "cool": "6",
+            "req": "N/A"
+        },
+        {
+            "id": "23",
+            "name": "Summon Dragonling",
+            "desc": "Summons a newt to help you in combat. The stats of the summons will depend on caster level and Summoning ability.",
+            "cost": "2",
+            "cool": "6",
+            "req": "N/A"
+        },
+        {
+            "id": "24",
+            "name": "Summon Inner Demon",
+            "desc": "Conjure a demon that will share their Intelligence with you and provide [X] Magic Armour. Grants you power to terrify and protect yourself with demonic fists. Active for 3 turn(s).",
+            "cost": "2",
+            "cool": "6",
+            "req": "N/A"
+        },
+        {
+            "id": "25",
+            "name": "Supercharger",
+            "desc": "Target totem or summon deals 100% more base damage during its next turn, but then it dies. Sets Supercharged for 2 turn(s).",
+            "cost": "1",
+            "cool": "3",
+            "req": "Summoning 2"
+        },
+        {
+            "id": "26",
+            "name": "Warp Infusion",
+            "desc": "Incarnate learns a teleport skill and a skill to swap places with its master. These skills are equivalent in effect to Tactical Retreat and the Black Cat summon's swap skill.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Summoning 3"
+        },
+        {
+            "id": "27",
+            "name": "Water Infusion",
+            "desc": "Change Incarnate's element to water, unlocking Restoration.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Summoning 1, Hydrosophist 1"
+        }
+    ],
+
+
+
+    [
+        {
+            "id": "1",
+            "name": "Battering Ram",
+            "desc": "Rush forward in a straight line, to a designated point, hitting all enemies in your path for 50% damage and setting Knockdown. Set Knocked Down for 1 turn(s). Damage is based on your basic attack and receives a bonus from [Weapon Attribute].",
+            "cost": "1",
+            "cool": "5",
+            "req": "Warfare 1"
+        },
+        {
+            "id": "2",
+            "name": "Battle Stomp",
+            "desc": "Smash your weapon into the ground, knocking down non-allied characters in front of you, and hitting them for 60% damage. Also clears non-cursed surfaces and clouds. Set Knocked Down for 1 turn(s). Damage is based on your basic attack and receives a bonus from Strength.",
+            "cost": "1",
+            "cool": "4",
+            "req": "Warfare 1"
+        },
+        {
+            "id": "3",
+            "name": "Blitz Attack",
+            "desc": "Jump from one target to another, hitting up to 2 targets, dealing 70% damage to each. Targets are chosen randomly in a 10m radius. Damage is based on your basic attack and receives a bonus from Strength.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Warfare 2"
+        },
+        {
+            "id": "4",
+            "name": "Bouncing Shield",
+            "desc": "Throw your shield at an enemy dealing [X] Physical Damage. Shield can bounce to another enemy in 5m range. Damage is based on the Physical Armour of your shield.",
+            "cost": "1",
+            "cool": "2",
+            "req": "Warfare 1, a Shield"
+        },
+        {
+            "id": "5",
+            "name": "Challenge",
+            "desc": "Mark target enemy. If they die in the next 2 turns, you are healed and receive damage and armour bonuses. If target survives, their Vitality is healed to full and caster receives damage.",
+            "cost": "1",
+            "cool": "5",
+            "req": "Warfare 3"
+        },
+        {
+            "id": "6",
+            "name": "Crippling Blow",
+            "desc": "Cripple the target with a sweeping blow, and all characters around it. Deals 115% damage. Set Crippled for 1 turn(s). Damage is based on your basic attack and receives a bonus from [Weapon Attribute].",
+            "cost": "1",
+            "cool": "3",
+            "req": "Warfare 1, a Melee weapon"
+        },
+        {
+            "id": "7",
+            "name": "Deflective Barrier",
+            "desc": "Projectiles that hit you are reflected back at the caster. This does not prevent the original projectile effects. Provides [X] Physical Armour. Set Deflecting for 3 turn(s).",
+            "cost": "1",
+            "cool": "5",
+            "req": "Warfare 2, a Shield"
+        },
+        {
+            "id": "8",
+            "name": "Enrage",
+            "desc": "Motivate an allied character with the power of rage. Target allied character is garaunteed to land critical hits with basic attacks and weapon skills, but is muted. Clears Taunted, Terrified, Charmed, Mad and Clear-Minded statuses. Set Enraged for 1 turn(s).",
+            "cost": "1",
+            "cool": "5",
+            "req": "Warfare 2"
+        },
+        {
+            "id": "9",
+            "name": "Guardian Angel",
+            "desc": "Allies in melee range redirect 50% of received damage to you. Set Guardian Angel Aura for 2 turn(s).",
+            "cost": "1",
+            "cool": "6",
+            "req": "Warfare 3"
+        },
+        {
+            "id": "10",
+            "name": "Onslaught",
+            "desc": "Attack five times with astonishing speed, each hit dealing 50% weapon damage.",
+            "cost": "2",
+            "cool": "6",
+            "req": "Warfare 3"
+        },
+        {
+            "id": "11",
+            "name": "Overpower",
+            "desc": "Deals 150% weapon damage. If your Physical Armour is higher than your opponent's, destroy all their Physical Armour. Set Knocked Down for 1 turn(s).",
+            "cost": "3",
+            "cool": "3",
+            "req": "Warfare 5"
+        },
+        {
+            "id": "12",
+            "name": "Phoenix Dive",
+            "desc": "Leap through the air to a target position, creating a fire surface upon landing.",
+            "cost": "1",
+            "cool": "4",
+            "req": "Warfare 2"
+        },
+        {
+            "id": "13",
+            "name": "Provoke",
+            "desc": "Taunt the enemies around you. Provoke and tease them so that they want to attack you. Set Taunted for 1 turn(s).",
+            "cost": "1",
+            "cool": "5",
+            "req": "Warfare 2"
+        },
+        {
+            "id": "14",
+            "name": "Thick of the Fight",
+            "desc": "The more the merrier! Gain a damage boost for every nearby character. Set Thick of the Fight for 2 turn(s).",
+            "cost": "2",
+            "cool": "4",
+            "req": "Warfare 3"
+        },
+        {
+            "id": "15",
+            "name": "Whirlwind",
+            "desc": "Perform a whirlwind attack, hitting enemies around you for 100% weapon damage.",
+            "cost": "1",
+            "cool": "3",
+            "req": "Warfare 2, a Shield"
+        }
+    ]
+
+]    

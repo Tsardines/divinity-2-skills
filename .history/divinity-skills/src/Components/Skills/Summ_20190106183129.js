@@ -13,7 +13,7 @@ class Summ extends Component {
   }
 
   componentWillMount() {
-    fetch('https://api.myjson.com/bins/r091k')
+    fetch('https://api.myjson.com/bins/7oa9c')
     .then(res => res.json())
     .then(data => {
       this.setState({ items: data });
@@ -31,6 +31,7 @@ class Summ extends Component {
         <span className="skill-title"><h1>Summoning</h1></span>
 
         <div className="Summ">
+
           
           { items.map((item, num) => {
 
@@ -46,17 +47,17 @@ class Summ extends Component {
 
                     <div className="tier-2">
                   
-                      <th><div className="skill-cost">
-                        <p key={num}><strong>Memory:<br /></strong> {item.cost}</p>
-                      </div></th>
+                    <th><div className="skill-cost">
+                      <p key={num}><strong>Memory:<br /></strong> {item.cost}</p>
+                    </div></th>
 
-                      <th><div className="skill-cool">
-                        <p key={num}><strong>Cooldown:<br /></strong> {item.cool} turns</p>
-                      </div></th>
+                    <th><div className="skill-cool">
+                      <p key={num}><strong>Cooldown:<br /></strong> {item.cool} turns</p>
+                    </div></th>
 
-                      <th><div className="skill-req">
-                        <p key={num}><strong>Requirements:<br /></strong> {item.req}</p>
-                      </div></th>
+                    <th><div className="skill-req">
+                      <p key={num}><strong>Requirements:<br /></strong> {item.req}</p>
+                    </div></th>
 
                     </div>
                 </tg>

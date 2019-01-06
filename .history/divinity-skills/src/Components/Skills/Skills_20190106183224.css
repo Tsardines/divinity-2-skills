@@ -1,0 +1,172 @@
+/* .aero-wrap {
+    background-color: rgb(163, 199, 223);
+}
+
+.geo-wrap {
+    background-color: rgb(143, 138, 129);
+}
+
+.hunts-wrap {
+    background-color: rgb(136, 158, 139)
+}
+
+.hydro-wrap {
+    background-color: rgb(78, 92, 138);
+}
+
+.necro-wrap {
+    background-color: rgb(85, 70, 109)
+}
+
+.poly-wrap {
+    background-color: rgb(153, 77, 140)
+}
+
+.pyro-wrap {
+    background-color: rgb(133, 79, 54)
+}
+
+.scoun-wrap {
+    background-color: rgb(67, 133, 127)
+}
+
+
+.war-wrap {
+    background-color: rgb(83, 32, 32)
+} */
+
+/* ------------------------------------ */
+
+.Aero, .Geo, .Hunts, .Hydro, .Necro, .Poly, .Pyro, .Scoun, .Summ, .War {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 2em;
+}
+
+.skill-title h1 {
+    padding-top: 1em;
+    text-shadow: 2px 2px white;
+}
+
+.skill-title:hover {
+    text-decoration: underline;
+}
+
+.skill-wrap {
+    background-color: rgb(71, 71, 71);
+    border-radius: 0.3em;
+    /* box-shadow: 0.1em 0.1em 0.1em 0.1em gray; */
+    font-size: 1vw;
+    height: 50%;
+    margin: 1.75em;
+    padding: 0.5em;
+    text-align: left;
+    width: 35vw;
+}
+
+.skill-name p {
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.tier-2 {
+    font-size: 1.25vw;
+    padding-left: 10%;
+}
+
+.tier-2 p {
+    text-align: center;
+}
+
+.skill-wrap .skill-name {
+    font-size: 1.5vw;
+    font-weight: bold;
+}
+
+.skill-desc {
+    font-size: 1.5vw;
+}
+
+.skill-wrap th {
+    font-weight: lighter;
+    padding: 1em;
+}
+
+.skill-wrap .skill-desc {
+    width: 100%;
+}
+
+/* ------------------------------------ */
+
+.Aero p:hover {
+    color: rgb(139, 80, 31);
+}
+
+.Geo p:hover {
+    color: green;
+}
+
+.Hunts p:hover {
+    color: maroon;
+}
+
+.Hydro p:hover {
+    color: rgb(131, 80, 13);
+}
+
+.Necro p:hover {
+    color: rgb(180, 59, 120)
+}
+
+.Poly p:hover {
+    color: rgb(136, 68, 12)
+}
+
+.Pyro p:hover {
+    color: rgb(67, 215, 235)
+}
+
+.Scoun p:hover {
+    color: rgb(143, 60, 104);
+}
+
+.Summ p:hover {
+    color: rgb(136, 38, 175)
+}
+
+.War p:hover {
+    color: rgb(44, 113, 177)
+}
+/* ------------------------------------ */
+
+
+/* .hydro-wrap .skill-title h1 {
+    color: rgb(141, 191, 219);
+    text-shadow: 2px 2px black;
+} 
+
+.necro-wrap .skill-title h1 {
+    color: white;
+    text-shadow: 2px 2px black;
+} 
+
+.poly-wrap .skill-title h1 {
+    color: white;
+    text-shadow: 2px 2px black;
+}
+
+.pyro-wrap .skill-title h1 {
+    color: white;
+    text-shadow: 2px 2px black;
+}
+
+.scoun-wrap .skill-title h1 {
+    color: white;
+    text-shadow: 2px 2px black;
+}
+
+.war-wrap .skill-title h1 {
+    color: white;
+    text-shadow: 2px 2px black;
+} */

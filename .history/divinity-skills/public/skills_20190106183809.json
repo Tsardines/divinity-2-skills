@@ -191,12 +191,12 @@
         "cost": "1",
         "cool": "4",
         "req": "Aerotheurge 1, Polymorph 1" 
-    },
+    }
+]
 
 
 
-
-
+[
     {
         "id": "1",
         "name": "Acid Spores",
@@ -388,11 +388,14 @@
         "cost": "1",
         "cool": "5",
         "req": "Geomancer 2"
-    },
+    }
+]
 
 
 
 
+
+[
     {
         "id": "1",
         "name": "Arrow Spray",
@@ -527,13 +530,13 @@
         "cost": "1",
         "cool": "4",
         "req": "Huntsman 2"
-    },
+    }
+]
 
 
 
 
-
-
+[
     {
         "id": "1",
         "name": "Arcane Stitch",
@@ -709,14 +712,13 @@
         "cost": "1",
         "cool": "3",
         "req": "Hydrosophist 2"
-    },
-
-
-
-
-
+    }
+    
+]
     
 
+                        
+[
     {
         "id": "1",
         "name": "Black Shroud",
@@ -852,14 +854,12 @@
         "cost": "3",
         "cool": "5",
         "req": "Necromancer 5"
-    },
+    }
+]
 
 
 
-
-
-
-
+[
     {
         "id": "1",
         "name": "Apotheosis",
@@ -1011,14 +1011,12 @@
         "cost": "1",
         "cool": "2",
         "req": "Poly 2"
-    },  
+    }  
+]  
 
 
 
-
-
-
-    
+[
     {
         "id": "1",
         "name": "Bleed Fire",
@@ -1210,484 +1208,794 @@
         "cost": "1",
         "cool": "3",
         "req": "Pyrokinetic 1, Huntsman 1"
-    },
-
-
-
-
-
-
-
-    {
-        "id": "1",
-        "name": "Battering Ram",
-        "desc": "Rush forward in a straight line, to a designated point, hitting all enemies in your path for 50% damage and setting Knockdown. Set Knocked Down for 1 turn(s). Damage is based on your basic attack and receives a bonus from [Weapon Attribute].",
-        "cost": "1",
-        "cool": "5",
-        "req": "Warfare 1"
-    },
-    {
-        "id": "2",
-        "name": "Battle Stomp",
-        "desc": "Smash your weapon into the ground, knocking down non-allied characters in front of you, and hitting them for 60% damage. Also clears non-cursed surfaces and clouds. Set Knocked Down for 1 turn(s). Damage is based on your basic attack and receives a bonus from Strength.",
-        "cost": "1",
-        "cool": "4",
-        "req": "Warfare 1"
-    },
-    {
-        "id": "3",
-        "name": "Blitz Attack",
-        "desc": "Jump from one target to another, hitting up to 2 targets, dealing 70% damage to each. Targets are chosen randomly in a 10m radius. Damage is based on your basic attack and receives a bonus from Strength.",
-        "cost": "1",
-        "cool": "3",
-        "req": "Warfare 2"
-    },
-    {
-        "id": "4",
-        "name": "Bouncing Shield",
-        "desc": "Throw your shield at an enemy dealing [X] Physical Damage. Shield can bounce to another enemy in 5m range. Damage is based on the Physical Armour of your shield.",
-        "cost": "1",
-        "cool": "2",
-        "req": "Warfare 1, a Shield"
-    },
-    {
-        "id": "5",
-        "name": "Challenge",
-        "desc": "Mark target enemy. If they die in the next 2 turns, you are healed and receive damage and armour bonuses. If target survives, their Vitality is healed to full and caster receives damage.",
-        "cost": "1",
-        "cool": "5",
-        "req": "Warfare 3"
-    },
-    {
-        "id": "6",
-        "name": "Crippling Blow",
-        "desc": "Cripple the target with a sweeping blow, and all characters around it. Deals 115% damage. Set Crippled for 1 turn(s). Damage is based on your basic attack and receives a bonus from [Weapon Attribute].",
-        "cost": "1",
-        "cool": "3",
-        "req": "Warfare 1, a Melee weapon"
-    },
-    {
-        "id": "7",
-        "name": "Deflective Barrier",
-        "desc": "Projectiles that hit you are reflected back at the caster. This does not prevent the original projectile effects. Provides [X] Physical Armour. Set Deflecting for 3 turn(s).",
-        "cost": "1",
-        "cool": "5",
-        "req": "Warfare 2, a Shield"
-    },
-    {
-        "id": "8",
-        "name": "Enrage",
-        "desc": "Motivate an allied character with the power of rage. Target allied character is garaunteed to land critical hits with basic attacks and weapon skills, but is muted. Clears Taunted, Terrified, Charmed, Mad and Clear-Minded statuses. Set Enraged for 1 turn(s).",
-        "cost": "1",
-        "cool": "5",
-        "req": "Warfare 2"
-    },
-    {
-        "id": "9",
-        "name": "Guardian Angel",
-        "desc": "Allies in melee range redirect 50% of received damage to you. Set Guardian Angel Aura for 2 turn(s).",
-        "cost": "1",
-        "cool": "6",
-        "req": "Warfare 3"
-    },
-    {
-        "id": "10",
-        "name": "Onslaught",
-        "desc": "Attack five times with astonishing speed, each hit dealing 50% weapon damage.",
-        "cost": "2",
-        "cool": "6",
-        "req": "Warfare 3"
-    },
-    {
-        "id": "11",
-        "name": "Overpower",
-        "desc": "Deals 150% weapon damage. If your Physical Armour is higher than your opponent's, destroy all their Physical Armour. Set Knocked Down for 1 turn(s).",
-        "cost": "3",
-        "cool": "3",
-        "req": "Warfare 5"
-    },
-    {
-        "id": "12",
-        "name": "Phoenix Dive",
-        "desc": "Leap through the air to a target position, creating a fire surface upon landing.",
-        "cost": "1",
-        "cool": "4",
-        "req": "Warfare 2"
-    },
-    {
-        "id": "13",
-        "name": "Provoke",
-        "desc": "Taunt the enemies around you. Provoke and tease them so that they want to attack you. Set Taunted for 1 turn(s).",
-        "cost": "1",
-        "cool": "5",
-        "req": "Warfare 2"
-    },
-    {
-        "id": "14",
-        "name": "Thick of the Fight",
-        "desc": "The more the merrier! Gain a damage boost for every nearby character. Set Thick of the Fight for 2 turn(s).",
-        "cost": "2",
-        "cool": "4",
-        "req": "Warfare 3"
-    },
-    {
-        "id": "15",
-        "name": "Whirlwind",
-        "desc": "Perform a whirlwind attack, hitting enemies around you for 100% weapon damage.",
-        "cost": "1",
-        "cool": "3",
-        "req": "Warfare 2, a Shield"
-    },
-
-
-
-
-
-
-
-
-
-    {
-        "id": "1",
-        "name": "Acid Infusion",
-        "desc": "Change Incarnate's element to acid, unlocking Poison Dart and Corrosive Spray.",
-        "cost": "2",
-        "cool": "3",
-        "req": "Summoning 2, Geomancer 2"
-    },
-    {
-        "id": "2",
-        "name": "Cannibalise",
-        "desc": "Destroy an allied summon or totem. Receive their Vitality, Physical Armour and Magic Armour.",
-        "cost": "1",
-        "cool": "2",
-        "req": "Summoning 3"
-    },
-    {
-        "id": "3",
-        "name": "Conjure Incarnate",
-        "desc": "Conjure a personal elemental that matches the ground surface it's summoned onto. Your incarnate can be buffed with Infusions. Once you hit Summoning ability level of 10, a colossal Incarnate Champion will answer your summons! The stats of the summons will depend on caster level and Summoning ability. Duration 10 turn(s).",
-        "cost": "1",
-        "cool": "5",
-        "req": "Summoning 1"
-    },
-    {
-        "id": "4",
-        "name": "Cursed Electric Infusion",
-        "desc": "Change Incarnate's element to cursed electricity, unlocking Electric Discharge and Closed Circuit.",
-        "cost": "2",
-        "cool": "3",
-        "req": "Summoning 2, Aerotheurge 2"
-    },
-    {
-        "id": "5",
-        "name": "Dimensional Bolt",
-        "desc": "Shoot a volatile bolt that deals [X] of a random type, and then creates a corresponding surface.",
-        "cost": "1",
-        "cool": "1",
-        "req": "Summoning 1"
-    },
-    {
-        "id": "6",
-        "name": "Dominate Mind",
-        "desc": "Charm target non-allied character, causing them to join your side in combat for the duration of the status.",
-        "cost": "1",
-        "cool": "5",
-        "req": "Summoning 2"
-    },
-    {
-        "id": "7",
-        "name": "Door to Eternity",
-        "desc": "Give all summons around you a status that prevents them from dying to damage or disappearing when their life runs out. Sets Persisting for 2 turn(s).",
-        "cost": "2",
-        "cool": "3",
-        "req": "Summoning 3"
-    },
-    {
-        "id": "8",
-        "name": "Electric Infusion",
-        "desc": "Change Incarnate's element to electricity, unlocking Electric Discharge.",
-        "cost": "1",
-        "cool": "3",
-        "req": "Summoning 1, Aerotheurge 1"
-    },
-    {
-        "id": "9",
-        "name": "Elemental Totem",
-        "desc": "Target a ground surface and conjure a totem of the corresponding element. Each turn, this totem will fire a projectile at enemies in sight. The stats of the summons will depend on caster level and Summoning ability. Duration 3 turn(s).",
-        "cost": "1",
-        "cool": "1",
-        "req": "Summoning 1"
-    },
-    {
-        "id": "10",
-        "name": "Ethereal Storm",
-        "desc": "Unpredictable projectiles from distant planes strike target area, dealing random elemental damage to enemies or healing allies. Active for 2 turn(s).",
-        "cost": "3",
-        "cool": "5",
-        "req": "Summoning 5"
-    },
-    {
-        "id": "11",
-        "name": "Farsight Infusion",
-        "desc": "Unlock a ranged attack for your Incarnate. Provides [X] Magic Armour (amount depends on your level).",
-        "cost": "1",
-        "cool": "3",
-        "req": "Summoning 1"
-    },
-    {
-        "id": "12",
-        "name": "Fire Infusion",
-        "desc": "Change Incarnate's element to fire, unlocking Fireball.",
-        "cost": "1",
-        "cool": "3",
-        "req": "Summoning 1, Pyrokinetic 2"
-    },
-    {
-        "id": "13",
-        "name": "Ice Infusion",
-        "desc": "Change Incarnate's element to blessed ice, unlocking Restoration and Healing Ritual.",
-        "cost": "2",
-        "cool": "3",
-        "req": "Summoning 1, Hydrosophist 2"
-    },
-    {
-        "id": "14",
-        "name": "Necrofire Infusion",
-        "desc": "Change Incarnate's element to necrofire, unlocking Fireball and Epidemic of Fire.",
-        "cost": "2",
-        "cool": "3",
-        "req": "Summoning 2, Pyrokinetic 2"
-    },
-    {
-        "id": "15",
-        "name": "Planar Gateway",
-        "desc": "Conjure two linked gateways that allow any character to instantly travel between them. Active for 10 turn(s).",
-        "cost": "2",
-        "cool": "6",
-        "req": "Summoning 3"
-    },
-    {
-        "id": "16",
-        "name": "Poison Infusion",
-        "desc": "Change Incarnate's element to poison, unlocking Poison Dart.",
-        "cost": "1",
-        "cool": "3",
-        "req": "Summoning 1, Geomancer 1"
-    },
-    {
-        "id": "17",
-        "name": "Power Infusion",
-        "desc": "Unlock Whirlwind  and Rush for your Incarnate. Provides [X] Physical Armour (amount depends on your level).",
-        "cost": "1",
-        "cool": "3",
-        "req": "Summoning 2"
-    },
-    {
-        "id": "18",
-        "name": "Rallying Cry",
-        "desc": "Target character regenerates [X] Vitality and [X] Magic Armour according to the number of allied characters and totems in their vicinity.",
-        "cost": "1",
-        "cool": "3",
-        "req": "Summoning 2"
-    },
-    {
-        "id": "19",
-        "name": "Shadow Infusion",
-        "desc": "Incarnate learns how to go invisible and strike foes with a corrosive slash. Unlocks skills equal in effect to Chameleon Cloak and Corrupted Blade.",
-        "cost": "1",
-        "cool": "3",
-        "req": "Summoning 2"
-    },
-    {
-        "id": "10",
-        "name": "Soul Mate",
-        "desc": "Bind yourself to target character, copying any healing and Armour restoration that you receive to them. Clears Frozen, Stunned, Knocked Down and Petrified. Sets Soul Mate for e turn(s).",
-        "cost": "1",
-        "cool": "5",
-        "req": "Summoning 2"
-    },
-    {
-        "id": "21",
-        "name": "Summon Cat Familiar",
-        "desc": "Summons a black cat by your side. Cat can leap, claw, and swap places with it's summoner.",
-        "cost": "1",
-        "cool": "5",
-        "req": "N/A"
-    },
-    {
-        "id": "22",
-        "name": "Summon Condor",
-        "desc": "Summons a condor that will aid you in combat. The stats of the summons will depend on caster level and Summoning ability.",
-        "cost": "1",
-        "cool": "6",
-        "req": "N/A"
-    },
-    {
-        "id": "23",
-        "name": "Summon Dragonling",
-        "desc": "Summons a newt to help you in combat. The stats of the summons will depend on caster level and Summoning ability.",
-        "cost": "2",
-        "cool": "6",
-        "req": "N/A"
-    },
-    {
-        "id": "24",
-        "name": "Summon Inner Demon",
-        "desc": "Conjure a demon that will share their Intelligence with you and provide [X] Magic Armour. Grants you power to terrify and protect yourself with demonic fists. Active for 3 turn(s).",
-        "cost": "2",
-        "cool": "6",
-        "req": "N/A"
-    },
-    {
-        "id": "25",
-        "name": "Supercharger",
-        "desc": "Target totem or summon deals 100% more base damage during its next turn, but then it dies. Sets Supercharged for 2 turn(s).",
-        "cost": "1",
-        "cool": "3",
-        "req": "Summoning 2"
-    },
-    {
-        "id": "26",
-        "name": "Warp Infusion",
-        "desc": "Incarnate learns a teleport skill and a skill to swap places with its master. These skills are equivalent in effect to Tactical Retreat and the Black Cat summon's swap skill.",
-        "cost": "1",
-        "cool": "3",
-        "req": "Summoning 3"
-    },
-    {
-        "id": "27",
-        "name": "Water Infusion",
-        "desc": "Change Incarnate's element to water, unlocking Restoration.",
-        "cost": "1",
-        "cool": "3",
-        "req": "Summoning 1, Hydrosophist 1"
-    },
-
-
-
-
-    
-
-
-    {
-        "id": "1",
-        "name": "Battering Ram",
-        "desc": "Rush forward in a straight line, to a designated point, hitting all enemies in your path for 50% damage and setting Knockdown. Set Knocked Down for 1 turn(s). Damage is based on your basic attack and receives a bonus from [Weapon Attribute].",
-        "cost": "1",
-        "cool": "5",
-        "req": "Warfare 1"
-    },
-    {
-        "id": "2",
-        "name": "Battle Stomp",
-        "desc": "Smash your weapon into the ground, knocking down non-allied characters in front of you, and hitting them for 60% damage. Also clears non-cursed surfaces and clouds. Set Knocked Down for 1 turn(s). Damage is based on your basic attack and receives a bonus from Strength.",
-        "cost": "1",
-        "cool": "4",
-        "req": "Warfare 1"
-    },
-    {
-        "id": "3",
-        "name": "Blitz Attack",
-        "desc": "Jump from one target to another, hitting up to 2 targets, dealing 70% damage to each. Targets are chosen randomly in a 10m radius. Damage is based on your basic attack and receives a bonus from Strength.",
-        "cost": "1",
-        "cool": "3",
-        "req": "Warfare 2"
-    },
-    {
-        "id": "4",
-        "name": "Bouncing Shield",
-        "desc": "Throw your shield at an enemy dealing [X] Physical Damage. Shield can bounce to another enemy in 5m range. Damage is based on the Physical Armour of your shield.",
-        "cost": "1",
-        "cool": "2",
-        "req": "Warfare 1, a Shield"
-    },
-    {
-        "id": "5",
-        "name": "Challenge",
-        "desc": "Mark target enemy. If they die in the next 2 turns, you are healed and receive damage and armour bonuses. If target survives, their Vitality is healed to full and caster receives damage.",
-        "cost": "1",
-        "cool": "5",
-        "req": "Warfare 3"
-    },
-    {
-        "id": "6",
-        "name": "Crippling Blow",
-        "desc": "Cripple the target with a sweeping blow, and all characters around it. Deals 115% damage. Set Crippled for 1 turn(s). Damage is based on your basic attack and receives a bonus from [Weapon Attribute].",
-        "cost": "1",
-        "cool": "3",
-        "req": "Warfare 1, a Melee weapon"
-    },
-    {
-        "id": "7",
-        "name": "Deflective Barrier",
-        "desc": "Projectiles that hit you are reflected back at the caster. This does not prevent the original projectile effects. Provides [X] Physical Armour. Set Deflecting for 3 turn(s).",
-        "cost": "1",
-        "cool": "5",
-        "req": "Warfare 2, a Shield"
-    },
-    {
-        "id": "8",
-        "name": "Enrage",
-        "desc": "Motivate an allied character with the power of rage. Target allied character is garaunteed to land critical hits with basic attacks and weapon skills, but is muted. Clears Taunted, Terrified, Charmed, Mad and Clear-Minded statuses. Set Enraged for 1 turn(s).",
-        "cost": "1",
-        "cool": "5",
-        "req": "Warfare 2"
-    },
-    {
-        "id": "9",
-        "name": "Guardian Angel",
-        "desc": "Allies in melee range redirect 50% of received damage to you. Set Guardian Angel Aura for 2 turn(s).",
-        "cost": "1",
-        "cool": "6",
-        "req": "Warfare 3"
-    },
-    {
-        "id": "10",
-        "name": "Onslaught",
-        "desc": "Attack five times with astonishing speed, each hit dealing 50% weapon damage.",
-        "cost": "2",
-        "cool": "6",
-        "req": "Warfare 3"
-    },
-    {
-        "id": "11",
-        "name": "Overpower",
-        "desc": "Deals 150% weapon damage. If your Physical Armour is higher than your opponent's, destroy all their Physical Armour. Set Knocked Down for 1 turn(s).",
-        "cost": "3",
-        "cool": "3",
-        "req": "Warfare 5"
-    },
-    {
-        "id": "12",
-        "name": "Phoenix Dive",
-        "desc": "Leap through the air to a target position, creating a fire surface upon landing.",
-        "cost": "1",
-        "cool": "4",
-        "req": "Warfare 2"
-    },
-    {
-        "id": "13",
-        "name": "Provoke",
-        "desc": "Taunt the enemies around you. Provoke and tease them so that they want to attack you. Set Taunted for 1 turn(s).",
-        "cost": "1",
-        "cool": "5",
-        "req": "Warfare 2"
-    },
-    {
-        "id": "14",
-        "name": "Thick of the Fight",
-        "desc": "The more the merrier! Gain a damage boost for every nearby character. Set Thick of the Fight for 2 turn(s).",
-        "cost": "2",
-        "cool": "4",
-        "req": "Warfare 3"
-    },
-    {
-        "id": "15",
-        "name": "Whirlwind",
-        "desc": "Perform a whirlwind attack, hitting enemies around you for 100% weapon damage.",
-        "cost": "1",
-        "cool": "3",
-        "req": "Warfare 2, a Shield"
     }
+]
+
+
+
+
+[
+    {
+        "id": "1",
+        "name": "Adrenaline",
+        "desc": "Gain 2 Action Points immediately, but lose 2 Action Points next turn. Any Action Points over your maximum are lost. Does not break Invisibility or Sneaking.",
+        "cost": "1",
+        "cool": "4",
+        "req": "Scoundrel 1"
+    },
+    {
+        "id": "2",
+        "name": "Backlash",
+        "desc": "Jump over the enemy, landing behind their back and backstabbing them for [X] physical damage. 100% chance to Backstab.",
+        "cost": "1",
+        "cool": "3",
+        "req": "Scoundrel 1, a Dagger"
+    },
+    {
+        "id": "3",
+        "name": "Chloroform",
+        "desc": "Throw a knife at your opponent, dealing [X] physical damage. Can backstab.",
+        "cost": "1",
+        "cool": "1",
+        "req": "Scoundrel 1"
+    },
+    {
+        "id": "4",
+        "name": "Cloak and Dagger",
+        "desc": "Teleport without breaking sneaking. Does not break Invisibility or Sneaking.",
+        "cost": "1",
+        "cool": "4",
+        "req": "Scoundrel 2"
+    },
+    {
+        "id": "5",
+        "name": "Corrupted Blade",
+        "desc": "Dagger attack that deals [X] physical damage and sets Decay and Diseased. Set Decaying for 2 turn(s). Set Diseased for 2 turn(s).",
+        "cost": "1",
+        "cool": "4",
+        "req": "Scoundrel 2, a Dagger"
+    },
+    {
+        "id": "6",
+        "name": "Daggers Drawn",
+        "desc": "Whirl into a barrage of 5 stabs, each dealing [X] physical damage.",
+        "cost": "2",
+        "cool": "6",
+        "req": "Scoundrel 3, a Dagger"
+    },
+    {
+        "id": "7",
+        "name": "Fan of Knives",
+        "desc": "Fling a dagger at every enemy around you, dealing [X] physical damage. Can backstab.",
+        "cost": "2",
+        "cool": "2",
+        "req": "Scoundrel 3, a Dagger"
+    },
+    {
+        "id": "8",
+        "name": "Gag Order",
+        "desc": "Destroy [X] Magic Armour on target character. Silence target for 1 turn.",
+        "cost": "1",
+        "cool": "4",
+        "req": "Scoundrel 2, a Dagger"
+    },
+    {
+        "id": "9",
+        "name": "Mortal Blow",
+        "desc": "Deal [140% weapon] physical damage. Damage is doubled if you are sneaking or invisible. Target is killed instantly if below 20% Viality.",
+        "cost": "3",
+        "cool": "N/A",
+        "req": "Scoundrel 5, a Dagger"
+    },
+    {
+        "id": "10",
+        "name": "Rupture Tendons",
+        "desc": "Deal [X] physical damage to target character. When they try to move, they will take piercing damage. Set Ruptured Tendons for 2 turn(s).",
+        "cost": "1",
+        "cool": "5",
+        "req": "Scoundrel 2, a Dagger"
+    },
+    {
+        "id": "11",
+        "name": "Sawtooth Knife",
+        "desc": "Pierce the enemy's Physical Armour and directly deals [X] piercing damage. Sets Bleeding if enemy has no Physical Armour for 3 turn(s).",
+        "cost": "1",
+        "cool": "3",
+        "req": "Scoundrel 2, a Dagger"
+    },
+    {
+        "id": "12",
+        "name": "Sleeping Arms",
+        "desc": "Deal [X] physical damage and set Atrophy: your target can't use weapons or weapon skills anymore. Set Atrophy for 2 turn(s).",
+        "cost": "1",
+        "cool": "3",
+        "req": "Scoundrel 2, a Dagger"
+    },
+    {
+        "id": "13",
+        "name": "Terrifying Cruelty",
+        "desc": "Dagger attack that deals [X] physical damage and sets Bleeding and Fear on target character. Set Bleeding for 3 turn(s)and set Terrified for 1 turn(s).",
+        "cost": "1",
+        "cool": "6",
+        "req": "Scoundrel 3, a Dagger"
+    },
+    {
+        "id": "14",
+        "name": "Throwing Knife",
+        "desc": "Throw a knife at your opponent, dealing [X] physical damage. Can backstab.",
+        "cost": "1",
+        "cool": "1",
+        "req": "Scoundrel 1, a Dagger"
+    },
+    {
+        "id": "15",
+        "name": "Wind-Up Toy",
+        "desc": "Summon a mechanical bomber at the target point. The bomber can explode, dealing fire damage and producing a fire surface. Does not break Invisibility or Sneaking. The stats of the summons will depend on caster level and Summoning ability.",
+        "cost": "1",
+        "cool": "6",
+        "req": "Scoundrel 3"
+    }
+]
+
+
+
+  {
+      "category": {
+          "school": "Sourcery"
+      },
+
+          {
+              "id": "1",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "2",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "3",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "4",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "5",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "6",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "7",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "8",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "9",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "10",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "11",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "12",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "13",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "14",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "15",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "16",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+      },
+
+ 
+
+      {
+          "category": {
+              "school": "Special"
+          },
+    
+              {
+                  "id": "1",
+                  "name": "",
+                  "desc": "",
+                  "cost": "#",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "2",
+                  "name": "",
+                  "desc": "",
+                  "cost": "#",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "3",
+                  "name": "",
+                  "desc": "",
+                  "cost": "#",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "4",
+                  "name": "",
+                  "desc": "",
+                  "cost": "#",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "5",
+                  "name": "",
+                  "desc": "",
+                  "cost": "#",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "6",
+                  "name": "",
+                  "desc": "",
+                  "cost": "#",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "7",
+                  "name": "",
+                  "desc": "",
+                  "cost": "#",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "8",
+                  "name": "",
+                  "desc": "",
+                  "cost": "#",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "9",
+                  "name": "",
+                  "desc": "",
+                  "cost": "#",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "10",
+                  "name": "",
+                  "desc": "",
+                  "cost": "#",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "11",
+                  "name": "",
+                  "desc": "",
+                  "cost": "#",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "12",
+                  "name": "",
+                  "desc": "",
+                  "cost": "#",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "13",
+                  "name": "",
+                  "desc": "",
+                  "cost": "#",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "14",
+                  "name": "",
+                  "desc": "",
+                  "cost": "#",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "15",
+                  "name": "",
+                  "desc": "",
+                  "cost": "#",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "16",
+                  "name": "",
+                  "desc": "",
+                  "cost": "#",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "17",
+                  "name": "",
+                  "desc": "",
+                  "cost": "#",
+                  "cool": "",
+                  "req": ""
+              },
+              {
+                  "id": "18",
+                  "name": "",
+                  "desc": "",
+                  "cost": "#",
+                  "cool": "",
+                  "req": ""
+              },
+          }
+
+  {
+      "category": {
+          "school": "Summoning"
+      },
+
+          {
+              "id": "1",
+              "name": "Acid Infusion",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "2",
+              "name": "Cannibalise",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "3",
+              "name": "Conjure Incarnate",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "4",
+              "name": "Cursed Electric Infusion",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "5",
+              "name": "Dimensional Bolt",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "6",
+              "name": "Dominate Mind",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "7",
+              "name": "Door to Eternity",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "8",
+              "name": "Electric Infusion",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "9",
+              "name": "Elemental Totem",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "10",
+              "name": "Ethereal Storm",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "11",
+              "name": "Farsight Infusion",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "12",
+              "name": "Fire Infusion",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "13",
+              "name": "Ice Infusion",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "14",
+              "name": "Necrofire Infusion",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "15",
+              "name": "Planar Gateway",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "16",
+              "name": "Poison Infusion",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "17",
+              "name": "Power Infusion",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "18",
+              "name": "Rallying Cry",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "19",
+              "name": "Shadow Infusion",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "10",
+              "name": "Soul Mate",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "21",
+              "name": "Summon Cat Familiar",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "22",
+              "name": "Summon Condor",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "23",
+              "name": "Summon Dragonling",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "24",
+              "name": "Summon Inner Demon",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "25",
+              "name": "Supercharger",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "26",
+              "name": "Warp Infusion",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "27",
+              "name": "Water Infusion",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "28",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "29",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+      },
+
+
+
+  {
+      "category": {
+          "school": "Warfare"
+      },
+
+          {
+              "id": "1",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "2",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "3",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "4",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "5",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "6",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "7",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "8",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "9",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "10",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "11",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "12",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "13",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "14",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "15",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+      }
+
+
+  }
+
 ]

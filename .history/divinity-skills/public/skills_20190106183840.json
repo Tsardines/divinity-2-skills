@@ -191,12 +191,12 @@
         "cost": "1",
         "cool": "4",
         "req": "Aerotheurge 1, Polymorph 1" 
-    },
+    }
+]
 
 
 
-
-
+[
     {
         "id": "1",
         "name": "Acid Spores",
@@ -388,11 +388,14 @@
         "cost": "1",
         "cool": "5",
         "req": "Geomancer 2"
-    },
+    }
+]
 
 
 
 
+
+[
     {
         "id": "1",
         "name": "Arrow Spray",
@@ -527,13 +530,13 @@
         "cost": "1",
         "cool": "4",
         "req": "Huntsman 2"
-    },
+    }
+]
 
 
 
 
-
-
+[
     {
         "id": "1",
         "name": "Arcane Stitch",
@@ -709,14 +712,13 @@
         "cost": "1",
         "cool": "3",
         "req": "Hydrosophist 2"
-    },
-
-
-
-
-
+    }
+    
+]
     
 
+                        
+[
     {
         "id": "1",
         "name": "Black Shroud",
@@ -852,14 +854,12 @@
         "cost": "3",
         "cool": "5",
         "req": "Necromancer 5"
-    },
+    }
+]
 
 
 
-
-
-
-
+[
     {
         "id": "1",
         "name": "Apotheosis",
@@ -1011,14 +1011,12 @@
         "cost": "1",
         "cool": "2",
         "req": "Poly 2"
-    },  
+    }  
+]  
 
 
 
-
-
-
-    
+[
     {
         "id": "1",
         "name": "Bleed Fire",
@@ -1210,14 +1208,13 @@
         "cost": "1",
         "cool": "3",
         "req": "Pyrokinetic 1, Huntsman 1"
-    },
+    }
+]
 
 
 
 
-
-
-
+[
     {
         "id": "1",
         "name": "Battering Ram",
@@ -1337,16 +1334,12 @@
         "cost": "1",
         "cool": "3",
         "req": "Warfare 2, a Shield"
-    },
+    }
+]
 
 
 
-
-
-
-
-
-
+[
     {
         "id": "1",
         "name": "Acid Infusion",
@@ -1562,132 +1555,139 @@
         "cost": "1",
         "cool": "3",
         "req": "Summoning 1, Hydrosophist 1"
-    },
-
-
-
-
-    
-
-
-    {
-        "id": "1",
-        "name": "Battering Ram",
-        "desc": "Rush forward in a straight line, to a designated point, hitting all enemies in your path for 50% damage and setting Knockdown. Set Knocked Down for 1 turn(s). Damage is based on your basic attack and receives a bonus from [Weapon Attribute].",
-        "cost": "1",
-        "cool": "5",
-        "req": "Warfare 1"
-    },
-    {
-        "id": "2",
-        "name": "Battle Stomp",
-        "desc": "Smash your weapon into the ground, knocking down non-allied characters in front of you, and hitting them for 60% damage. Also clears non-cursed surfaces and clouds. Set Knocked Down for 1 turn(s). Damage is based on your basic attack and receives a bonus from Strength.",
-        "cost": "1",
-        "cool": "4",
-        "req": "Warfare 1"
-    },
-    {
-        "id": "3",
-        "name": "Blitz Attack",
-        "desc": "Jump from one target to another, hitting up to 2 targets, dealing 70% damage to each. Targets are chosen randomly in a 10m radius. Damage is based on your basic attack and receives a bonus from Strength.",
-        "cost": "1",
-        "cool": "3",
-        "req": "Warfare 2"
-    },
-    {
-        "id": "4",
-        "name": "Bouncing Shield",
-        "desc": "Throw your shield at an enemy dealing [X] Physical Damage. Shield can bounce to another enemy in 5m range. Damage is based on the Physical Armour of your shield.",
-        "cost": "1",
-        "cool": "2",
-        "req": "Warfare 1, a Shield"
-    },
-    {
-        "id": "5",
-        "name": "Challenge",
-        "desc": "Mark target enemy. If they die in the next 2 turns, you are healed and receive damage and armour bonuses. If target survives, their Vitality is healed to full and caster receives damage.",
-        "cost": "1",
-        "cool": "5",
-        "req": "Warfare 3"
-    },
-    {
-        "id": "6",
-        "name": "Crippling Blow",
-        "desc": "Cripple the target with a sweeping blow, and all characters around it. Deals 115% damage. Set Crippled for 1 turn(s). Damage is based on your basic attack and receives a bonus from [Weapon Attribute].",
-        "cost": "1",
-        "cool": "3",
-        "req": "Warfare 1, a Melee weapon"
-    },
-    {
-        "id": "7",
-        "name": "Deflective Barrier",
-        "desc": "Projectiles that hit you are reflected back at the caster. This does not prevent the original projectile effects. Provides [X] Physical Armour. Set Deflecting for 3 turn(s).",
-        "cost": "1",
-        "cool": "5",
-        "req": "Warfare 2, a Shield"
-    },
-    {
-        "id": "8",
-        "name": "Enrage",
-        "desc": "Motivate an allied character with the power of rage. Target allied character is garaunteed to land critical hits with basic attacks and weapon skills, but is muted. Clears Taunted, Terrified, Charmed, Mad and Clear-Minded statuses. Set Enraged for 1 turn(s).",
-        "cost": "1",
-        "cool": "5",
-        "req": "Warfare 2"
-    },
-    {
-        "id": "9",
-        "name": "Guardian Angel",
-        "desc": "Allies in melee range redirect 50% of received damage to you. Set Guardian Angel Aura for 2 turn(s).",
-        "cost": "1",
-        "cool": "6",
-        "req": "Warfare 3"
-    },
-    {
-        "id": "10",
-        "name": "Onslaught",
-        "desc": "Attack five times with astonishing speed, each hit dealing 50% weapon damage.",
-        "cost": "2",
-        "cool": "6",
-        "req": "Warfare 3"
-    },
-    {
-        "id": "11",
-        "name": "Overpower",
-        "desc": "Deals 150% weapon damage. If your Physical Armour is higher than your opponent's, destroy all their Physical Armour. Set Knocked Down for 1 turn(s).",
-        "cost": "3",
-        "cool": "3",
-        "req": "Warfare 5"
-    },
-    {
-        "id": "12",
-        "name": "Phoenix Dive",
-        "desc": "Leap through the air to a target position, creating a fire surface upon landing.",
-        "cost": "1",
-        "cool": "4",
-        "req": "Warfare 2"
-    },
-    {
-        "id": "13",
-        "name": "Provoke",
-        "desc": "Taunt the enemies around you. Provoke and tease them so that they want to attack you. Set Taunted for 1 turn(s).",
-        "cost": "1",
-        "cool": "5",
-        "req": "Warfare 2"
-    },
-    {
-        "id": "14",
-        "name": "Thick of the Fight",
-        "desc": "The more the merrier! Gain a damage boost for every nearby character. Set Thick of the Fight for 2 turn(s).",
-        "cost": "2",
-        "cool": "4",
-        "req": "Warfare 3"
-    },
-    {
-        "id": "15",
-        "name": "Whirlwind",
-        "desc": "Perform a whirlwind attack, hitting enemies around you for 100% weapon damage.",
-        "cost": "1",
-        "cool": "3",
-        "req": "Warfare 2, a Shield"
     }
+]
+
+
+
+  {
+      "category": {
+          "school": "Warfare"
+      },
+
+          {
+              "id": "1",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "2",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "3",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "4",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "5",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "6",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "7",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "8",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "9",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "10",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "11",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "12",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "13",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "14",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "15",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+      }
+
+
+  }
+
 ]

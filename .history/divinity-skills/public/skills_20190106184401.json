@@ -194,9 +194,6 @@
     },
 
 
-
-
-
     {
         "id": "1",
         "name": "Acid Spores",
@@ -388,11 +385,14 @@
         "cost": "1",
         "cool": "5",
         "req": "Geomancer 2"
-    },
+    }
+],
 
 
 
 
+
+[
     {
         "id": "1",
         "name": "Arrow Spray",
@@ -528,10 +528,6 @@
         "cool": "4",
         "req": "Huntsman 2"
     },
-
-
-
-
 
 
     {
@@ -709,12 +705,7 @@
         "cost": "1",
         "cool": "3",
         "req": "Hydrosophist 2"
-    },
-
-
-
-
-
+    }
     
 
     {
@@ -852,12 +843,7 @@
         "cost": "3",
         "cool": "5",
         "req": "Necromancer 5"
-    },
-
-
-
-
-
+    }
 
 
     {
@@ -1012,11 +998,6 @@
         "cool": "2",
         "req": "Poly 2"
     },  
-
-
-
-
-
 
     
     {
@@ -1213,11 +1194,6 @@
     },
 
 
-
-
-
-
-
     {
         "id": "1",
         "name": "Battering Ram",
@@ -1338,13 +1314,6 @@
         "cool": "3",
         "req": "Warfare 2, a Shield"
     },
-
-
-
-
-
-
-
 
 
     {
@@ -1565,11 +1534,6 @@
     },
 
 
-
-
-    
-
-
     {
         "id": "1",
         "name": "Battering Ram",
@@ -1689,5 +1653,5 @@
         "cost": "1",
         "cool": "3",
         "req": "Warfare 2, a Shield"
-    }
+    },
 ]

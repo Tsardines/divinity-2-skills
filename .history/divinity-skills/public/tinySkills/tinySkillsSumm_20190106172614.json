@@ -1,0 +1,234 @@
+[
+    {
+        "id": "1",
+        "name": "Acid Infusion",
+        "desc": "",
+        "cost": "#",
+        "cool": "",
+        "req": "Summ "
+    },
+    {
+        "id": "2",
+        "name": "Cannibalise",
+        "desc": "Destroy an allied summon or totem. Receive their Vitality, Physical Armour and Magic Armour.",
+        "cost": "1",
+        "cool": "2",
+        "req": "Summ 3"
+    },
+    {
+        "id": "3",
+        "name": "Conjure Incarnate",
+        "desc": "Conjure a personal elemental that matches the ground surface it's summoned onto. Your incarnate can be buffed with Infusions. Once you hit Summoning ability level of 10, a colossal Incarnate Champion will answer your summons! The stats of the summons will depend on caster level and Summoning ability. Duration 10 turn(s).",
+        "cost": "1",
+        "cool": "5",
+        "req": "Summ 1"
+    },
+    {
+        "id": "4",
+        "name": "Cursed Electric Infusion",
+        "desc": "",
+        "cost": "#",
+        "cool": "",
+        "req": "Summ "
+    },
+    {
+        "id": "5",
+        "name": "Dimensional Bolt",
+        "desc": "Shoot a volatile bolt that deals [X] of a random type, and then creates a corresponding surface.",
+        "cost": "1",
+        "cool": "1",
+        "req": "Summ 1"
+    },
+    {
+        "id": "6",
+        "name": "Dominate Mind",
+        "desc": "",
+        "cost": "#",
+        "cool": "",
+        "req": "Summ "
+    },
+    {
+        "id": "7",
+        "name": "Door to Eternity",
+        "desc": "",
+        "cost": "#",
+        "cool": "",
+        "req": "Summ "
+    },
+    {
+        "id": "8",
+        "name": "Electric Infusion",
+        "desc": "Change Incarnate's element to electricity, unlocking Electric Discharge.",
+        "cost": "1",
+        "cool": "3",
+        "req": "Summ 1, Aerotheurge 1"
+    },
+    {
+        "id": "9",
+        "name": "Elemental Totem",
+        "desc": "Target a ground surface and conjure a totem of the corresponding element. Each turn, this totem will fire a projectile at enemies in sight. The stats of the summons will depend on caster level and Summoning ability. Duration 3 turn(s).",
+        "cost": "1",
+        "cool": "1",
+        "req": "Summ 1"
+    },
+    {
+        "id": "10",
+        "name": "Ethereal Storm",
+        "desc": "",
+        "cost": "#",
+        "cool": "",
+        "req": "Summ "
+    },
+    {
+        "id": "11",
+        "name": "Farsight Infusion",
+        "desc": "Unlock a ranged attack for your Incarnate. Provides [X] Magic Armour (amount depends on your level).",
+        "cost": "1",
+        "cool": "3",
+        "req": "Summ 1"
+    },
+    {
+        "id": "12",
+        "name": "Fire Infusion",
+        "desc": "Change Incarnate's element to fire, unlocking Fireball.",
+        "cost": "1",
+        "cool": "3",
+        "req": "Summ 1, Pyrokinetic 2"
+    },
+    {
+        "id": "13",
+        "name": "Ice Infusion",
+        "desc": "",
+        "cost": "#",
+        "cool": "",
+        "req": "Summ "
+    },
+    {
+        "id": "14",
+        "name": "Necrofire Infusion",
+        "desc": "",
+        "cost": "#",
+        "cool": "",
+        "req": "Summ "
+    },
+    {
+        "id": "15",
+        "name": "Planar Gateway",
+        "desc": "",
+        "cost": "#",
+        "cool": "",
+        "req": "Summ "
+    },
+    {
+        "id": "16",
+        "name": "Poison Infusion",
+        "desc": "Change Incarnate's element to poison, unlocking Poison Dart.",
+        "cost": "1",
+        "cool": "3",
+        "req": "Summ 1, Geomancer 1"
+    },
+    {
+        "id": "17",
+        "name": "Power Infusion",
+        "desc": "",
+        "cost": "#",
+        "cool": "",
+        "req": "Summ "
+    },
+    {
+        "id": "18",
+        "name": "Rallying Cry",
+        "desc": "",
+        "cost": "#",
+        "cool": "",
+        "req": "Summ "
+    },
+    {
+        "id": "19",
+        "name": "Shadow Infusion",
+        "desc": "",
+        "cost": "#",
+        "cool": "",
+        "req": "Summ "
+    },
+    {
+        "id": "10",
+        "name": "Soul Mate",
+        "desc": "",
+        "cost": "#",
+        "cool": "",
+        "req": "Summ "
+    },
+    {
+        "id": "21",
+        "name": "Summon Cat Familiar",
+        "desc": "",
+        "cost": "#",
+        "cool": "",
+        "req": "Summ "
+    },
+    {
+        "id": "22",
+        "name": "Summon Condor",
+        "desc": "",
+        "cost": "#",
+        "cool": "",
+        "req": "Summ "
+    },
+    {
+        "id": "23",
+        "name": "Summon Dragonling",
+        "desc": "",
+        "cost": "#",
+        "cool": "",
+        "req": "Summ "
+    },
+    {
+        "id": "24",
+        "name": "Summon Inner Demon",
+        "desc": "",
+        "cost": "#",
+        "cool": "",
+        "req": "Summ "
+    },
+    {
+        "id": "25",
+        "name": "Supercharger",
+        "desc": "",
+        "cost": "#",
+        "cool": "",
+        "req": "Summ "
+    },
+    {
+        "id": "26",
+        "name": "Warp Infusion",
+        "desc": "",
+        "cost": "#",
+        "cool": "",
+        "req": "Summ "
+    },
+    {
+        "id": "27",
+        "name": "Water Infusion",
+        "desc": "",
+        "cost": "#",
+        "cool": "",
+        "req": "Summ "
+    },
+    {
+        "id": "28",
+        "name": "",
+        "desc": "",
+        "cost": "#",
+        "cool": "",
+        "req": "Summ "
+    },
+    {
+        "id": "29",
+        "name": "",
+        "desc": "",
+        "cost": "#",
+        "cool": "",
+        "req": "Summ "
+    }
+]

@@ -191,10 +191,7 @@
         "cost": "1",
         "cool": "4",
         "req": "Aerotheurge 1, Polymorph 1" 
-    },
-
-
-
+    }
 
 
     {
@@ -388,11 +385,14 @@
         "cost": "1",
         "cool": "5",
         "req": "Geomancer 2"
-    },
+    }
+],
 
 
 
 
+
+[
     {
         "id": "1",
         "name": "Arrow Spray",
@@ -527,11 +527,7 @@
         "cost": "1",
         "cool": "4",
         "req": "Huntsman 2"
-    },
-
-
-
-
+    }
 
 
     {
@@ -709,12 +705,7 @@
         "cost": "1",
         "cool": "3",
         "req": "Hydrosophist 2"
-    },
-
-
-
-
-
+    }
     
 
     {
@@ -852,12 +843,7 @@
         "cost": "3",
         "cool": "5",
         "req": "Necromancer 5"
-    },
-
-
-
-
-
+    }
 
 
     {
@@ -1011,12 +997,7 @@
         "cost": "1",
         "cool": "2",
         "req": "Poly 2"
-    },  
-
-
-
-
-
+    }  
 
     
     {
@@ -1210,12 +1191,7 @@
         "cost": "1",
         "cool": "3",
         "req": "Pyrokinetic 1, Huntsman 1"
-    },
-
-
-
-
-
+    }
 
 
     {
@@ -1337,14 +1313,7 @@
         "cost": "1",
         "cool": "3",
         "req": "Warfare 2, a Shield"
-    },
-
-
-
-
-
-
-
+    }
 
 
     {
@@ -1562,12 +1531,7 @@
         "cost": "1",
         "cool": "3",
         "req": "Summoning 1, Hydrosophist 1"
-    },
-
-
-
-
-    
+    }
 
 
     {
