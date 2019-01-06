@@ -1025,7 +1025,7 @@
         "desc": "Enemies will bleed fire when hit. Also creates a small fire area beneath each target and ignites surfaces in the area. Active for 3 turn(s).",
         "cost": "1",
         "cool": "3",
-        "req": "Pyrokinetic 1, Polymorph 1"
+        "req": "Pyrokinetic 1, Polymorphmorph 1"
     },
     {
         "id": "2",
@@ -1567,7 +1567,7 @@
 
 
 
-    
+
 
 
     {
