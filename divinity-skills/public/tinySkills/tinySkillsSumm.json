@@ -2,10 +2,10 @@
     {
         "id": "1",
         "name": "Acid Infusion",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "Summ "
+        "desc": "Change Incarnate's element to acid, unlocking Poison Dart and Corrosive Spray.",
+        "cost": "2",
+        "cool": "3",
+        "req": "Summoning 2, Geomancer 2"
     },
     {
         "id": "2",
@@ -13,7 +13,7 @@
         "desc": "Destroy an allied summon or totem. Receive their Vitality, Physical Armour and Magic Armour.",
         "cost": "1",
         "cool": "2",
-        "req": "Summ 3"
+        "req": "Summoning 3"
     },
     {
         "id": "3",
@@ -21,15 +21,15 @@
         "desc": "Conjure a personal elemental that matches the ground surface it's summoned onto. Your incarnate can be buffed with Infusions. Once you hit Summoning ability level of 10, a colossal Incarnate Champion will answer your summons! The stats of the summons will depend on caster level and Summoning ability. Duration 10 turn(s).",
         "cost": "1",
         "cool": "5",
-        "req": "Summ 1"
+        "req": "Summoning 1"
     },
     {
         "id": "4",
         "name": "Cursed Electric Infusion",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "Summ "
+        "desc": "Change Incarnate's element to cursed electricity, unlocking Electric Discharge and Closed Circuit.",
+        "cost": "2",
+        "cool": "3",
+        "req": "Summoning 2, Aerotheurge 2"
     },
     {
         "id": "5",
@@ -37,23 +37,23 @@
         "desc": "Shoot a volatile bolt that deals [X] of a random type, and then creates a corresponding surface.",
         "cost": "1",
         "cool": "1",
-        "req": "Summ 1"
+        "req": "Summoning 1"
     },
     {
         "id": "6",
         "name": "Dominate Mind",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "Summ "
+        "desc": "Charm target non-allied character, causing them to join your side in combat for the duration of the status.",
+        "cost": "1",
+        "cool": "5",
+        "req": "Summoning 2"
     },
     {
         "id": "7",
         "name": "Door to Eternity",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "Summ "
+        "desc": "Give all summons around you a status that prevents them from dying to damage or disappearing when their life runs out. Sets Persisting for 2 turn(s).",
+        "cost": "2",
+        "cool": "3",
+        "req": "Summoning 3"
     },
     {
         "id": "8",
@@ -61,7 +61,7 @@
         "desc": "Change Incarnate's element to electricity, unlocking Electric Discharge.",
         "cost": "1",
         "cool": "3",
-        "req": "Summ 1, Aerotheurge 1"
+        "req": "Summoning 1, Aerotheurge 1"
     },
     {
         "id": "9",
@@ -69,15 +69,15 @@
         "desc": "Target a ground surface and conjure a totem of the corresponding element. Each turn, this totem will fire a projectile at enemies in sight. The stats of the summons will depend on caster level and Summoning ability. Duration 3 turn(s).",
         "cost": "1",
         "cool": "1",
-        "req": "Summ 1"
+        "req": "Summoning 1"
     },
     {
         "id": "10",
         "name": "Ethereal Storm",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "Summ "
+        "desc": "Unpredictable projectiles from distant planes strike target area, dealing random elemental damage to enemies or healing allies. Active for 2 turn(s).",
+        "cost": "3",
+        "cool": "5",
+        "req": "Summoning 5"
     },
     {
         "id": "11",
@@ -85,7 +85,7 @@
         "desc": "Unlock a ranged attack for your Incarnate. Provides [X] Magic Armour (amount depends on your level).",
         "cost": "1",
         "cool": "3",
-        "req": "Summ 1"
+        "req": "Summoning 1"
     },
     {
         "id": "12",
@@ -93,31 +93,31 @@
         "desc": "Change Incarnate's element to fire, unlocking Fireball.",
         "cost": "1",
         "cool": "3",
-        "req": "Summ 1, Pyrokinetic 2"
+        "req": "Summoning 1, Pyrokinetic 2"
     },
     {
         "id": "13",
         "name": "Ice Infusion",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "Summ "
+        "desc": "Change Incarnate's element to blessed ice, unlocking Restoration and Healing Ritual.",
+        "cost": "2",
+        "cool": "3",
+        "req": "Summoning 1, Hydrosophist 2"
     },
     {
         "id": "14",
         "name": "Necrofire Infusion",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "Summ "
+        "desc": "Change Incarnate's element to necrofire, unlocking Fireball and Epidemic of Fire.",
+        "cost": "2",
+        "cool": "3",
+        "req": "Summoning 2, Pyrokinetic 2"
     },
     {
         "id": "15",
         "name": "Planar Gateway",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "Summ "
+        "desc": "Conjure two linked gateways that allow any character to instantly travel between them. Active for 10 turn(s).",
+        "cost": "2",
+        "cool": "6",
+        "req": "Summoning 3"
     },
     {
         "id": "16",
@@ -125,110 +125,94 @@
         "desc": "Change Incarnate's element to poison, unlocking Poison Dart.",
         "cost": "1",
         "cool": "3",
-        "req": "Summ 1, Geomancer 1"
+        "req": "Summoning 1, Geomancer 1"
     },
     {
         "id": "17",
         "name": "Power Infusion",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "Summ "
+        "desc": "Unlock Whirlwind  and Rush for your Incarnate. Provides [X] Physical Armour (amount depends on your level).",
+        "cost": "1",
+        "cool": "3",
+        "req": "Summoning 2"
     },
     {
         "id": "18",
         "name": "Rallying Cry",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "Summ "
+        "desc": "Target character regenerates [X] Vitality and [X] Magic Armour according to the number of allied characters and totems in their vicinity.",
+        "cost": "1",
+        "cool": "3",
+        "req": "Summoning 2"
     },
     {
         "id": "19",
         "name": "Shadow Infusion",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "Summ "
+        "desc": "Incarnate learns how to go invisible and strike foes with a corrosive slash. Unlocks skills equal in effect to Chameleon Cloak and Corrupted Blade.",
+        "cost": "1",
+        "cool": "3",
+        "req": "Summoning 2"
     },
     {
         "id": "10",
         "name": "Soul Mate",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "Summ "
+        "desc": "Bind yourself to target character, copying any healing and Armour restoration that you receive to them. Clears Frozen, Stunned, Knocked Down and Petrified. Sets Soul Mate for e turn(s).",
+        "cost": "1",
+        "cool": "5",
+        "req": "Summoning 2"
     },
     {
         "id": "21",
         "name": "Summon Cat Familiar",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "Summ "
+        "desc": "Summons a black cat by your side. Cat can leap, claw, and swap places with it's summoner.",
+        "cost": "1",
+        "cool": "5",
+        "req": "N/A"oning
     },
     {
         "id": "22",
         "name": "Summon Condor",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "Summ "
+        "desc": "Summons a condor that will aid you in combat. The stats of the summons will depend on caster level and Summoning ability.",
+        "cost": "1",
+        "cool": "6",
+        "req": "N/A"oning
     },
     {
         "id": "23",
         "name": "Summon Dragonling",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "Summ "
+        "desc": "Summons a newt to help you in combat. The stats of the summons will depend on caster level and Summoning ability.",
+        "cost": "2",
+        "cool": "6",
+        "req": "N/A"oning
     },
     {
         "id": "24",
         "name": "Summon Inner Demon",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "Summ "
+        "desc": "Conjure a demon that will share their Intelligence with you and provide [X] Magic Armour. Grants you power to terrify and protect yourself with demonic fists. Active for 3 turn(s).",
+        "cost": "2",
+        "cool": "6",
+        "req": "N/A"oning
     },
     {
         "id": "25",
         "name": "Supercharger",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "Summ "
+        "desc": "Target totem or summon deals 100% more base damage during its next turn, but then it dies. Sets Supercharged for 2 turn(s).",
+        "cost": "1",
+        "cool": "3",
+        "req": "Summoning 2"
     },
     {
         "id": "26",
         "name": "Warp Infusion",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "Summ "
+        "desc": "Incarnate learns a teleport skill and a skill to swap places with its master. These skills are equivalent in effect to Tactical Retreat and the Black Cat summon's swap skill.",
+        "cost": "1",
+        "cool": "3",
+        "req": "Summoning 3"
     },
     {
         "id": "27",
         "name": "Water Infusion",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "Summ "
-    },
-    {
-        "id": "28",
-        "name": "",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "Summ "
-    },
-    {
-        "id": "29",
-        "name": "",
-        "desc": "",
-        "cost": "#",
-        "cool": "",
-        "req": "Summ "
+        "desc": "Change Incarnate's element to water, unlocking Restoration.",
+        "cost": "1",
+        "cool": "3",
+        "req": "Summoning 1, Hydrosophist 1"
     }
 ]
