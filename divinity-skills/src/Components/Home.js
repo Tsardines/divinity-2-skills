@@ -1,15 +1,17 @@
 import React from 'react';
 
-import Aero from './Skills/Aero.js';
-import Geo from './Skills/Geo.js';
-import Hunts from './Skills/Hunts.js';
-import Hydro from './Skills/Hydro.js';
-import Necro from './Skills/Necro.js';
-import Poly from './Skills/Poly.js';
-import Pyro from './Skills/Pyro.js';
-import Scoun from './Skills/Scoun.js';
-import Summ from './Skills/Summ.js';
-import War from './Skills/War.js';
+import SearchBar from './SearchBar.js';
+
+// import Aero from './Skills/Aero.js';
+// import Geo from './Skills/Geo.js';
+// import Hunts from './Skills/Hunts.js';
+// import Hydro from './Skills/Hydro.js';
+// import Necro from './Skills/Necro.js';
+// import Poly from './Skills/Poly.js';
+// import Pyro from './Skills/Pyro.js';
+// import Scoun from './Skills/Scoun.js';
+// import Summ from './Skills/Summ.js';
+// import War from './Skills/War.js';
 
 import banner from './artwork/div-2-art.png';
 
@@ -29,13 +31,15 @@ const Home = () => {
 
           <hr />
 
-          <form className="home-form">
+          <SearchBar />
+
+          {/* <form className="home-form">
             Search skills: <input type="text" />
-          </form>
+          </form> */}
 
         </div>
 
-        <div className="home-skills">
+        {/* <div className="home-skills">
 
           <Aero />
           <Geo />
@@ -48,13 +52,11 @@ const Home = () => {
           <Summ />
           <War />
 
-        </div>
+        </div> */}
 
       </div>
-
       
   );
 }
 
 export default Home;
-

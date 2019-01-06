@@ -2,6 +2,10 @@
     background-color: rgb(163, 199, 223);
 }
 
+.intro h2 {
+    padding-top: 1em;
+}
+
 .home-h1 {
     font-size: 1.75vw;
     margin: 0 auto;

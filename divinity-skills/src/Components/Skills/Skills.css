@@ -54,9 +54,9 @@
 }
 
 .skill-wrap {
-    background-color: rgb(228, 228, 228);
+    background-color: rgb(236, 236, 236);
     border-radius: 0.3em;
-    box-shadow: 0.1em 0.1em 0.1em 0.1em gray;
+    /* box-shadow: 0.1em 0.1em 0.1em 0.1em gray; */
     font-size: 1vw;
     height: 50%;
     margin: 1.75em;
