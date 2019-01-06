@@ -1774,7 +1774,7 @@
           },
           {
               "id": "2",
-              "name": "Conjure Incarnate",
+              "name": "Cannibalise",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1782,7 +1782,7 @@
           },
           {
               "id": "3",
-              "name": "Cursed Electric Infusion",
+              "name": "Conjure Incarnate",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1790,7 +1790,7 @@
           },
           {
               "id": "4",
-              "name": "Dimensional Bolt",
+              "name": "Cursed Electric Infusion",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1798,7 +1798,7 @@
           },
           {
               "id": "5",
-              "name": "Dominate Mind",
+              "name": "Dimensional Bolt",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1806,7 +1806,7 @@
           },
           {
               "id": "6",
-              "name": "Door to Eternity",
+              "name": "Dominate Mind",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1814,7 +1814,7 @@
           },
           {
               "id": "7",
-              "name": "Electric Infusion",
+              "name": "Door to Eternity",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1822,7 +1822,7 @@
           },
           {
               "id": "8",
-              "name": "Elemental Totem",
+              "name": "Electric Infusion",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1830,7 +1830,7 @@
           },
           {
               "id": "9",
-              "name": "Ethereal Storm",
+              "name": "Elemental Totem",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1838,7 +1838,7 @@
           },
           {
               "id": "10",
-              "name": "Farsight Infusion",
+              "name": "Ethereal Storm",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1846,7 +1846,7 @@
           },
           {
               "id": "11",
-              "name": "Fire Infusion",
+              "name": "Farsight Infusion",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1854,7 +1854,7 @@
           },
           {
               "id": "12",
-              "name": "Ice Infusion",
+              "name": "Fire Infusion",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1862,7 +1862,7 @@
           },
           {
               "id": "13",
-              "name": "Necrofire Infusion",
+              "name": "Ice Infusion",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1870,7 +1870,7 @@
           },
           {
               "id": "14",
-              "name": "Planar Gateway",
+              "name": "Necrofire Infusion",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1878,7 +1878,7 @@
           },
           {
               "id": "15",
-              "name": "",
+              "name": "Planar Gateway",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1886,7 +1886,7 @@
           },
           {
               "id": "16",
-              "name": "",
+              "name": "Poison Infusion",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1894,7 +1894,7 @@
           },
           {
               "id": "17",
-              "name": "",
+              "name": "Power Infusion",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1902,7 +1902,7 @@
           },
           {
               "id": "18",
-              "name": "",
+              "name": "Rallying Cry",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1910,15 +1910,15 @@
           },
           {
               "id": "19",
-              "name": "",
+              "name": "Shadow Infusion",
               "desc": "",
               "cost": "#",
               "cool": "",
               "req": ""
           },
           {
-              "id": "20",
-              "name": "",
+              "id": "10",
+              "name": "Soul Mate",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1926,7 +1926,7 @@
           },
           {
               "id": "21",
-              "name": "",
+              "name": "Summon Cat Familiar",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1934,7 +1934,7 @@
           },
           {
               "id": "22",
-              "name": "",
+              "name": "Summon Condor",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1942,7 +1942,7 @@
           },
           {
               "id": "23",
-              "name": "",
+              "name": "Summon Dragonling",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1950,7 +1950,7 @@
           },
           {
               "id": "24",
-              "name": "",
+              "name": "Summon Inner Demon",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1958,7 +1958,7 @@
           },
           {
               "id": "25",
-              "name": "",
+              "name": "Supercharger",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1966,7 +1966,7 @@
           },
           {
               "id": "26",
-              "name": "",
+              "name": "Warp Infusion",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1974,7 +1974,7 @@
           },
           {
               "id": "27",
-              "name": "",
+              "name": "Water Infusion",
               "desc": "",
               "cost": "#",
               "cool": "",
@@ -1982,6 +1982,14 @@
           },
           {
               "id": "28",
+              "name": "",
+              "desc": "",
+              "cost": "#",
+              "cool": "",
+              "req": ""
+          },
+          {
+              "id": "29",
               "name": "",
               "desc": "",
               "cost": "#",
