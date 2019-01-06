@@ -37,7 +37,7 @@
 
 /* ------------------------------------ */
 
-.Aero, .Geo, .Hunts, .Hydro, .Necro, .Poly, .Pyro, .Scoun, .War {
+.Aero, .Geo, .Hunts, .Hydro, .Necro, .Poly, .Pyro, .Scoun, .Summ, .War {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -54,7 +54,7 @@
 }
 
 .skill-wrap {
-    background-color: rgb(236, 236, 236);
+    background-color: rgb(194, 194, 194);
     border-radius: 0.3em;
     /* box-shadow: 0.1em 0.1em 0.1em 0.1em gray; */
     font-size: 1vw;
@@ -129,6 +129,10 @@
 
 .Scoun p:hover {
     color: rgb(143, 60, 104);
+}
+
+.Summ p:hover {
+    color: rgb(136, 38, 175)
 }
 
 .War p:hover {
