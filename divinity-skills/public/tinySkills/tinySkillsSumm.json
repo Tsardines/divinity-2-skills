@@ -165,7 +165,7 @@
         "desc": "Summons a black cat by your side. Cat can leap, claw, and swap places with it's summoner.",
         "cost": "1",
         "cool": "5",
-        "req": "N/A"oning
+        "req": "N/A"
     },
     {
         "id": "22",
@@ -173,7 +173,7 @@
         "desc": "Summons a condor that will aid you in combat. The stats of the summons will depend on caster level and Summoning ability.",
         "cost": "1",
         "cool": "6",
-        "req": "N/A"oning
+        "req": "N/A"
     },
     {
         "id": "23",
@@ -181,7 +181,7 @@
         "desc": "Summons a newt to help you in combat. The stats of the summons will depend on caster level and Summoning ability.",
         "cost": "2",
         "cool": "6",
-        "req": "N/A"oning
+        "req": "N/A"
     },
     {
         "id": "24",
@@ -189,7 +189,7 @@
         "desc": "Conjure a demon that will share their Intelligence with you and provide [X] Magic Armour. Grants you power to terrify and protect yourself with demonic fists. Active for 3 turn(s).",
         "cost": "2",
         "cool": "6",
-        "req": "N/A"oning
+        "req": "N/A"
     },
     {
         "id": "25",
