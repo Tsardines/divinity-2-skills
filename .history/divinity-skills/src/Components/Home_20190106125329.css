@@ -9,12 +9,18 @@
     text-transform: uppercase;
 }
 
+.intro {
+    position: absolute;
+    margin-bottom: 10em;
+}
+
 .home-form {
     font-size: 1.5em;
     margin: 1em 0 1em 0;
 }
 
 .banner {
-    height: 100%;
+    height: 80vh;
+    position: relative;
     width: 100%;
 }

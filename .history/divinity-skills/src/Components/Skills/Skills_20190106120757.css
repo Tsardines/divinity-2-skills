@@ -54,7 +54,7 @@
 }
 
 .skill-wrap {
-    background-color: rgb(228, 228, 228);
+    background-color: white;
     border-radius: 0.3em;
     box-shadow: 0.1em 0.1em 0.1em 0.1em gray;
     font-size: 1vw;
@@ -137,7 +137,7 @@
 /* ------------------------------------ */
 
 
-/* .hydro-wrap .skill-title h1 {
+.hydro-wrap .skill-title h1 {
     color: rgb(141, 191, 219);
     text-shadow: 2px 2px black;
 } 
@@ -165,4 +165,4 @@
 .war-wrap .skill-title h1 {
     color: white;
     text-shadow: 2px 2px black;
-} */
+}

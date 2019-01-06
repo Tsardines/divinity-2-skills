@@ -11,16 +11,12 @@ import Scoun from './Skills/Scoun.js';
 import Summ from './Skills/Summ.js';
 import War from './Skills/War.js';
 
-import banner from './artwork/div-2-art.png';
-
 import './Home.css';
 
 const Home = () => {
   return (
 
       <div className="home">
-
-       <img className="banner" src={banner} alt="banner" />
         
         <div className="intro">
 

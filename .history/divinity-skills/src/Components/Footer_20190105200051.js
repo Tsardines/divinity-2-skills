@@ -5,7 +5,7 @@ import gh from './icons/gh-logo.png';
 import linkedin from './icons/linkedin-logo.png';
 import mail from './icons/mail-logo.png';
 import aperture from './icons/aperture.png';
-// import LarianLogo from './icons/LarianLogo.jpg';
+import LarianLogo from './icons/LarianLogo.jpg';
 
 import './HeaderFooter.css';
 

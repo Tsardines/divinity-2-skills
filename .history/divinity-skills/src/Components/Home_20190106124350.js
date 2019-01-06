@@ -19,10 +19,10 @@ const Home = () => {
   return (
 
       <div className="home">
-
-       <img className="banner" src={banner} alt="banner" />
         
         <div className="intro">
+
+        <img src={banner} alt="banner" />
 
           <h2><i>Divinity Original Sin: 2</i></h2>
           <h3>Skill Checker</h3>

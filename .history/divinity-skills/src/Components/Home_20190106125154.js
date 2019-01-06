@@ -20,7 +20,7 @@ const Home = () => {
 
       <div className="home">
 
-       <img className="banner" src={banner} alt="banner" />
+`       <img className="banner" src={banner} alt="banner" />
         
         <div className="intro">
 

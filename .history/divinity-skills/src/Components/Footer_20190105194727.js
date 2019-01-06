@@ -5,7 +5,6 @@ import gh from './icons/gh-logo.png';
 import linkedin from './icons/linkedin-logo.png';
 import mail from './icons/mail-logo.png';
 import aperture from './icons/aperture.png';
-// import LarianLogo from './icons/LarianLogo.jpg';
 
 import './HeaderFooter.css';
 
@@ -22,7 +21,7 @@ const Footer = () => {
         <div className="middle">
             <ul>
                 <li>Skill Checker was built with React in 2019.</li>
-                <li><i>Divinity Original Sin: 2</i> is the property of <a href="http://larian.com/">Larian Studios.</a></li>
+                <li>Divinity Original Sin: 2 is the property of <a href="http://larian.com/">Larian Studios.</a></li>
                 <li>This product is not for commercial use. For personal use only.</li>
             </ul>
         </div>
@@ -47,12 +46,8 @@ const Footer = () => {
                 </li>
 
                 <li>
-                    <a href="https://haleysulcerphoto.netlify.com" target="_blank" rel="noopener noreferrer"><img src={aperture} alt="mail" height="50" width="50"/></a>
-                </li>  
-                {/* <li>
-                    <a href="https://haleysulcerphoto.netlify.com" target="_blank" rel="noopener noreferrer"><img src={LarianLogo} alt="larian" height="70" width="50"/></a> 
-                </li> */}
-                
+                    <a href="https://haleysulcerphoto.netlify.com" target="_blank" rel="noopener noreferrer"><img src={aperture} alt="mail" height="50" width="50"/></a> 
+                </li>
             </ul>
 
         </div>

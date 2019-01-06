@@ -5,7 +5,7 @@ import gh from './icons/gh-logo.png';
 import linkedin from './icons/linkedin-logo.png';
 import mail from './icons/mail-logo.png';
 import aperture from './icons/aperture.png';
-// import LarianLogo from './icons/LarianLogo.jpg';
+import LarianLogo from './icons/LarianLogo.jpg';
 
 import './HeaderFooter.css';
 
@@ -49,9 +49,9 @@ const Footer = () => {
                 <li>
                     <a href="https://haleysulcerphoto.netlify.com" target="_blank" rel="noopener noreferrer"><img src={aperture} alt="mail" height="50" width="50"/></a>
                 </li>  
-                {/* <li>
+                <li>
                     <a href="https://haleysulcerphoto.netlify.com" target="_blank" rel="noopener noreferrer"><img src={LarianLogo} alt="larian" height="70" width="50"/></a> 
-                </li> */}
+                </li>
                 
             </ul>
 
