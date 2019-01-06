@@ -20,9 +20,7 @@ const Home = () => {
         
         <div className="intro">
 
-          <h2>hgy</h2>
-
-          <hr />
+          <h1>haha</h1>
 
           <form className="home-form">
             Search skills: <input type="text" />

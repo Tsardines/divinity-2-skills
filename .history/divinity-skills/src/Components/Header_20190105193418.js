@@ -1,7 +1,5 @@
 import React from 'react';
 
-import magic from './icons/magic.png';
-
 import {
   Collapse,
   Navbar,
@@ -30,9 +28,7 @@ export default class Header extends React.Component {
     return (
       <div>
         <Navbar color="dark" dark expand="md">
-          <NavbarBrand href="/">
-            <img className="img-logo" src={magic} alt="magic"/>
-          </NavbarBrand>
+          <NavbarBrand href="/">DivSkills</NavbarBrand>
           <NavbarToggler onClick={this.toggle} />
           <Collapse isOpen={this.state.isOpen} navbar>
           

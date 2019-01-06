@@ -17,18 +17,11 @@ const Home = () => {
   return (
 
       <div className="home">
-        
-        <div className="intro">
+        {/* <span className="home-h1"><h1> Skills</h1></span> */}
 
-          <h2>hgy</h2>
-
-          <hr />
-
-          <form className="home-form">
-            Search skills: <input type="text" />
-          </form>
-
-        </div>
+        <form className="home-form">
+          Search skills: <input type="text" />
+        </form>
 
         <div className="home-skills">
 

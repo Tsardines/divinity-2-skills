@@ -1,0 +1,194 @@
+[
+    {
+        "id": "1",
+        "name": "Bleed Fire",
+        "desc": "Enemies will bleed fire when hit. Also creates a small fire area beneath each target and ignites surfaces in the area. Active for 3 turn(s).",
+        "cost": "1",
+        "cool": "3",
+        "req": "Pyrokinetic 1, Polymorph 1"
+    },
+    {
+        "id": "2",
+        "name": "Corpse Explosion",
+        "desc": "Explode the target corpse, dealing physical damage in the area",
+        "cost": "1",
+        "cool": "4",
+        "req": "Pyrokinetic 1, Necromancer 1"
+    },
+    {
+        "id": "3",
+        "name": "Deploy Mass Traps",
+        "desc": "Throw 4 explosive traps at target locations. Each trap takes a turn to activate. When active, trap will explode when a character approaches it.",
+        "cost": "2",
+        "cool": "5",
+        "req": "Pyrokinetic 2, Huntsman 2"
+    },
+    {
+        "id": "4",
+        "name": "Epidemic of Fire",
+        "desc": "Fire a cursed flame that will fork on impact up to 5 times, dealing [X] Fire Damage and leaving a cursed fire surface in its wake. Sets Necrofire for 2 turn(s).",
+        "cost": "3",
+        "cool": "6",
+        "req": "Pyrokinetic 3"
+    },
+    {
+        "id": "5",
+        "name": "Fire Whip",
+        "desc": "Long-range attack that deals [X] Fire Damage to a single target, leaving them blind and burning. Sets Blind for 1 turn and Burning for 1 turn.",
+        "cost": "1",
+        "cool": "3",
+        "req": "Pyrokinetic 2"
+    },
+    {
+        "id": "6",
+        "name": "Fireball",
+        "desc": "Hurl a fiery sphere that will explode, dealing [X] Fire Damage. Set Burning for 2 turn(s).",
+        "cost": "1",
+        "cool": "4",
+        "req": "Pyrokinetic 2"
+    },
+    {
+        "id": "7",
+        "name": "Firebrand",
+        "desc": "An aura that adds [X] fire damage to weapon skills and attacks for all allies within an 8m radius.",
+        "cost": "1",
+        "cool": "3",
+        "req": "Pyrokinetic 3"
+    },
+    {
+        "id": "8",
+        "name": "Flaming Crescendo",
+        "desc": "Curse the target to explode (3m explode radius) in 1 turns or on death.",
+        "cost": "1",
+        "cool": "5",
+        "req": "Pyrokinetic 3"
+    },
+    {
+        "id": "9",
+        "name": "Flaming Tongues",
+        "desc": "Flaming tongues protect you, immediately attacking approaching enemies. Sets Flaming Tongues for 3 turn(s).",
+        "cost": "1",
+        "cool": "5",
+        "req": "Pyrokinetic 2"
+    },
+    {
+        "id": "10",
+        "name": "Haste",
+        "desc": "Sets Hasted on target character for 2 turn(s). Hasted increases movement speed by 2m per AP and gives an additional 1 AP per turn. Clears Slowed and Crippled.",
+        "cost": "1",
+        "cool": "3",
+        "req": "Pyrokinetic 1"
+    },
+    {
+        "id": "11",
+        "name": "Ignition",
+        "desc": "Sets enemy characters around you on fire. Deals [X] fire damage to each. Ignites all susceptible surfaces for 2 turn(s).",
+        "cost": "1",
+        "cool": "2",
+        "req": "Pyrokinetic 1"
+    },
+    {
+        "id": "12",
+        "name": "Laser Ray",
+        "desc": "Line of intense heat that deals [X] Fire Damage to characters and leaves fire clouds behind. Sets Burning for 2 turn(s).",
+        "cost": "1",
+        "cool": "3",
+        "req": "Pyrokinetic 2"
+    },
+    {
+        "id": "13",
+        "name": "Mass Corpse Explosion",
+        "desc": "Explode all corpses around you, dealing physical damage in the area.",
+        "cost": "2",
+        "cool": "2",
+        "req": "Pyrokinetic 2, Necromancer 2"
+    },
+    {
+        "id": "14",
+        "name": "Mass Sabotage",
+        "desc": "Explode 2 random grenades or arrows in the inventories of any enemy in a target circle.",
+        "cost": "2",
+        "cool": "5",
+        "req": "Pyrokinetic 2, Scoundrel 2"
+    },
+    {
+        "id": "15",
+        "name": "Master of Sparks",
+        "desc": "Target character and surrounding allies receive Sparkmaster status that adds a chance of fiery sparks to melee attacks. Sets Sparkmaster for 2 turn(s).",
+        "cost": "2",
+        "cool": "5",
+        "req": "Pyrokinetic 2, Warfare 2"
+    },
+    {
+        "id": "16",
+        "name": "Meteor Shower",
+        "desc": "25 fireballs come crashing from the sky. Each does [X] Fire Damage within a 3m range from impact.",
+        "cost": "3",
+        "cool": "4",
+        "req": "Pyrokinetic 5"
+    },
+    {
+        "id": "17",
+        "name": "Peace of Mind",
+        "desc": "Target gains Clear-Minded for 3 turn(s), which increases Strength, Finesse, Intelligence by 2 and Wits by 5. Removes Blinded, Terrified, Charmed, Taunted, Sleeping, Enraged and Mad.",
+        "cost": "#1",
+        "cool": "3",
+        "req": "Pyrokinetic 1"
+    },
+    {
+        "id": "18",
+        "name": "Sabotage",
+        "desc": "If target character is carrying grenades or arrows, a random one explodes in their inventory. Explodes 1 random Arrow(s) or Grenade(s) on target's inventory.",
+        "cost": "1",
+        "cool": "1",
+        "req": "Pyrokinetic 1, Scoundrel 1"
+    },
+    {
+        "id": "19",
+        "name": "Searing Daggers",
+        "desc": "Shoot 3 flaming daggers at targets of your choice, each creating a fire surface and dealing [X] fire damage. Sets Burning for 2 turn(s).",
+        "cost": "1",
+        "cool": "3",
+        "req": "Pyrokinetic 1"
+    },
+    {
+        "id": "20",
+        "name": "Sparking Swings",
+        "desc": "Receive Sparkstriker status for 3 turn(s). This causes your melee attacks to create a spark projectile that bounces off the initial target to hit the closest enemy. Has 4 charges.",
+        "cost": "1",
+        "cool": "5",
+        "req": "Pyrokinetic 1, Warfare 1"
+    },
+    {
+        "id": "21",
+        "name": "Spontaneous Combustion",
+        "desc": "Deal [X] Fire Damage to target character. If the character is affected by Burning or Necrofire, remove those statuses and deal additional damage for each turn of duration remaining.",
+        "cost": "1",
+        "cool": "3",
+        "req": "Pyrokinetic 2"
+    },
+    {
+        "id": "22",
+        "name": "Summon Fire Slug",
+        "desc": "Summon a Fire Slug. Your Fire Slug can create fire surfaces and launch linear fire attacks. The stats of the summon will depend on the caster's level and summoning ability. Active for 5 turns.",
+        "cost": "2",
+        "cool": "6",
+        "req": "Pyrokinetic 3"
+    },
+    {
+        "id": "23",
+        "name": "Supernova",
+        "desc": "Explode, creating fire surfaces and dealing [X] Fire Damage in a large area around you (except areas blocked by obstacles).",
+        "cost": "1",
+        "cool": "6",
+        "req": "Pyrokinetic 2"
+    },
+    {
+        "id": "24",
+        "name": "Throw Explosive Trap",
+        "desc": "Throw an explosive trap at target locations. Trap takes a turn to activate. When active, trap will explode when a character approaches it.",
+        "cost": "1",
+        "cool": "3",
+        "req": "Pyrokinetic 1, Huntsman 1"
+    }
+]

@@ -23,7 +23,7 @@
 }
 
 .pyro-wrap {
-    background-color: rgb(133, 79, 54)
+    background-color: rgb(228, 105, 49)
 }
 
 .scoun-wrap {
@@ -148,11 +148,6 @@
 } 
 
 .poly-wrap .skill-title h1 {
-    color: white;
-    text-shadow: 2px 2px black;
-}
-
-.pyro-wrap .skill-title h1 {
     color: white;
     text-shadow: 2px 2px black;
 }

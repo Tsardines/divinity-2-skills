@@ -20,7 +20,7 @@ const Home = () => {
         
         <div className="intro">
 
-          <h2>hgy</h2>
+          <h2></h2>
 
           <hr />
 

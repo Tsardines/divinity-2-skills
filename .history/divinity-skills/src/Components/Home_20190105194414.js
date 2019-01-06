@@ -20,7 +20,7 @@ const Home = () => {
         
         <div className="intro">
 
-          <h2>hgy</h2>
+          <h2>DivSkills is an encyclopedia for <i>Divinity Original Sin: 2</i></h2>
 
           <hr />
 

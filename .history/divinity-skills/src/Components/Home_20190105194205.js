@@ -20,7 +20,7 @@ const Home = () => {
         
         <div className="intro">
 
-          <h2>hgy</h2>
+          <h2>Welcome to DivSkills!</h2>
 
           <hr />
 
