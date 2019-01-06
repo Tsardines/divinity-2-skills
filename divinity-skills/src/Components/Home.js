@@ -1,5 +1,7 @@
 import React from 'react';
 
+import SearchBar from './SearchBar.js';
+
 import Aero from './Skills/Aero.js';
 import Geo from './Skills/Geo.js';
 import Hunts from './Skills/Hunts.js';
@@ -29,9 +31,11 @@ const Home = () => {
 
           <hr />
 
-          <form className="home-form">
+          <SearchBar />
+
+          {/* <form className="home-form">
             Search skills: <input type="text" />
-          </form>
+          </form> */}
 
         </div>
 
@@ -51,10 +55,8 @@ const Home = () => {
         </div>
 
       </div>
-
       
   );
 }
 
 export default Home;
-
