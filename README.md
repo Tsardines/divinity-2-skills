@@ -1,5 +1,5 @@
-# Divinity 2 Skill Search
-This is a minimalistic skill guide for Divinity Original Sin 2.
+# Skill Checker
+This is a minimalistic skill guide for Divinity Original Sin: 2.
 
 I got fed up with the process of wading through clunky menus and pages in order to look up skills. I decided to take matters into my own hands and solve this problem, by building my own thing. All you have to do is type your search criteria into a box and *bam,* things show up. When playing a game as tough as DOS:2, you want to have something that's easily accessible.
 
