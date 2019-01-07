@@ -41,7 +41,7 @@ class App extends Component {
               <Route path="/scoundrel" component={Scoun} exact />
               <Route path="/summoning" component={Summ} exact />
               <Route path="/warfare" component={War} exact />
-              <Route component={error} />
+              <Route path="/error" component={error} exact />
             </Switch>  
             <Footer />        
         </div>

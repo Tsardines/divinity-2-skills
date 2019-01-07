@@ -17,7 +17,6 @@ import Poly from './Components/Skills/Poly.js';
 import Pyro from './Components/Skills/Pyro.js';
 import Scoun from './Components/Skills/Scoun.js';
 import Summ from './Components/Skills/Summ.js';
-import War from './Components/Skills/War.js';
 
 
 /////
@@ -41,7 +40,7 @@ class App extends Component {
               <Route path="/scoundrel" component={Scoun} exact />
               <Route path="/summoning" component={Summ} exact />
               <Route path="/warfare" component={War} exact />
-              <Route component={error} />
+              <Route path="/404" component={error} exact />
             </Switch>  
             <Footer />        
         </div>

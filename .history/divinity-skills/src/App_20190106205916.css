@@ -26,7 +26,8 @@
 /* ----------------- */
 
 .error-div {
-  background-color: rgb(117, 117, 117); 
+  height: 80%;
+  width: 100%;
 }
 
 .error-img {

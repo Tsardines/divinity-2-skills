@@ -25,10 +25,7 @@
 
 /* ----------------- */
 
-.error-div {
-  background-color: rgb(117, 117, 117); 
-}
-
-.error-img {
-  width: 50%;
+.mssg {
+  color: red;
+  margin: 0 auto;
 }

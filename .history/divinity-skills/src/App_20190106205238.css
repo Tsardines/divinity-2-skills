@@ -26,9 +26,10 @@
 /* ----------------- */
 
 .error-div {
-  background-color: rgb(117, 117, 117); 
+  /* height: 100vh; */
 }
 
-.error-img {
-  width: 50%;
+.errorImgSpan {
+  height: 30%;
+  width: 30$;
 }
