@@ -65,13 +65,13 @@
 }
 
 .skill-name p {
-    font-size: 1.3em;
+    font-size: 1.5em;
     text-align: center;
 }
 
 .tier-2 {
-    font-size: 1vw;
-    padding-left: 20%;
+    font-size: 1.25vw;
+    padding-left: 10%;
 }
 
 .tier-2 p {
@@ -79,7 +79,7 @@
 }
 
 .skill-wrap .skill-name {
-    font-size: 1.3vw;
+    font-size: 1.5vw;
     font-weight: bold;
 }
 

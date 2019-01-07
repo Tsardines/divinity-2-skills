@@ -56,7 +56,8 @@
 .skill-wrap {
     background-color: rgb(231, 231, 231);
     border-radius: 0.3em;
-    /* font-size: 1vw; */
+    /* box-shadow: 0.1em 0.1em 0.1em 0.1em gray; */
+    font-size: 1vw;
     height: 50%;
     margin: 1.75em;
     padding: 0.5em;
@@ -65,13 +66,13 @@
 }
 
 .skill-name p {
-    font-size: 1.3em;
+    font-size: 1.5em;
     text-align: center;
 }
 
 .tier-2 {
-    font-size: 1vw;
-    padding-left: 20%;
+    font-size: 1.25vw;
+    padding-left: 10%;
 }
 
 .tier-2 p {
@@ -79,7 +80,7 @@
 }
 
 .skill-wrap .skill-name {
-    font-size: 1.3vw;
+    font-size: 1.5vw;
     font-weight: bold;
 }
 
