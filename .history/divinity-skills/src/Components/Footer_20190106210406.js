@@ -21,7 +21,7 @@ const Footer = () => {
 
         <div className="middle">
             <ul>
-                <li>Haley Sulcer - 2019</li>
+                <li>Copyright &copy; 2019 Haley Sulcer</li>
                 <li>Skill Checker was built with React.</li>
                 <li><i>Divinity Original Sin: 2</i> is the property of <a href="http://larian.com/">Larian Studios.</a></li>
                 <li>This product is not for commercial use. For personal use only.</li>
