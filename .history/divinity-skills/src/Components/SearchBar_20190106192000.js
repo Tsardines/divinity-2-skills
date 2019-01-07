@@ -29,7 +29,7 @@ class SearchBar extends Component {
 
         return (
             <div>
-                <input type="text" placeholder="search skills" value={value} onChange={this.handleChange} />
+                <input type="text" value={value} onChange={this.handleChange} />
 
                 <SearchResults
                     value={value}
@@ -38,19 +38,21 @@ class SearchBar extends Component {
                         <div>
                             {results.map(el => (
                                 <div className="skill-section">
-                                    <table>
-                                        <tr>
-                                            <span className="td-cat"><td>{el.cat}</td></span>
-                                                <br />
-                                            <span className="td-name"><td><i>{el.name}</i></td></span>
-                                                <br />
-                                            <span className="td-desc"><td>{el.desc}</td></span>
-                                                <br />  
-                                            <span><td><strong>Cost:</strong> {el.cost} AP</td></span>
-                                            <span><td><strong>Cooldown:</strong> {el.cool}</td></span>
-                                            <span><td><strong>Requires:</strong> {el.req}</td></span>
-                                        </tr>
-                                    </table>
+                                <table>
+                                    <tr>
+                                        <td>{el.cat}&nbsp;</td>
+                                        <td>{el.name}&nbsp;</td>
+                                        <td>{el.desc}&nbsp;</td>
+                                        <td>Cost: {el.cost} AP&nbsp;</td>
+                                        <td>Cooldown: {el.cool}&nbsp;</td>
+                                        <td>Requires: {el.req}&nbsp;</td>
+                                    </tr>
+                                </table>
+                                    {/* <span>{el.name}&nbsp;</span>
+                                    <span>{el.desc}&nbsp;</span>
+                                    <span>{el.cost}&nbsp;</span>
+                                    <span>{el.cool}&nbsp;</span>
+                                    <span>{el.req}&nbsp;</span> */}
                                 </div>
                             ))}
                         </div>

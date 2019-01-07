@@ -1,6 +1,5 @@
 .skill-section {
     display: flex;    
-    flex-wrap: wrap;
     justify-content: center;
     margin-top: 3em;
     padding-bottom: 1em;
@@ -26,16 +25,8 @@ td {
     color: rgb(121, 88, 197);
 }
 
-.td-name:hover {
-    color: rgb(113, 43, 145);
-    font-weight: bold;
-}
-
 .td-desc {
-    background-color: rgb(231, 231, 231);
     display: flex;
     flex-wrap: wrap;
-    padding: 1em;
-    vertical-align: middle;
     width: 50%;
 }

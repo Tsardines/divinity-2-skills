@@ -1,0 +1,23 @@
+.skill-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 4em;
+    text-align: left;
+    width: 100%;
+}
+
+tr {
+    border-radius: 1px solid black;
+}
+
+td {
+    background-color: orange;
+    padding-bottom: 2em;
+    padding-right: 1em;
+}
+
+.td-desc {
+    display: flex;
+    width: 50%;
+}

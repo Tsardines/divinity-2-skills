@@ -42,7 +42,7 @@ class SearchBar extends Component {
                                         <tr>
                                             <span className="td-cat"><td>{el.cat}</td></span>
                                                 <br />
-                                            <span className="td-name"><td><i>{el.name}</i></td></span>
+                                            <span><td><i>{el.name}</i></td></span>
                                                 <br />
                                             <span className="td-desc"><td>{el.desc}</td></span>
                                                 <br />  

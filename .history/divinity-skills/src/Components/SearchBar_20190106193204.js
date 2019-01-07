@@ -41,14 +41,11 @@ class SearchBar extends Component {
                                     <table>
                                         <tr>
                                             <span className="td-cat"><td>{el.cat}</td></span>
-                                                <br />
-                                            <span className="td-name"><td><i>{el.name}</i></td></span>
-                                                <br />
+                                            <span><td>{el.name}</td></span>
                                             <span className="td-desc"><td>{el.desc}</td></span>
-                                                <br />  
-                                            <span><td><strong>Cost:</strong> {el.cost} AP</td></span>
-                                            <span><td><strong>Cooldown:</strong> {el.cool}</td></span>
-                                            <span><td><strong>Requires:</strong> {el.req}</td></span>
+                                            <span><td>Cost: {el.cost} AP</td></span>
+                                            <span><td>Cooldown: {el.cool}</td></span>
+                                            <span><td>Requires: {el.req}</td></span>
                                         </tr>
                                     </table>
                                 </div>

@@ -1,0 +1,11 @@
+.skill-section {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 4em;
+    width: 100%;
+}
+
+td {
+    background-color: orange;
+    padding-bottom: 2em;
+}

@@ -26,11 +26,6 @@ td {
     color: rgb(121, 88, 197);
 }
 
-.td-name:hover {
-    color: rgb(113, 43, 145);
-    font-weight: bold;
-}
-
 .td-desc {
     background-color: rgb(231, 231, 231);
     display: flex;
