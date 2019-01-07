@@ -27,11 +27,11 @@ td {
 }
 
 .td-name {
-    font-size: 1.5em;
+    font-size: 1em;
 }
 
 .td-name:hover {
-    color: rgb(121, 88, 197);
+    color: rgb(113, 43, 145);
     font-weight: bold;
 }
 

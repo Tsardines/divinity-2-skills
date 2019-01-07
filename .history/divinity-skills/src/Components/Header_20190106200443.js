@@ -39,43 +39,43 @@ export default class Header extends React.Component {
             <Nav className="ml-auto" navbar>
 
             <NavItem>
-                <NavLink href="/aerotheurge">Aerotheurge</NavLink>
+                <NavLink href="/aerotheurge">Aerotheurge&emsp;</NavLink>
             </NavItem>
 
             <NavItem>
-                <NavLink href="/geomancer">Geomancer</NavLink>
+                <NavLink href="/geomancer">Geomancer&emsp;</NavLink>
             </NavItem>
 
             <NavItem>
-                <NavLink href="/huntsman">Huntsman</NavLink>
+                <NavLink href="/huntsman">Huntsman&emsp;</NavLink>
             </NavItem>
             
             <NavItem>
-                <NavLink href="/hydrosophist">Hydrosophist</NavLink>
+                <NavLink href="/hydrosophist">Hydrosophist&emsp;</NavLink>
             </NavItem>
             
             <NavItem>
-                <NavLink href="/necromancer">Necromancer</NavLink>
+                <NavLink href="/necromancer">Necromancer&emsp;</NavLink>
             </NavItem>
 
             <NavItem>
-                <NavLink href="/polymorph">Polymorph</NavLink>
+                <NavLink href="/polymorph">Polymorph&emsp;</NavLink>
             </NavItem>
             
             <NavItem>
-                <NavLink href="/pyrokinetic">Pyrokinetic</NavLink>
+                <NavLink href="/pyrokinetic">Pyrokinetic&emsp;</NavLink>
             </NavItem>
 
             <NavItem>
-                <NavLink href="/scoundrel">Scoundrel</NavLink>
+                <NavLink href="/scoundrel">Scoundrel&emsp;</NavLink>
             </NavItem>
             
             <NavItem>
-                <NavLink href="/summoning">Summoning</NavLink>
+                <NavLink href="/summoning">Summoning&emsp;</NavLink>
             </NavItem>           
             
             <NavItem>
-                <NavLink href="/warfare">Warfare</NavLink>
+                <NavLink href="/warfare">Warfare&emsp;</NavLink>
             </NavItem>
               
 

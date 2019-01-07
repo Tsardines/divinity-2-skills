@@ -1,0 +1,65 @@
+.img-logo {
+    width: 6vw;
+}
+
+.ml-auto:hover {
+    color: red;
+}
+
+/* ----------- */
+
+.footer {
+    background-color: rgb(48, 48, 48);
+    padding: 2em;
+}
+
+.ml-auto {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 1.25em;
+    justify-content: center;
+}
+
+/* ----------- */
+
+.footer {
+    padding-top: 2em;
+}
+
+.footer a {
+    color: turquoise;
+}
+
+.footer ul li {
+    list-style-type: none;
+    padding: 0.4em;
+}
+
+.middle, .top {
+    color: white;
+}
+
+.top ul li, .middle ul li {
+    font-size: 1.25em;
+}
+
+.middle {
+    padding-top: 0.3em;
+}
+
+.bottom {
+    display: flex;
+    justify-content: center;
+}
+
+.bottom ul {
+    display: flex;
+}
+
+.bottom ul li {
+    padding: 2em;
+}
+
+.bottom ul li:hover {
+    background-color: rgb(53, 53, 54);
+}

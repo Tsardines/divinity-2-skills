@@ -71,7 +71,7 @@
 
 .tier-2 {
     font-size: 1vw;
-    padding-left: 15%;
+    padding-left: 20%;
 }
 
 .tier-2 p {
@@ -123,19 +123,19 @@
 }
 
 .Pyro p:hover {
-    color: rgb(226, 94, 33)
+    color: rgb(185, 41, 28)
 }
 
 .Scoun p:hover {
-    color: rgb(57, 150, 134);
+    color: rgb(143, 60, 104);
 }
 
 .Summ p:hover {
-    color: rgb(92, 117, 50)
+    color: rgb(136, 38, 175)
 }
 
 .War p:hover {
-    color: rgb(158, 45, 45)
+    color: rgb(44, 113, 177)
 }
 /* ------------------------------------ */
 

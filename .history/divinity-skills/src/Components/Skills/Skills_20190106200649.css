@@ -71,7 +71,7 @@
 
 .tier-2 {
     font-size: 1vw;
-    padding-left: 15%;
+    padding-left: 20%;
 }
 
 .tier-2 p {
@@ -99,43 +99,43 @@
 /* ------------------------------------ */
 
 .Aero p:hover {
-    color: rgb(86, 180, 209);
+    color: rgb(48, 51, 197);
 }
 
 .Geo p:hover {
-    color: rgb(141, 111, 88);
+    color: green;
 }
 
 .Hunts p:hover {
-    color: rgb(65, 170, 91);
+    color: maroon;
 }
 
 .Hydro p:hover {
-    color: rgb(68, 111, 192);
+    color: rgb(131, 80, 13);
 }
 
 .Necro p:hover {
-    color: rgb(97, 18, 187)
+    color: rgb(180, 59, 120)
 }
 
 .Poly p:hover {
-    color: rgb(202, 47, 156)
+    color: rgb(136, 68, 12)
 }
 
 .Pyro p:hover {
-    color: rgb(226, 94, 33)
+    color: rgb(67, 215, 235)
 }
 
 .Scoun p:hover {
-    color: rgb(57, 150, 134);
+    color: rgb(143, 60, 104);
 }
 
 .Summ p:hover {
-    color: rgb(92, 117, 50)
+    color: rgb(136, 38, 175)
 }
 
 .War p:hover {
-    color: rgb(158, 45, 45)
+    color: rgb(44, 113, 177)
 }
 /* ------------------------------------ */
 

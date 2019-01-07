@@ -44,7 +44,7 @@ class SearchBar extends Component {
                                                 <br />
                                             <span className="td-desc"><td>{el.desc}</td></span>
                                                 <br />  
-                                            <span className="td-cat"><td>{el.cat}</td></span>
+                                            <span className="td-cat"><td>{el.cat}</td></span>                                           
                                             <span><td><strong>Memory:</strong> {el.cost} AP</td></span>
                                             <span><td><strong>Cooldown:</strong> {el.cool}</td></span>
                                             <span><td><strong>Requires:</strong> {el.req}</td></span>
