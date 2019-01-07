@@ -1497,11 +1497,9 @@
     },
     
 
-
-
     {
         "id": "1",
-        "cat": "Summoning",
+        "cat": "",
         "name": "Acid Infusion",
         "desc": "Change Incarnate's element to acid, unlocking Poison Dart and Corrosive Spray.",
         "cost": "2",
@@ -1510,7 +1508,7 @@
     },
     {
         "id": "2",
-        "cat": "Summoning",
+        "cat": "",
         "name": "Cannibalise",
         "desc": "Destroy an allied summon or totem. Receive their Vitality, Physical Armour and Magic Armour.",
         "cost": "1",
@@ -1519,7 +1517,7 @@
     },
     {
         "id": "3",
-        "cat": "Summoning",
+        "cat": "",
         "name": "Conjure Incarnate",
         "desc": "Conjure a personal elemental that matches the ground surface it's summoned onto. Your incarnate can be buffed with Infusions. Once you hit Summoning ability level of 10, a colossal Incarnate Champion will answer your summons! The stats of the summons will depend on caster level and Summoning ability. Duration 10 turn(s).",
         "cost": "1",
@@ -1528,7 +1526,7 @@
     },
     {
         "id": "4",
-        "cat": "Summoning",
+        "cat": "",
         "name": "Cursed Electric Infusion",
         "desc": "Change Incarnate's element to cursed electricity, unlocking Electric Discharge and Closed Circuit.",
         "cost": "2",
@@ -1537,7 +1535,7 @@
     },
     {
         "id": "5",
-        "cat": "Summoning",
+        "cat": "",
         "name": "Dimensional Bolt",
         "desc": "Shoot a volatile bolt that deals [X] of a random type, and then creates a corresponding surface.",
         "cost": "1",
@@ -1546,7 +1544,7 @@
     },
     {
         "id": "6",
-        "cat": "Summoning",
+        "cat": "",
         "name": "Dominate Mind",
         "desc": "Charm target non-allied character, causing them to join your side in combat for the duration of the status.",
         "cost": "1",
@@ -1555,7 +1553,7 @@
     },
     {
         "id": "7",
-        "cat": "Summoning",
+        "cat": "",
         "name": "Door to Eternity",
         "desc": "Give all summons around you a status that prevents them from dying to damage or disappearing when their life runs out. Sets Persisting for 2 turn(s).",
         "cost": "2",
@@ -1564,7 +1562,7 @@
     },
     {
         "id": "8",
-        "cat": "Summoning",
+        "cat": "",
         "name": "Electric Infusion",
         "desc": "Change Incarnate's element to electricity, unlocking Electric Discharge.",
         "cost": "1",
@@ -1573,7 +1571,7 @@
     },
     {
         "id": "9",
-        "cat": "Summoning",
+        "cat": "",
         "name": "Elemental Totem",
         "desc": "Target a ground surface and conjure a totem of the corresponding element. Each turn, this totem will fire a projectile at enemies in sight. The stats of the summons will depend on caster level and Summoning ability. Duration 3 turn(s).",
         "cost": "1",
@@ -1582,7 +1580,7 @@
     },
     {
         "id": "10",
-        "cat": "Summoning",
+        "cat": "",
         "name": "Ethereal Storm",
         "desc": "Unpredictable projectiles from distant planes strike target area, dealing random elemental damage to enemies or healing allies. Active for 2 turn(s).",
         "cost": "3",
@@ -1591,7 +1589,7 @@
     },
     {
         "id": "11",
-        "cat": "Summoning",
+        "cat": "",
         "name": "Farsight Infusion",
         "desc": "Unlock a ranged attack for your Incarnate. Provides [X] Magic Armour (amount depends on your level).",
         "cost": "1",
@@ -1600,7 +1598,7 @@
     },
     {
         "id": "12",
-        "cat": "Summoning",
+        "cat": "",
         "name": "Fire Infusion",
         "desc": "Change Incarnate's element to fire, unlocking Fireball.",
         "cost": "1",
@@ -1609,7 +1607,7 @@
     },
     {
         "id": "13",
-        "cat": "Summoning",
+        "cat": "",
         "name": "Ice Infusion",
         "desc": "Change Incarnate's element to blessed ice, unlocking Restoration and Healing Ritual.",
         "cost": "2",
@@ -1618,7 +1616,7 @@
     },
     {
         "id": "14",
-        "cat": "Summoning",
+        "cat": "",
         "name": "Necrofire Infusion",
         "desc": "Change Incarnate's element to necrofire, unlocking Fireball and Epidemic of Fire.",
         "cost": "2",
@@ -1627,7 +1625,7 @@
     },
     {
         "id": "15",
-        "cat": "Summoning",
+        "cat": "",
         "name": "Planar Gateway",
         "desc": "Conjure two linked gateways that allow any character to instantly travel between them. Active for 10 turn(s).",
         "cost": "2",
@@ -1636,7 +1634,7 @@
     },
     {
         "id": "16",
-        "cat": "Summoning",
+        "cat": "",
         "name": "Poison Infusion",
         "desc": "Change Incarnate's element to poison, unlocking Poison Dart.",
         "cost": "1",
@@ -1645,7 +1643,7 @@
     },
     {
         "id": "17",
-        "cat": "Summoning",
+        "cat": "",
         "name": "Power Infusion",
         "desc": "Unlock Whirlwind  and Rush for your Incarnate. Provides [X] Physical Armour (amount depends on your level).",
         "cost": "1",
@@ -1654,7 +1652,7 @@
     },
     {
         "id": "18",
-        "cat": "Summoning",
+        "cat": "",
         "name": "Rallying Cry",
         "desc": "Target character regenerates [X] Vitality and [X] Magic Armour according to the number of allied characters and totems in their vicinity.",
         "cost": "1",
@@ -1663,7 +1661,7 @@
     },
     {
         "id": "19",
-        "cat": "Summoning",
+        "cat": "",
         "name": "Shadow Infusion",
         "desc": "Incarnate learns how to go invisible and strike foes with a corrosive slash. Unlocks skills equal in effect to Chameleon Cloak and Corrupted Blade.",
         "cost": "1",
@@ -1671,8 +1669,8 @@
         "req": "Summoning 2"
     },
     {
-        "id": "20",
-        "cat": "Summoning",
+        "id": "10",
+        "cat": "",
         "name": "Soul Mate",
         "desc": "Bind yourself to target character, copying any healing and Armour restoration that you receive to them. Clears Frozen, Stunned, Knocked Down and Petrified. Sets Soul Mate for e turn(s).",
         "cost": "1",
@@ -1681,7 +1679,7 @@
     },
     {
         "id": "21",
-        "cat": "Summoning",
+        "cat": "",
         "name": "Summon Cat Familiar",
         "desc": "Summons a black cat by your side. Cat can leap, claw, and swap places with it's summoner.",
         "cost": "1",
@@ -1690,7 +1688,7 @@
     },
     {
         "id": "22",
-        "cat": "Summoning",
+        "cat": "",
         "name": "Summon Condor",
         "desc": "Summons a condor that will aid you in combat. The stats of the summons will depend on caster level and Summoning ability.",
         "cost": "1",
@@ -1699,7 +1697,7 @@
     },
     {
         "id": "23",
-        "cat": "Summoning",
+        "cat": "",
         "name": "Summon Dragonling",
         "desc": "Summons a newt to help you in combat. The stats of the summons will depend on caster level and Summoning ability.",
         "cost": "2",
@@ -1708,7 +1706,7 @@
     },
     {
         "id": "24",
-        "cat": "Summoning",
+        "cat": "",
         "name": "Summon Inner Demon",
         "desc": "Conjure a demon that will share their Intelligence with you and provide [X] Magic Armour. Grants you power to terrify and protect yourself with demonic fists. Active for 3 turn(s).",
         "cost": "2",
@@ -1717,7 +1715,7 @@
     },
     {
         "id": "25",
-        "cat": "Summoning",
+        "cat": "",
         "name": "Supercharger",
         "desc": "Target totem or summon deals 100% more base damage during its next turn, but then it dies. Sets Supercharged for 2 turn(s).",
         "cost": "1",
@@ -1726,7 +1724,7 @@
     },
     {
         "id": "26",
-        "cat": "Summoning",
+        "cat": "",
         "name": "Warp Infusion",
         "desc": "Incarnate learns a teleport skill and a skill to swap places with its master. These skills are equivalent in effect to Tactical Retreat and the Black Cat summon's swap skill.",
         "cost": "1",
@@ -1735,7 +1733,7 @@
     },
     {
         "id": "27",
-        "cat": "Summoning",
+        "cat": "",
         "name": "Water Infusion",
         "desc": "Change Incarnate's element to water, unlocking Restoration.",
         "cost": "1",
@@ -1751,7 +1749,7 @@
 
     {
         "id": "1",
-        "cat": "Warfare",
+        "cat": "",
         "name": "Battering Ram",
         "desc": "Rush forward in a straight line, to a designated point, hitting all enemies in your path for 50% damage and setting Knockdown. Set Knocked Down for 1 turn(s). Damage is based on your basic attack and receives a bonus from [Weapon Attribute].",
         "cost": "1",
@@ -1760,7 +1758,7 @@
     },
     {
         "id": "2",
-        "cat": "Warfare",
+        "cat": "",
         "name": "Battle Stomp",
         "desc": "Smash your weapon into the ground, knocking down non-allied characters in front of you, and hitting them for 60% damage. Also clears non-cursed surfaces and clouds. Set Knocked Down for 1 turn(s). Damage is based on your basic attack and receives a bonus from Strength.",
         "cost": "1",
@@ -1769,7 +1767,7 @@
     },
     {
         "id": "3",
-        "cat": "Warfare",
+        "cat": "",
         "name": "Blitz Attack",
         "desc": "Jump from one target to another, hitting up to 2 targets, dealing 70% damage to each. Targets are chosen randomly in a 10m radius. Damage is based on your basic attack and receives a bonus from Strength.",
         "cost": "1",
@@ -1778,7 +1776,7 @@
     },
     {
         "id": "4",
-        "cat": "Warfare",
+        "cat": "",
         "name": "Bouncing Shield",
         "desc": "Throw your shield at an enemy dealing [X] Physical Damage. Shield can bounce to another enemy in 5m range. Damage is based on the Physical Armour of your shield.",
         "cost": "1",
@@ -1787,7 +1785,7 @@
     },
     {
         "id": "5",
-        "cat": "Warfare",
+        "cat": "",
         "name": "Challenge",
         "desc": "Mark target enemy. If they die in the next 2 turns, you are healed and receive damage and armour bonuses. If target survives, their Vitality is healed to full and caster receives damage.",
         "cost": "1",
@@ -1796,7 +1794,7 @@
     },
     {
         "id": "6",
-        "cat": "Warfare",
+        "cat": "",
         "name": "Crippling Blow",
         "desc": "Cripple the target with a sweeping blow, and all characters around it. Deals 115% damage. Set Crippled for 1 turn(s). Damage is based on your basic attack and receives a bonus from [Weapon Attribute].",
         "cost": "1",
@@ -1805,7 +1803,7 @@
     },
     {
         "id": "7",
-        "cat": "Warfare",
+        "cat": "",
         "name": "Deflective Barrier",
         "desc": "Projectiles that hit you are reflected back at the caster. This does not prevent the original projectile effects. Provides [X] Physical Armour. Set Deflecting for 3 turn(s).",
         "cost": "1",
@@ -1814,7 +1812,7 @@
     },
     {
         "id": "8",
-        "cat": "Warfare",
+        "cat": "",
         "name": "Enrage",
         "desc": "Motivate an allied character with the power of rage. Target allied character is garaunteed to land critical hits with basic attacks and weapon skills, but is muted. Clears Taunted, Terrified, Charmed, Mad and Clear-Minded statuses. Set Enraged for 1 turn(s).",
         "cost": "1",
@@ -1823,7 +1821,7 @@
     },
     {
         "id": "9",
-        "cat": "Warfare",
+        "cat": "",
         "name": "Guardian Angel",
         "desc": "Allies in melee range redirect 50% of received damage to you. Set Guardian Angel Aura for 2 turn(s).",
         "cost": "1",
@@ -1832,7 +1830,7 @@
     },
     {
         "id": "10",
-        "cat": "Warfare",
+        "cat": "",
         "name": "Onslaught",
         "desc": "Attack five times with astonishing speed, each hit dealing 50% weapon damage.",
         "cost": "2",
@@ -1841,7 +1839,7 @@
     },
     {
         "id": "11",
-        "cat": "Warfare",
+        "cat": "",
         "name": "Overpower",
         "desc": "Deals 150% weapon damage. If your Physical Armour is higher than your opponent's, destroy all their Physical Armour. Set Knocked Down for 1 turn(s).",
         "cost": "3",
@@ -1850,7 +1848,7 @@
     },
     {
         "id": "12",
-        "cat": "Warfare",
+        "cat": "",
         "name": "Phoenix Dive",
         "desc": "Leap through the air to a target position, creating a fire surface upon landing.",
         "cost": "1",
@@ -1859,7 +1857,7 @@
     },
     {
         "id": "13",
-        "cat": "Warfare",
+        "cat": "",
         "name": "Provoke",
         "desc": "Taunt the enemies around you. Provoke and tease them so that they want to attack you. Set Taunted for 1 turn(s).",
         "cost": "1",
@@ -1868,7 +1866,7 @@
     },
     {
         "id": "14",
-        "cat": "Warfare",
+        "cat": "",
         "name": "Thick of the Fight",
         "desc": "The more the merrier! Gain a damage boost for every nearby character. Set Thick of the Fight for 2 turn(s).",
         "cost": "2",
@@ -1877,7 +1875,7 @@
     },
     {
         "id": "15",
-        "cat": "Warfare",
+        "cat": "",
         "name": "Whirlwind",
         "desc": "Perform a whirlwind attack, hitting enemies around you for 100% weapon damage.",
         "cost": "1",
