@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import './SearchBar.css';
+import './Home.css';
 
 import SearchResults from 'react-filter-search';
 
@@ -36,24 +36,24 @@ class SearchBar extends Component {
                     data={data}
                     renderResults={results => (
                         <div>
-                            {results.map(el => (
-                                <div className="skill-section">
+                        {results.map(el => (
+                            <div>
                                 <table>
                                     <tr>
-                                        <td>{el.name}&nbsp;</td>
-                                        <td>{el.desc}&nbsp;</td>
-                                        <td>Cost: {el.cost} AP&nbsp;</td>
-                                        <td>Cooldown: {el.cool}&nbsp;</td>
-                                        <td>Requires: {el.req}&nbsp;</td>
+                                        <td>{el.name}</td>
+                                        <td>{el.desc}</td>
+                                        <td>{el.cost}</td>
+                                        <td>{el.cool}</td>
+                                        <td>{el.req}</td>
                                     </tr>
                                 </table>
-                                    {/* <span>{el.name}&nbsp;</span>
-                                    <span>{el.desc}&nbsp;</span>
-                                    <span>{el.cost}&nbsp;</span>
-                                    <span>{el.cool}&nbsp;</span>
-                                    <span>{el.req}&nbsp;</span> */}
-                                </div>
-                            ))}
+                                {/* <span>{el.name}</span>
+                                    <br />
+                                <span>{el.desc}</span>
+                                
+                                <span>{el.req}</span> */}
+                            </div>
+                        ))}
                         </div>
                     )}
                 />

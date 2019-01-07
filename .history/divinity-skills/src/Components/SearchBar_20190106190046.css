@@ -1,0 +1,11 @@
+table {
+    padding: 5em;
+}
+
+td {
+    background-color: pink;
+}
+
+tr {
+    padding-bottom: 4em;
+}

@@ -1,0 +1,6 @@
+.skill-section {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 4em;
+    width: 70%;
+}

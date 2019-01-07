@@ -37,21 +37,20 @@ class SearchBar extends Component {
                     renderResults={results => (
                         <div>
                             {results.map(el => (
-                                <div className="skill-section">
-                                <table>
-                                    <tr>
-                                        <td>{el.name}&nbsp;</td>
-                                        <td>{el.desc}&nbsp;</td>
-                                        <td>Cost: {el.cost} AP&nbsp;</td>
-                                        <td>Cooldown: {el.cool}&nbsp;</td>
-                                        <td>Requires: {el.req}&nbsp;</td>
-                                    </tr>
-                                </table>
-                                    {/* <span>{el.name}&nbsp;</span>
-                                    <span>{el.desc}&nbsp;</span>
-                                    <span>{el.cost}&nbsp;</span>
-                                    <span>{el.cool}&nbsp;</span>
-                                    <span>{el.req}&nbsp;</span> */}
+                                <div>
+                                    <table>
+                                        <tr>
+                                            <td>{el.name}&nbsp;</td>
+                                                <br />
+                                            <td>{el.desc}</td>
+                                                <br />
+                                            <td>{el.cost} AP</td>
+                                                <br />
+                                            <td>{el.cool}</td>
+                                                <br />
+                                            <td>{el.req}</td>
+                                        </tr>
+                                    </table>
                                 </div>
                             ))}
                         </div>
