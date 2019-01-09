@@ -1,7 +1,7 @@
 # Skill Checker
 This is a minimalistic skill guide for Divinity Original Sin: 2.
 
-I became fed up with wading through clunky menus and pages in order to look up skills. I decided to take matters into my own hands and solve this problem, by building my own thing. All you have to do is type your search criteria into a box and *bam,* things show up. When playing a game as tough as DOS:2, you want to have a skill guide that's easily accessible.
+I became fed up with wading through clunky menus and pages in order to look up skills, and so I decided to build my own app to use. It's pretty simple: type your search criteria into a box and *bam,* things show up. When playing a game as tough as DOS:2, you want to have a skill guide that's easily accessible. **Skill Checker** is intended for personal use only and is not affiliated with Larian Studios.
 
 ## **Format**
 
@@ -21,7 +21,7 @@ I became fed up with wading through clunky menus and pages in order to look up s
 - **Desc:** "Control the forces of nature so the wind is literally at your party's back. An aura increases you allies' movement speeds while they stay close to you. Sets Favourable Winds Aura for 4 turn(s)."
 - **Cost:** 1 Memory slot
 - **Cooldown:** 6 turns
-- **Requirement:** Aerotheurge 1
+- **Requires:** Aerotheurge 1
 
 ### **MVP**
 
