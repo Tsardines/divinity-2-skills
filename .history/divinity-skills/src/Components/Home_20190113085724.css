@@ -1,0 +1,24 @@
+.home-h1 {
+    background-color: rgb(163, 199, 223);
+}
+
+.intro h2 {
+    padding-top: 1em;
+}
+
+.home-h1 {
+    font-size: 1.75vw;
+    margin: 0 auto;
+    padding-top: 2em;
+    text-transform: uppercase;
+}
+
+.home-form {
+    font-size: 1.5em;
+    margin: 1em 0 1em 0;
+}
+
+.banner {
+    height: 100%;
+    width: 100%;
+}

@@ -29,7 +29,7 @@ class SearchBar extends Component {
 
         return (
             <div>
-                <input type="text" placeholder="skills, categories, keywords" value={value} onChange={this.handleChange} />
+                <input type="text" placeholder="search skills, categories, keywords" value={value} onChange={this.handleChange} />
 
                 <SearchResults
                     value={value}
