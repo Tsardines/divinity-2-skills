@@ -3,6 +3,8 @@ This is a minimalistic skill guide for Divinity Original Sin: 2.
 
 I got fed up with wading through clunky menus and pages in order to look up skills. So I decided to make my own thing. All you have to do is type your search criteria into a box and *bam,* your info shows up. When playing a game as tough as DOS:2, you want to have knowledge that's easily accessible.
 
+**Skill Checker** is not affiliated with [Larian Studios](http://larian.com/) and is not indended for commercial use. For personal use only.
+
 ## **Format**
 
 #### Users will be able to see:
