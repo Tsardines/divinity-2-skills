@@ -39,7 +39,7 @@ export default class Header extends React.Component {
             <Nav className="ml-auto" navbar>
 
             <NavItem>
-              <NavLink href="/">Skill Checker</NavLink>
+              <NavLink href="/">Home</NavLink>
             </NavItem>
 
             {/* <NavItem>
