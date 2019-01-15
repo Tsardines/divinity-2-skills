@@ -3,7 +3,7 @@ This is a minimalistic skill guide for Divinity Original Sin: 2.
 
 I got fed up with wading through clunky menus and pages in order to look up skills. So I decided to make my own thing. All you have to do is type your search criteria into a box and *bam,* your info shows up. When playing a game as tough as DOS:2, you want to have knowledge that's easily accessible.
 
-**Skill Checker** is not affiliated with [Larian Studios](http://larian.com/) and is not indended for commercial use. For personal use only.
+**Skill Checker** is not affiliated with [Larian Studios](http://larian.com/) and is not for commercial use. For personal use only.
 
 ## **Format**
 
@@ -25,13 +25,8 @@ I got fed up with wading through clunky menus and pages in order to look up skil
 - **Cooldown:** 6 turns
 - **Requires:** Aerotheurge 1
 
-### **MVP**
-
-- Main page that shows every skill
-- A search bar on the main page to quickly find skill info.
-- Separate pages that only show skills of those categories (i.e. Geomancer page)
-
-### **Post-MVP**
-
-- Color coding depending on the skill category (i.e. Pyrokinetic = red)
-- Official skill icons
+### **To Do**
+- Convert main page into a two-column layout
+- Add more skill info (duration, skill book location, icons)
+- Incorporate a smaller banner/jumbotron image
+- Adjust media queries for smaller screens
