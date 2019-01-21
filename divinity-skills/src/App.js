@@ -19,8 +19,7 @@ import Scoun from './Components/Skills/Scoun.js';
 import Summ from './Components/Skills/Summ.js';
 import War from './Components/Skills/War.js';
 
-
-/////
+///////////////////
 
 class App extends Component {
   render() {
