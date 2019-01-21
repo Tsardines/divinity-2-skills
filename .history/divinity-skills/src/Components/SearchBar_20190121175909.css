@@ -1,17 +1,13 @@
-.skills-wrapper {
-    background-color: aqua;
-    display: flex;    
-    align-content: stretch;
-    align-items: center;
-    flex-flow: column wrap;
-    justify-content: center;
-}
-
 .skill-section {
-    /* justify-content: center; */
+    display: flex;    
+    flex-direction: row;
+    flex-flow: row wrap;
+    flex-wrap: wrap;
+    justify-content: center;
     margin: 3em 0 3em 0;
     padding-bottom: 1em;
-    /* width: 100%; */
+    text-align: left;
+    width: 100%;
 }
 
 table {

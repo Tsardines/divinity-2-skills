@@ -2,16 +2,18 @@
     background-color: aqua;
     display: flex;    
     align-content: stretch;
-    align-items: center;
     flex-flow: column wrap;
     justify-content: center;
+    margin: 3em 0 3em 0;
+    padding-bottom: 1em;
 }
 
 .skill-section {
-    /* justify-content: center; */
+    background-color: yellowgreen;
+    justify-content: center;
     margin: 3em 0 3em 0;
     padding-bottom: 1em;
-    /* width: 100%; */
+    width: 100%;
 }
 
 table {

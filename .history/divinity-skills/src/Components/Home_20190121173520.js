@@ -2,7 +2,7 @@ import React from 'react';
 
 import SearchBar from './SearchBar.js';
 
-// import banner from './artwork/div-2-art.png';
+import banner from './artwork/div-2-art.png';
 
 import './Home.css';
 

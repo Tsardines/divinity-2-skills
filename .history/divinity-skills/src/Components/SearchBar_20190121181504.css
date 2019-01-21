@@ -8,6 +8,7 @@
 }
 
 .skill-section {
+    background-color: pink;
     /* justify-content: center; */
     margin: 3em 0 3em 0;
     padding-bottom: 1em;
@@ -15,6 +16,7 @@
 }
 
 table {
+    background-color: goldenrod;
     width: 70%;
 }
 

@@ -28,7 +28,7 @@ class SearchBar extends Component {
         const { data, value } = this.state;
 
         return (
-            <div className="skills-wrapper">
+            <div>
                 <input type="text" placeholder="skills, categories, keywords" value={value} onChange={this.handleChange} />
 
                 <SearchResults
