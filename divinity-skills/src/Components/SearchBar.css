@@ -1,10 +1,14 @@
 .skills-wrapper {
-    background-color: aqua;
+    /* background-color: aqua; */
     display: flex;    
     align-content: stretch;
     align-items: center;
     flex-flow: column wrap;
     justify-content: center;
+}
+
+.skills-wrapper > input {
+    width: 25vw;
 }
 
 .skill-section {
@@ -15,7 +19,7 @@
 }
 
 table {
-    width: 70%;
+    width: 40%;
 }
 
 tr {
@@ -47,5 +51,5 @@ td {
     flex-wrap: wrap;
     padding: 1em;
     vertical-align: middle;
-    width: 50%;
+    /* width: 50%; */
 }
