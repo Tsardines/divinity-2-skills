@@ -35,7 +35,7 @@ class SearchBar extends Component {
                     value={value}
                     data={data}
                     renderResults={results => (
-                        <div>
+                        <div class="all-skills-wrap">
                             {results.map(el => (
                                 <div className="skill-section">
                                     <table>
